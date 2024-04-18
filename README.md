@@ -1,4 +1,5 @@
-![GitCitadel logo](https://image.nostr.build/4c7c21f5006c39d910b50daecf1b4366df83bb9ce6f8cb8a7b65a58ae687807f.jpg =150x)
+<img src="https://image.nostr.build/4c7c21f5006c39d910b50daecf1b4366df83bb9ce6f8cb8a7b65a58ae687807f.jpg" width="150">
+
 #### Because we think about git every day.
 
 # GitCitadel project repo

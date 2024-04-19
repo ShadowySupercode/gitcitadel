@@ -6,7 +6,7 @@
 
 Welcome to the abstract repo for our GitCitadel project. This is the repo we're using to communicate about our project team and products.
 
-All issues and bug reports for any product should be submitted to our [GitWorkshop page](https://gitworkshop.dev/repo/gitcitadel) We will handle first-level support there. Please make sure to mention which product you are having the issue with, so that we can channel it to the appropriate product team. 
+All issues and bug reports for any product should be submitted to our [GitWorkshop page](https://gitworkshop.dev/repo/gitcitadel). We will handle first-level support there. Please make sure to mention which product you are having the issue with, so that we can channel it to the appropriate product team. 
 (Thank you, [DanConway](https://njump.me/nprofile1qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yhxummnw3ezucnpdejz7qgwwaehxw309ahx7uewd3hkctcqyzsq3hh327t0h2dq6matqn5064cgj2zanl2stkj6s0lg4t2h5dty6ek49a0), for hosting us!).
 
 ## About Us
@@ -31,13 +31,13 @@ The development teams for individual products will be listed in the ReadMe of th
 
 ## Products
 
-Here is a table listing all of the project repositories and which external libraries they utilize or have used as a reference.
+Here is a table listing all of the project's product repositories and which external libraries they utilize or have used as a reference.
 
-(Please note that we have turned off "issues" in the GitHub settings of our products, as we are a Nostr-forward project team and will be handling our issues there.)
+(Please note that we have turned off "issues" in the GitHub settings of our project's repos, as we are a Nostr-forward project team and will be handling our issues there.)
 
 | **Product** | **Description** | **Libraries**   |
 |-------------|-----------------|---------------------------------|
-| [Gitcitadel](https://github.com/ShadowySupercode/gitcitadel-web)            | The project webpage |N/A |
+| [Gitcitadel](https://github.com/ShadowySupercode/gitcitadel-web)            | The project webpage |  |
 | [GC Fourth Estate](https://github.com/ShadowySupercode/gc-fourthestate)            | Publishing and reading client          | [Indextr](https://github.com/limina1/indextr-client)  |
 | [GC Alexandria](https://github.com/ShadowySupercode/gc-alexandria)           | Library relay for books, magazines, and articles   | [Upload Files](https://github.com/limina1/upload_files) |
 | [GC Ulysses](https://github.com/ShadowySupercode/gc-ulysses)            | Relay navigator and rating page                |   |

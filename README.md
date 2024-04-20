@@ -42,6 +42,7 @@ Here is a table listing all of the project's product repositories and which exte
 | [GC Alexandria](https://github.com/ShadowySupercode/gc-alexandria)           | Library relay for books, magazines, and articles   | [Upload Files](https://github.com/limina1/upload_files) |
 | [GC Ulysses](https://github.com/ShadowySupercode/gc-ulysses)            | Relay navigator and rating page                |   |
 | [GC Tradewinds](https://github.com/ShadowySupercode/gc-tradewinds)            | Nostr exploration, filtering, and querying API  | [Friendstr](https://github.com/captain-stacks/friendstr)<br><br>[Nostr Graveyard](https://github.com/captain-stacks/nostr-graveyard)  |
+| [GC DAM](https://github.com/ShadowySupercode/gc-dam)            | Another DAM client  |  |
 | [GitRepublic](https://github.com/ShadowySupercode/gitrepublic)           | GitHub clone project. <br>(This will eventually be where we will be handling issues and proposals, but it will be compatible with the current tool.) | |
 | [GitRepulic Core](https://github.com/ShadowySupercode/gitrepublic-core)            | Core libraries for the basic GitRepublic functions, based upon our C/C++ SDK  | [NostrSDK TSV](https://github.com/buttercat1791/NostrSDK)<br><br>[NoScrypt](https://github.com/VnUgE/noscrypt) |
 | [GitRepublic CLI](https://github.com/ShadowySupercode/gitrepublic-cli)   | Simple CLI for managing and cooperating over git repos   |   |

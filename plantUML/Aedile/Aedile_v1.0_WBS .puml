@@ -8,7 +8,7 @@ title Aedile NDK v 1.0 WBS
 ** v 0.1.0 Core events
 *** NIP-01 Basic protocol flow
 **** kind 00 profile event
-*** NIP-04 Direct Message
+*** NIP-04 Communication
 **** Encryption
 **** Decryption
 *** NIP-10 Basic note kind

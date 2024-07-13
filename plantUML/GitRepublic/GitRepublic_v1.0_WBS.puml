@@ -1,0 +1,42 @@
+@startwbs GitRepublic_v1.0_WBS
+
+skinparam dpi 300
+title GitRepublic Desktop App v 1.0 WBS
+
+* GitRepublic v 1.0
+
+** v 0.1.0 Aedile PoC
+*** login with remote signer
+*** manage relays
+*** write kind 01 note
+*** notifications and profile
+
+** v 0.2.0 git core
+*** git repo management
+**** add or create git repo
+**** clone git repo
+*** git commit management
+**** branches
+**** commits
+**** status
+**** add
+**** fetch
+**** pull
+**** push
+
+** v 0.3.0 ngit core
+*** ngit repo management
+**** initialize and publish repo
+**** view published repos
+**** repo viewer
+*** ngit commit management
+**** fetch patch
+**** pull patch
+**** push patch
+**** ngit proposals
+**** submit proposals
+**** view proposals
+**** proposal viewer
+**** pull patch
+
+@endwbs

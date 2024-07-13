@@ -1,0 +1,21 @@
+@startwbs Aedile_v3.0_WBS
+
+skinparam dpi 300
+title Aedile NDK v 3.0 WBS
+
+* Aedile v 3.0
+
+** v 2.1.0 Working as a team
+*** NIP-02 Follow List
+*** NIP-09 Event deletion
+*** NIP-29 Relay-based Groups
+*** NIP-72 Moderated Communities
+
+** v 2.2.0 External connections
+*** NIP-46 Nostr Connect
+*** NIP-47 Wallet Connect
+*** NIP-57 Lightning Zaps
+*** NIP-75 Zap Goals
+*** NIP-98 HTTP Auth
+
+@endwbs

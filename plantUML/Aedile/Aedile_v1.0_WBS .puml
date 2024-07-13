@@ -1,0 +1,33 @@
+@startwbs Aedile_v1.0_WBS
+
+skinparam dpi 300
+title Aedile NDK v 1.0 WBS
+
+* Aedile v 1.0
+
+** v 0.1.0 Core events
+*** NIP-01 Basic protocol flow
+**** kind 00 profile event
+*** NIP-04 Direct Message
+**** Encryption
+**** Decryption
+*** NIP-10 Basic note kind
+**** e and p tags
+**** kind 01 notes
+*** NIP-46 Nostr Connect
+*** NIP-06 Basic key derivation from mnemonic seed phrase
+
+** v 0.2.0 Git core
+*** NIP-34 git stuff
+**** kind 30617 repo events
+**** patches / proposals
+***** kind 1617 patch
+
+** v 0.3.0 Git social
+*** NIP-34 git stuff
+**** kind 1621 issues
+**** kind 1622 replies
+**** kinds 1630-1633 status
+**** NIP-84 Highlights
+
+@endwbs

@@ -1,0 +1,25 @@
+@startwbs GitRepublic_v3.0_WBS
+
+skinparam dpi 300
+title GitRepublic Desktop App v 3.0 WBS
+
+* GitRepublic v 3.0
+
+** v 2.1.0 Externals
+*** zaps
+*** wallets
+*** REST API
+
+** v 2.2.0 GitRepublic projects
+*** groups
+*** communities
+*** feed customization
+
+** v 2.3.0 GitRepublic project management
+*** Kanban issues board
+*** definition of project team
+**** owners
+**** collaborators
+**** testers
+
+@endwbs

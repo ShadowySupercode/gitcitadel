@@ -1,0 +1,113 @@
+# The Holy Bible: Introduction
+
+## Information to this edition
+
+Translated from the Latin Vulgate
+
+Diligently Compared with the Hebrew, Greek, and Other Editions in
+Divers Languages
+
+THE OLD TESTAMENT
+First Published by the English College at Douay
+A.D. 1609 & 1610
+
+and
+
+THE NEW TESTAMENT
+First Published by the English College at Rheims
+A.D. 1582
+
+With Annotations
+
+The Whole Revised and Diligently Compared with the Latin Vulgate by
+Bishop Richard Challoner A.D. 1749-1752
+
+## Contents
+
+### The Old Testament
+- The Book of Genesis
+- The Book of Exodus
+- The Book of Leviticus
+- The Book of Numbers
+- The Book of Deuteronomy
+- The Book of Josue
+- The Book of Judges
+- The Book of Ruth
+- The First Book of Samuel, otherwise called the First Book of Kings
+- The Second Book of Samuel, otherwise called the Second Book of Kings
+- The Third Book of Kings
+- The Fourth Book of Kings
+- The First Book of Paralipomenon
+- The Second Book of Paralipomenon
+- The First Book of Esdras
+- The Book of Nehemias, which is called the Second of Esdras
+- The Book of Tobias
+- The Book of Judith
+- The Book of Esther
+- The Book of Job
+- The Book of Psalms
+- The Book of Proverbs
+- Ecclesiastes
+- Solomon’s Canticle of Canticles
+- The Book of Wisdom
+- Ecclesiasticus
+- The Prophecy of Isaias
+- The Prophecy of Jeremias
+- The Lamentations of Jeremias
+- The Prophecy of Baruch
+- The Prophecy of Ezechiel
+- The Prophecy of Daniel
+- The Prophecy of Osee
+- The Prophecy of Joel
+- The Prophecy of Amos
+- The Prophecy of Abdias
+- The Prophecy of Jonas
+- The Prophecy of Micheas
+- The Prophecy of Nahum
+- The Prophecy of Habacuc
+- The Prophecy of Sophonias
+- The Prophecy of Aggeus
+- The Prophecy of Zacharias
+- The Prophecy of Malachias
+- The First Book of Machabees
+- The Second Book of Machabees
+
+### The New Testament of our Lord and Saviour Jesus Christ
+- The Holy Gospel of Jesus Christ According to St. Matthew
+- The Holy Gospel of Jesus Christ According to St. Mark
+- The Holy Gospel of Jesus Christ According to St. Luke
+- The Holy Gospel of Jesus Christ  According to St. John
+- The Acts of The Apostles
+- The Epistle of St. Paul The Apostle to The Romans
+- The First Epistle of St. Paul to the Corinthians
+- The Second Epistle of St. Paul to the Corinthians
+- The Epistle of St. Paul to the Galatians
+- The Epistle of St. Paul to the Ephesians
+- The Epistle of St. Paul to the Philippians
+- The Epistle of St. Paul to the Colossians
+- The First Epistle of St. Paul to the Thessalonians
+- The Second Epistle of St. Paul to the Thessalonians
+- The First Epistle of St. Paul to Timothy
+- The Second Epistle of St. Paul to Timothy
+- The Epistle of St. Paul to Titus
+- The Epistle of St. Paul to Philemon
+- The Epistle of St. Paul to the Hebrews
+- The Catholic Epistle of St. James the Apostle
+- The First Epistle of St. Peter the Apostle
+- The Second Epistle of St. Peter the Apostle
+- The First Epistle of St. John the Apostle
+- The Second Epistle of St. John the Apostle
+- The Third Epistle of St. John the Apostle
+- The Catholic Epistle of St. Jude the Apostle
+- The Apocalypse of St. John the Apostle
+
+### Appendices
+- Additional Books
+- The Prayer of Manasses King of Ivda, when he was held captive in Babylon
+- The Third Booke of Esdras
+- The Fovrth Booke of Esdras
+- The Prophecie of Abdias
+- The Catholike Epistle of Ivde the Apostle
+- Supplemental Material
+- The Preface to the Reader
+- Hard Vvordes Explicated

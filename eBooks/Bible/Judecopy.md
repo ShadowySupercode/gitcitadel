@@ -1,0 +1,166 @@
+THE CATHOLIC EPISTLE OF ST. JUDE
+
+
+St. Jude, who wrote this Epistle, was one of the twelve Apostles and
+brother to St. James the Less. The time it was written is uncertain:
+only it may be inferred from verse 17 that few or none of the Apostles
+were then living, except St. John. He inveighs against the heresies and
+wicked practices of the Simonians, Nicolaites, and Gnostics, etc.,
+describing them and their leaders by strong epithets and similes, He
+exhorts the faithful to contend earnestly for the faith first delivered
+to them and to beware of heretics.
+
+
+Jude Chapter 1
+
+He exhorts them to stand to the faith first delivered to them and to
+beware of heretics.
+
+1:1. Jude, the servant of Jesus Christ and brother of James: to them
+that are beloved in God the Father and preserved in Jesus Christ and
+called.
+
+1:2. Mercy unto you and peace: and charity be fulfilled.
+
+1:3. Dearly beloved, taking all care to write unto you concerning your
+common salvation, I was under a necessity to write unto you: to beseech
+you to contend earnestly for the faith once delivered to the saints.
+
+1:4. For certain men are secretly entered in (who were written of long
+ago unto this judgment), ungodly men, turning the grace of our Lord God
+into riotousness and denying the only sovereign Ruler and our Lord
+Jesus Christ.
+
+1:5. I will therefore admonish you, though ye once knew all things,
+that Jesus, having saved the people out of the land of Egypt, did
+afterwards destroy them that believed not.
+
+1:6. And the angels who kept not their principality but forsook their
+own habitation, he hath reserved under darkness in everlasting chains,
+unto the judgment of the great day.
+
+Principality.... That is, the state in which they were first created,
+their original dignity.
+
+1:7. As Sodom and Gomorrha and the neighbouring cities, in like manner,
+having given themselves to fornication and going after other flesh,
+were made an example, suffering the punishment of eternal fire.
+
+1:8. In like manner, these men also defile the flesh and despise
+dominion and blaspheme majesty.
+
+Blaspheme majesty.... Speak evil of them that are in dignity; and even
+utter blasphemies against the divine majesty.
+
+1:9. When Michael the archangel, disputing with the devil, contended
+about the body of Moses, he durst not bring against him the judgment of
+railing speech, but said: The Lord command thee.
+
+Contended about the body, etc.... This contention, which is no where
+else mentioned in holy writ, was originally known by revelation, and
+transmitted by tradition. It is thought the occasion of it was, that
+the devil would have had the body buried in such a place and manner, as
+to be worshipped by the Jews with divine honours. Command thee.... or
+rebuke thee.
+
+1:10. But these men blaspheme whatever things they know not: and what
+things soever they naturally know, like dumb beasts, in these they are
+corrupted.
+
+1:11. Woe unto them! For they have gone in the way of Cain: and after
+the error of Balaam they have for reward poured out themselves and have
+perished in the contradiction of Core.
+
+Gone in the way, etc.... Heretics follow the way of Cain, by murdering
+the souls of their brethren; the way of Balaam, by putting a scandal
+before the people of God, for their own private ends; and the way of
+Core or Korah, by their opposition to the church governors of divine
+appointment.
+
+1:12. These are spots in their banquets, feasting together without
+fear, feeding themselves: clouds without water, which are carried about
+by winds: trees of the autumn, unfruitful, twice dead, plucked up by
+the roots:
+
+1:13. Raging waves of the sea, foaming out their own confusion:
+wandering stars, to whom the storm of darkness is reserved for ever.
+
+1:14. Now of these Enoch also, the seventh from Adam, prophesied,
+saying: Behold, the Lord cometh with thousands of his saints:
+
+Prophesied.... This prophecy was either known by tradition, or from
+some book that is since lost.
+
+1:15. To execute judgment upon all and to reprove all the ungodly for
+all the works of their ungodliness, whereby they have done ungodly: and
+for all the hard things which ungodly sinners have spoken against God.
+
+1:16. These are murmurers, full of complaints, walking according to
+their own desires: and their mouth speaketh proud things, admiring
+persons, for gain’s sake.
+
+1:17. But you, my dearly beloved, be mindful of the words which have
+been spoken before by the apostles of our Lord Jesus Christ:
+
+But you, my dearly beloved, be mindful, etc.... He now exhorts the
+faithful to remain steadfast in the belief and practice of what they
+had heard from the apostles, who had also foretold that in aftertimes
+(lit. in the last time) there should be false teachers, scoffing and
+ridiculing all revealed truths, abandoning themselves to their passions
+and lusts; who separate themselves from the Catholic communion by
+heresies and schisms. Sensual men.... carried away and enslaved by the
+pleasures of the senses.
+
+1:18. Who told you that in the last time there should come mockers,
+walking according to their own desires in ungodlinesses.
+
+1:19. These are they who separate themselves, sensual men, having not
+the Spirit.
+
+1:20. But you, my beloved, building yourselves upon your most holy
+faith, praying in the Holy Ghost,
+
+1:21. Keep yourselves in the love of God, waiting for the mercy of our
+Lord Jesus Christ, unto life everlasting.
+
+Building yourselves upon your most holy faith.... Raising by your
+actions, a spiritual building, founded, 1st, upon faith; 2d, on the
+love of God; 3d, upon hope, whilst you are waiting for the mercies of
+God, and the reward of eternal life; 4th, joined with the great duty of
+prayer.
+
+1:22. And some indeed reprove, being judged:
+
+1:23. But others save, pulling them out of the fire. And on others have
+mercy, in fear, hating also the spotted garment which is carnal.
+
+And some indeed reprove being judged.... He gives them another
+instruction to practice charity in endeavouring to convert their
+neighbour, where they will meet with three sorts of persons: 1st, With
+persons obstinate in their errors and sins; these may be said to be
+already judged and condemned; they are to be sharply reprehended,
+reproved, and if possible convinced of their error. 2d, As to others
+you must endeavour to save them, by pulling them, as it were, out of
+the fire, from the ruin they stand in great danger of. 3d, You must
+have mercy on others in fear, when you see them through ignorance of
+frailty, in danger of being drawn into the snares of these heretics;
+with these you must deal more gently and mildly, with a charitable
+compassion, hating always, and teaching others to hate the carnal
+garment which is spotted, their sensual and corrupt manners, that
+defile both the soul and body.
+
+1:24. Now to him who is able to preserve you without sin and to present
+you spotless before the presence of his glory with exceeding joy, in
+the coming of our Lord Jesus Christ:
+
+1:25. To the only God our Saviour through Jesus Christ our Lord, be
+glory and magnificence, empire and power, before all ages, and now, and
+for all ages of ages. Amen.
+
+Now to him, etc.... St. Jude concludes his epistle with this doxology
+of praising God, and praying to the only God our Saviour, which may
+either signify God the Father, or God as equally agreeing to all the
+three persons, who are equally the cause of Christ’s incarnation, and
+man’s salvation, through Jesus Christ our Lord, who, being God from
+eternity, took upon him our human nature, that he might become our
+Redeemer.

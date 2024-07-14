@@ -1,4 +1,4 @@
-![GitCitadel logo](https://i.nostr.build/Z5adM.png "GitCitadel logo")
+![GitCitadel logo](https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/GitCitadel_Logo.png "GitCitadel logo")
 
 _Because we think about git every day._
 
@@ -10,6 +10,6 @@ All issues and bug reports for any product should be submitted to our [GitWorksh
 
 ## About Us
 
-Project documentation is available on the [wiki page](https://next.nostrudel.ninja/#/wiki/page/naddr1qvzqqqrcvgpzpprwhau6p2ypxf6we9e8fyrzrt2z8ut28er56l7kde4f30lyuwdyqq8kw6t5vd5hgctyv4kz6er0vdes9d57fd): nostr:naddr1qvzqqqrcvgpzpprwhau6p2ypxf6we9e8fyrzrt2z8ut28er56l7kde4f30lyuwdyqq8kw6t5vd5hgctyv4kz6er0vdes9d57fd
+Project documentation is available on the [GitCitadel wiki page](https://next.nostrudel.ninja/#/wiki/topic/gitcitadel).
 
 The project repo address is nostr:naddr1qq9xw6t5vd5hgctyv4kqz9nhwden5te0wfjkccte9ehx7um5wghxyctwvspzplfq3m5v3u5r0q9f255fdeyz8nyac6lagssx8zy4wugxjs8ajf7pqvzqqqrhnycza0vr

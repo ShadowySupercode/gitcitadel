@@ -5,7 +5,7 @@ title GitCitadel Roadmap
 
 ' Gantt chart settings
 Project starts 2023-12-13
-today is 2024-07-13 and is colored in #AAF
+today is 2024-07-15 and is colored in #AAF
 footer Today is marked using a gray verticle line
 
 ' Project vacations
@@ -37,23 +37,33 @@ projectscale monthly zoom 3
 [GitCitadel internet site and remote server] as [GC3] is colored in MediumPurple
     [GC3] starts 2024-02-17
     [GC3] requires 4 weeks
-    [GC3] is 20% completed
+    [GC3] is 40% completed
     [GC3] links to [[https://gitcitadel.eu/]]
 [GitCitadel wss://thecitadel.nostr1.com OtherStuff Relay] as [GC4] is colored in MediumPurple
     [GC4] starts 2024-05-27
     [GC4] requires 2 days
     [GC4] is 100% completed
     [GC4] links to [[https://next.nostrudel.ninja/#/wiki/topic/gitcitadel-relay]]
-[GitCitadel Jenkins server] as [GC5] is colored in MediumPurple
+[GitCitadel Jenkins instance] as [GC5] is colored in MediumPurple
     [GC5] starts 2024-05-01
     [GC5] ends 2024-06-10
     [GC5] is 100% completed
     [GC5] links to [[https://jenkins.gitcitadel.eu]]
-[GitCitadel Gitea server] as [GC6] is colored in MediumPurple
+[GitCitadel Gitea instance] as [GC6] is colored in MediumPurple
     [GC6] starts 2024-06-06
     [GC6] requires 2 days
     [GC6] is 80% completed
     [GC6] links to [[https://gitea.gitcitadel.eu/]]
+[GitCitadel Wiki instance] as [GC7] is colored in MediumPurple
+    [GC7] starts 2024-07-15
+    [GC7] requires 2 days
+    [GC7] is 80% completed
+    [GC7] links to [[https://wiki.gitcitadel.eu/]]
+[GitCitadel Alexandria instance] as [GC8] is colored in MediumPurple
+    [GC8] starts 2024-07-15
+    [GC8] requires 2 days
+    [GC8] is 80% completed
+    [GC8] links to [[https://alexandria.gitcitadel.eu/]]
 
 ' Alexandria product tasks
 [NKBIP-01 project definition and indextr and uploader prototypes] as [A1] is colored in Tan

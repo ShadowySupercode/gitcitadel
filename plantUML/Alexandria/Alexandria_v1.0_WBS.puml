@@ -4,7 +4,7 @@ skinparam dpi 300
 title Alexandria v 1.0 WBS
 
 * Alexandria v 1.0
-** v 0.1.0
+** v 0.1.0 Core features
 *** Convert indextr client to new stylesheet
 **** Tailwind theme
 **** Svelte framework
@@ -13,13 +13,18 @@ title Alexandria v 1.0 WBS
 *** Display global article feed
 *** Login with browser extension
 *** Upload articles
-** v 0.2.0
+*** eBook format with 1 30040 to n 30041s
+** v 0.2.0 Article management
 *** Filter feeds by following/global
 *** Remix articles
 *** Comment on articles
 *** Highlighter comments
-** v 0.3.0
+** v 0.3.0 Extended features
 *** Embedded links to other articles
 *** Graph visualization
+** v 0.4.0 Socializing
+*** Communities and groups
+*** Scheduling
+*** Teleconference with chat
 
 @endwbs

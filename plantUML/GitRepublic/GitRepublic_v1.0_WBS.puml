@@ -15,6 +15,7 @@ title GitRepublic Desktop App v 1.0 WBS
 *** git repo management
 **** add or create git repo
 **** clone git repo
+**** local repo list with ngit info
 *** git commit management
 **** branches
 **** commits
@@ -23,11 +24,11 @@ title GitRepublic Desktop App v 1.0 WBS
 **** fetch
 **** pull
 **** push
+*** simple code editor
 
 ** v 0.3.0 ngit core
 *** ngit repo management
 **** initialize and publish repo
-**** view published repos
 **** repo viewer
 *** ngit commit management
 **** fetch patch

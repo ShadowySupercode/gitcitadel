@@ -9,11 +9,21 @@ title GitRepublic Desktop App v 3.0 WBS
 *** zaps
 *** wallets
 *** REST API
+*** elastic search
+*** GC-Tradewinds integration
+*** GC-Ulysses integration
+*** GC-TheFourthEstate integration
+*** communities
 
 ** v 2.2.0 GitRepublic projects
 *** groups
-*** communities
 *** feed customization
+*** group wiki
+*** group knowledge base
+*** private repos
+*** repo ratings
+*** repo badges
+*** zap goals for repos and feature branches
 
 ** v 2.3.0 GitRepublic project management
 *** Kanban issues board
@@ -21,5 +31,7 @@ title GitRepublic Desktop App v 3.0 WBS
 **** owners
 **** collaborators
 **** testers
+*** scheduling
+*** teleconference
 
 @endwbs

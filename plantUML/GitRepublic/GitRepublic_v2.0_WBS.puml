@@ -12,6 +12,8 @@ title GitRepublic Desktop App v 2.0 WBS
 **** issue viewer
 *** proposal highlights
 *** issue and proposal replies
+*** view all published repos
+*** search published repos
 
 ** v 1.2.0 Aedile note functionality 
 *** write article
@@ -25,8 +27,9 @@ title GitRepublic Desktop App v 2.0 WBS
 **** boost
 **** reply
 
-** v 1.3.0 GitRepublic basic
+** v 1.3.0 GitRepublic editing
 *** About menu
+**** GC-Alexandria integration
 **** profile page
 **** notifications
 **** settings
@@ -35,5 +38,9 @@ title GitRepublic Desktop App v 2.0 WBS
 **** cut/copy/paste
 **** select all
 **** search and replace
+*** Advanced code editor
+**** smart editing
+**** markup and language formatting
+**** support for Aedile
 
 @endwbs

@@ -57,4 +57,7 @@ The repo address is:
 nostr:naddr1qq9yzmr90pskuerjd9sszrthwden5te0dehhxtnvdakqyg8ayz8w3j8jsduq492j39hysg7vnhrtl4zzqcugj4m3q62qlkf8cypsgqqqw7vszahgpn
 
 ### Software releases
+
+Please see the roadmap in the [[GitCitadel-docs]] for the estimated delivery of the next version.
+
 ![Alexandria v1.0 Work Breakdown Structure](https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Alexandria/Alexandria_v1.png)

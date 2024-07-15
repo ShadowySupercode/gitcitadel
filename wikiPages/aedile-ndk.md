@@ -15,6 +15,9 @@ The aim of the Aedile SDK is in the spirit of that ancient office:
 - Open up Nostr development by taking care of the basics so developers can focus on solving problems, rather than reimplementing the protocol.
 
 ## Software releases
+
+Please see the roadmap in the [[GitCitadel-docs]] for the estimated delivery of the next version.
+
 ![Aedile v1.0 Work Breakdown Structure](https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Aedile/Aedile_v1.png)
 ![Aedile v2.0 Work Breakdown Structure](https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Aedile/Aedile_v2.png)
 ![Aedile v3.0 Work Breakdown Structure](https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Aedile/Aedile_v3.png)

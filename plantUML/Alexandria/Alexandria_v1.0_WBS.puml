@@ -15,11 +15,12 @@ title Alexandria v 1.0 WBS
 *** Upload articles
 *** eBook format with 1 30040 to n 30041s
 ** v 0.2.0 Article management
-*** Filter feeds by following/global
 *** Remix articles
 *** Comment on articles
 *** Highlighter comments
+*** Edit and forking of articles
 ** v 0.3.0 Extended features
+*** Filter feeds by following/global
 *** Embedded links to other articles
 *** Graph visualization
 ** v 0.4.0 Socializing

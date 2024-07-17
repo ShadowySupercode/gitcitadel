@@ -6,15 +6,16 @@
 This operating agreement of  Gitcitadel LLC, effective 01 September 2024, is adopted by the members whose signatures appear at the end of this agreement (the “Agreement”).
 
 ### Formation
-This limited liability company (LLC) was formed by filing Articles of Organization, a Certificate of Formation or a similar organizational document with the LLC filing office of the state of Texas on 31.08.2024.  A copy of this organizational document has been placed in the LLC's records book.
+This limited liability company (LLC) was formed by filing a Certificate of Formation with the LLC filing office of the state of Texas on 31.08.2024.  A copy of this organizational document has been placed in the LLC's records book.
 
 ### Name
 The formal name of this LLC is as stated above. However, this LLC may do business under a different name by complying with the state's fictitious or assumed business name statutes and procedures.
 
 ### Registered Office and Agent
 The registered office of this LLC and the registered agent at this address are as follows: 
-Michael J
-Street Address
+
+Agent Name
+Street Address, TX
 
 The registered office and agent may be changed from time to time as the members may see fit, by filing a change of registered agent or office form with the state LLC filing office. It will not be necessary to amend this provision of the operating agreement if and when such a change is made.
 
@@ -43,18 +44,19 @@ This LLC shall be managed exclusively by all of its members.
 A member's percentage interest in this LLC shall be computed as a fraction, the numerator of which is the total of a member's capital account and the denominator of which is the total of all capital accounts of all members. This fraction shall be expressed in this agreement as a percentage, which shall be called each member's "percentage interest" in this LLC.
 
 ### Membership Voting
-Except as otherwise may be required by the Articles of Organization, Certificate of Formation or a similar organizational document, other provisions of this operating agreement, or under the laws of this state, each member shall vote on any matter submitted to the membership for approval in proportion to the member's percentage interest in this LLC. Further, unless defined otherwise for a particular provision of this operating agreement, the phrase "majority of members" means the vote of members whose combined votes equal more than 60% of the votes of all members in this LLC.
+Except as otherwise may be required by the Certificate of Formation, other provisions of this operating agreement, or under the laws of this state, each member shall vote on any matter submitted to the membership for approval in proportion to the member's percentage interest in this LLC. Further, unless defined otherwise for a particular provision of this operating agreement, the phrase "majority of members" means the vote of members whose combined votes equal more than 60% of the votes of all members in this LLC.
 
 ### Compensation
 Members shall not be paid as members of the LLC for performing any duties associated with such membership, including management of the LLC. Members may be paid, however, for any services rendered in any other capacity for the LLC, whether as officers, employees, independent contractors or otherwise. 
 
 ### Members' Meetings
-The LLC shall not provide for regular members' meetings.
+The LLC shall provide for an annual members' meeting, within 90 days of rhe end of the business year, which may take place online or in person.
+The LLC shall provide for a quarterly officers' meeting, which may take place online or in person.
 
 ### Membership Certificates
-This LLC shall be authorized to obtain and issue certificates representing or certifying membership interests in this LLC. Each certificate shall show the name of the LLC, the name of the member, and state that the person named is a member of the LLC and is entitled to all the rights granted members of the LLC under the Articles of Organization, Certificate of Formation or a similar organizational document, this operating agreement and provisions of law. 
+This LLC shall be authorized to obtain and issue certificates representing or certifying membership interests in this LLC. Each certificate shall show the name of the LLC, the name of the member, and state that the person named is a member of the LLC and is entitled to all the rights granted members of the LLC under the Certificate of Formation, this operating agreement and provisions of law. 
 
-Each membership certificate shall be consecutively numbered and signed by one or more officers of this LLC. The certificates shall include any additional information considered appropriate for inclusion by the members on membership certificates. The records book of this LLC shall contain a list of the names and addresses of all persons to whom certificates have been issued, show the date of issuance of each certificate, and record the date of all cancellations or transfers of membership certificates.
+Each membership certificate shall be consecutively numbered and signed by the acting Secretary of this LLC. The certificates shall include any additional information considered appropriate for inclusion by the members on membership certificates. The records book of this LLC shall contain a list of the names and addresses of all persons to whom certificates have been issued, show the date of issuance of each certificate, and record the date of all cancellations or transfers of membership certificates.
 
 ## Tax and Financial Provisions
 
@@ -71,7 +73,7 @@ If this LLC is required under Internal Revenue Code provisions or regulations, i
 Within 60 days after the end of each tax year of the LLC, a copy of the LLC's federal income tax returns for the preceding tax year shall be mailed or otherwise provided to each member of the LLC, together with any additional information and forms necessary for each member to complete his or her individual state and federal income tax returns. If this LLC is classified as a partnership for income tax purposes, this additional information shall include a federal (and, if applicable, state) Form K-1 (Form 1065 - Partner's Share of Income, Credits, Deductions) or equivalent income tax reporting form. This additional information shall also include a financial report, which shall include a balance sheet and profit and loss statement for the prior tax year of the LLC.  
 
 ### Bank Accounts
-The LLC shall designate one or more banks or other institutions for the deposit of the funds of the LLC, and shall establish savings, checking, investment and other such accounts as are reasonable and necessary for its business and investments.  One or more members of the LLC shall be designated with the consent of all members to deposit and withdraw funds of the LLC, and to direct the investment of funds from, into and among such accounts. The funds of the LLC, however and wherever deposited or invested, shall not be commingled with the personal funds of any members of the LLC.
+The LLC shall designate one or more banks or other institutions for the deposit of the funds of the LLC, and shall establish savings, checking, investment and other such accounts as are reasonable and necessary for its business and investments.  The Treasurer and/or manager of the LLC shall be designated with the consent of all members to deposit and withdraw funds of the LLC, and to direct the investment of funds from, into and among such accounts. The funds of the LLC, however and wherever deposited or invested, shall not be commingled with the personal funds of any members of the LLC.
 
 ### Bitcoin Wallet
 The LLC shall designate one or more Bitcoin addresses for the receival and disbursal of LLC funds. That address and the balance shall be listed on the annual finance report.
@@ -82,11 +84,11 @@ All personal and real property of this LLC shall be held in the name of the LLC,
 ## Capital Provisions
 
 ### Capital Contributions by Members
-Members shall make the following contributions of cash, property or services as shown next to each member's name below. Unless otherwise noted, cash and property described below shall be paid or delivered to the LLC on or by 15.07.
+Members shall make the following contributions of cash, property or services as shown next to each member's name below. Unless otherwise noted, cash and property described below shall be paid or delivered to the LLC on or by 15.08.2024.
 The fair market values of items of property or services as agreed between the LLC and the contributing member are also shown below. The percentage interest in the LLC that each member shall receive in return for his or her capital contribution is also indicated for each member.
 
 ### Percentage Interest for Official Duties
-The company has 100% percentage interest possible. Officers receive 5% for each office fulfilled for at least 9 months of a particular calendar year. The remaining 75% is distributed below, with any remainder of percentage remaining in the company.
+The company has 100% percentage interest possible. Officers receive 5% for each office fulfilled for at least 9 months of a particular calendar year. The entire remaining 75% is distributed below.
 
 | *Name and Address* | *Contribution* | *% Interest* |
 | ----- | ----- | ----- |
@@ -120,6 +122,9 @@ Members shall not be allowed to withdraw any part of their capital contributions
 ### Allocations of Profits and Losses
 No member shall be given priority or preference with respect to other members in obtaining a return of capital contributions, distributions or allocations of the income, gains, losses, deductions, credits or other items of the LLC.  The profits and losses of the LLC, and all items of its income, gain, loss, deduction and credit shall be allocated to members according to each member's percentage interest in this LLC.
 
+### Tax Distribution Clause
+The LLC will yearly distribute at least enough income to cover all members' tax liability from allocated annual income, or 40% of income (whichever is higher).
+
 ### Allocation and Distribution of Cash to Members
 Cash from LLC business operations, as well as cash from a sale or other disposition of LLC capital assets, may be distributed from time to time to members in accordance with each member's percentage interest in the LLC, as may be decided by 60% of the members.
 
@@ -150,13 +155,13 @@ member, except that within 90 days of the happening of any of these events, all 
 ## General Provisions
 
 ### Officers
-The LLC may designate officers, such as a President, Secretary and Treasurer. Persons who fill these positions need not be members of the LLC. Such positions may be compensated or non-compensated according to the nature and extent of the services rendered for the LLC as a part of the duties of each office. Ministerial services only as a part of any officer position will normally not be compensated, such as the
+The LLC may designate officers, such as a President, Vice-President, Secretary and Treasurer. Persons who fill these positions must be members of the LLC. Such positions may be compensated or non-compensated according to the nature and extent of the services rendered for the LLC as a part of the duties of each office. Ministerial services only as a part of any officer position will normally not be compensated, such as the
 performance of officer duties specified in this agreement, but any officer may be reimbursed by the LLC for out-of-pocket expenses paid by the officer in carrying out the duties of his or her office.
 
 ### Records
-The LLC shall keep at its principal business address a copy of all proceedings of membership meetings, as well as books of account of the LLC's financial transactions. A list of the names and addresses of the current membership of the LLC also shall be maintained at this address, with notations on any transfers of members' interests to nonmembers or persons being admitted into membership in the LLC.
+The LLC shall keep at its principal business address a copy of all proceedings of membership meetings, officer meetings, business plans, financial reports, as well as books of account of the LLC's financial transactions. A list of the names and addresses of the current membership of the LLC also shall be maintained at this address, with notations on any transfers of members' interests to nonmembers or persons being admitted into membership in the LLC.
 
-Copies of the LLC's Articles of Organization, Certificate of Formation or a similar organizational document, a signed copy of this operating agreement, and the LLC's tax returns for the preceding three tax years shall be kept at the principal business address of the LLC. 
+Copies of the LLC's Certificate of Formation, a signed copy of this operating agreement, the current Business Plan, and the LLC's tax returns for the preceding three tax years shall be kept at the principal business address of the LLC. 
 
 A statement also shall be kept at this address containing any of the following information that is applicable to this LLC:
 * the amount of cash or a description and value of property contributed or agreed to be contributed as capital to the LLC by each member; 

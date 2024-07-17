@@ -82,7 +82,6 @@ Texas dollar-denominated bank account and multi-signature Bitcoin wallet. It is 
 * Officers are not employees.
 * One person can occupy more than one office.
 * Officers must be members, but not all members must be officers
-* Office holders receive 5 company shares, without monetary cost, out of 100 potential shares.
 
 | *Office* | *Responsibilities* | *Names* |
 | ----- | ----- | ----- |

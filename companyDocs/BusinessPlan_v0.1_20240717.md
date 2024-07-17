@@ -67,6 +67,7 @@ According to the GitCitadel Operating Agreement
 ### Permits
 * Certificate of Formation filed with the Texas Secretary of State
 * GitCitadel as registered trademark
+* federal Beneficial Ownership Information (BOI) Report
 
 ### Asset storage
 Texas dollar-denominated bank account and multi-signature Bitcoin wallet. It is also possible to store precious metals in the Texas bullion depository.
@@ -77,6 +78,7 @@ Texas dollar-denominated bank account and multi-signature Bitcoin wallet. It is 
 * Multiple web domains have been purchased
 * Texas franchise taxes
 * Registered agent fees
+* Banking, tax preparation, and other financial fees
 
 ### Company Officers
 * Officers are not employees.

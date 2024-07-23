@@ -15,6 +15,9 @@ title Alexandria v 1.0 WBS
 *** Upload articles
 *** eBook format with 1 30040 to n 30041s
 ** v 0.2.0 Article management
+*** Create Alexandria Scribe AI assistant for VS Code
+**** Add AI-assisted zettel generation and posting
+**** Add content embeddings to posted zettels
 *** Remix articles
 *** Comment on articles
 *** Highlighter comments

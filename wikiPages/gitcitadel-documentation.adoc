@@ -1,0 +1,42 @@
+= GitCitadel Product Documentation
+
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/GitCitadel_Logo.png[GitCitadel logo]
+
+For information about the project itself, please refer to the [[GitCitadel Project]] page.
+
+== Project roadmap
+
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/GitCitadelRoadmap.png[GitCitadel Roadmap]
+
+== Product overview
+
+[cols="1a,1a,1,2a"]
+|===
+|Logo |Product |Status |Description
+
+| image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/GC-Relay_icon.png[GC Relay logo]
+| [[GitCitadel-Relay]]
+| in production
+| A free, public relay for hosting OtherStuff
+
+| image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/Aedile-NDK_icon.jpg[Aedile logo]
+| [[Aedile-NDK]]
+| v0.0.2 alpha
+| Nostr software development kit, featuring the [[NoScrypt]] library.
+
+| image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/GC-Online_icon.png[GC Online logo]
+| https://www.gitcitadel.eu/[GitCitadel Online]
+| under construction
+| Webpage hosted by GitCitadel. Including Jenkins build server (in production).
+
+| image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/GitRepublic_icon.jpg[GitRepublic logo]
+| [[GitRepublic IDE]]
+| in design phase
+| GitHub clone for Linux, utilizing Aedile NDK. Compatible with [[NIP-34]].
+
+| image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/GC-Alexandria_icon.png[GC Alexandria logo]
+| [[GC-Alexandria]]
+| v0.0.1 alpha
+| Previously titled "indextr" and first client to utilize spec [[nkbip-01]]. Nostr Knowledge Base and eReading web app.
+
+|===

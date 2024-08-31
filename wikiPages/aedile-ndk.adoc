@@ -1,60 +1,65 @@
-![GitCitadel logo](https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/Aedile-NDK.jpg)
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/Aedile-NDK.jpg[GitCitadel logo]
 
-# Aedile NDK
+= Aedile NDK
 
 A Nostr System Development Kit written in C++.
 
-## Behind the Name
+== Behind the Name
 
 In the ancient Roman Republic, the aediles were officials elected from among the plebians and charged with caring for Rome's public infrastructure and ensuring an accurate system of weights and measures.
 
 The aim of the Aedile SDK is in the spirit of that ancient office:
 
 - Provide a fast and efficient service for interacting with Nostr relays via WebSocket connections.
-- Offer stable, well-tested implementations of commonly-used Nostr Implementation Possibilities (NIPs) see [[NIP Event Register]]
+- Offer stable, well-tested implementations of commonly-used Nostr Implementation Possibilities (NIPs) see [[Nostr Event Register]]
 - Open up Nostr development by taking care of the basics so developers can focus on solving problems, rather than reimplementing the protocol.
 
-## Software releases
+== Software releases
 
-Please see the roadmap in the [[GitCitadel-docs]] for the estimated delivery of the next version.
+Please see the roadmap in the [[GitCitadel-Documentation]] for the estimated delivery of the next version.
 
-![Aedile v1.0 Work Breakdown Structure](https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Aedile/Aedile_v1.png)
-![Aedile v2.0 Work Breakdown Structure](https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Aedile/Aedile_v2.png)
-![Aedile v3.0 Work Breakdown Structure](https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Aedile/Aedile_v3.png)
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Aedile/Aedile_v1.png[Aedile v1.0 Work Breakdown Structure]
 
-## Building the SDK
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Aedile/Aedile_v2.png[Aedile v2.0 Work Breakdown Structure]
 
-### Prerequisites
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Aedile/Aedile_v3.png[Aedile v3.0 Work Breakdown Structure]
+
+== Building the SDK
+
+=== Prerequisites
 
 This project uses CMake as its build system, and vcpkg as its dependency manager.  Thus, to build the SDK, you will need the following:
 
-- CMake 3.19 or later
-- A C++17 compiler
-- vcpkg
+* CMake 3.19 or later
+* A C++17 compiler
+* vcpkg
 
 CMake invokes vcpkg at the start of the configure process to install some of the project's dependencies.  For this step to succeed, ensure that the `VCPKG_ROOT` environment variable is set to the path of your vcpkg installation.
 
-### Building and Testing
+=== Building and Testing
 
 The SDK aims to support Linux, Windows, and macOS build targets.  It currently supplies a CMake preset for Linux.
 
-#### Linux
+==== Linux
 
 To build the SDK on Linux, run the following commands from the project root:
 
-```bash
+[source,bash]
+----
 export VCPKG_ROOT=/path/to/vcpkg/installation
 cmake --preset=linux # configuration step
 cmake --build build/linux # compilation or build step
-```
+----
 
 To run unit tests, use the following command:
 
-```bash
+[source,bash]
+----
 ctest --preset linux
-```
+----
 
-## Repo
+== Repo
 
-Repo event, viewable over [GitWorkshop](https://gitworkshop.dev/r/naddr1qq9xzetyd9kx2ttwv34szrthwden5te0dehhxtnvdakqygrszgsjsfemmsr6lxl8wf06t39uplq5dpntasudgsmqm39udnqchypsgqqqw7vsn4hag9).
+Repo event, viewable over https://gitworkshop.dev/r/naddr1qq9xzetyd9kx2ttwv34szrthwden5te0dehhxtnvdakqygrszgsjsfemmsr6lxl8wf06t39uplq5dpntasudgsmqm39udnqchypsgqqqw7vsn4hag9[GitWorkshop].
+
 nostr:naddr1qq9xzetyd9kx2ttwv34szrthwden5te0dehhxtnvdakqygrszgsjsfemmsr6lxl8wf06t39uplq5dpntasudgsmqm39udnqchypsgqqqw7vsn4hag9

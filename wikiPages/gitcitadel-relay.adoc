@@ -1,0 +1,25 @@
+= GitCitadel relay
+
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/GC-Relay.png[GC Relay logo]
+
+A full list of known kinds is viewable at the [[Nostr-Event-Register]].
+
+The following kinds have been blocked from publishing on the GitCitadel relay.
+
+[cols="1,1"]
+|===
+|Blocked Kinds |Description
+
+| 1	
+| microblogging 
+
+| 1064	
+| media
+
+| 1065	
+| media
+
+| 30064	
+| binary data
+
+|===

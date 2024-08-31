@@ -1,0 +1,23 @@
+= Tidal Nostr
+
+Event kind `9467` has been observed when logging into Tidal using https://embed.tidal.com/tracks/333626695?disableAnalytics=true[https://embed.tidal.com/].
+
+The event requests the following permissions:
+
+* read your public key
+* read your list of preferred relays
+* sign events using your private key
+
+and has the following structure:
+
+[source,json]
+----
+{
+   "event": {
+   "content": "",
+   "created_at": ,
+   "kind": 9467,
+   "tags": []
+   }
+}
+----

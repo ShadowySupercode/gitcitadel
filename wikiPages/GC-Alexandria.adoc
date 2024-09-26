@@ -16,53 +16,53 @@ It was quickly noticed that the same event types (30040 and 30041) could be used
 
 As Alexandria is targeted toward those who are trying to focus on longer, more-complex content, the design has been stripped down of any distracting elements or unnecessary details, so that the user can concentrate on the valuable information stored in the documents that they are viewing. Both light-mode and dark-mode are available.
 
-image::https://i.nostr.build/4oAlm.png[Menu]
-
+.The json view of the 30040 index cards
 image::https://i.nostr.build/KG2D2.png[event display]
 
+.A 30040 modular article card
 image::https://i.nostr.build/Vwkl0.png[cards]
 
 === Modular articles
 
-The specialty of this client is the ability to display long-form articles, particularly of the modular variety: event kinds 30040 and 30041 from [[nkbip-01]]. It is also able to display wiki pages (event kind 30818 from [[nip-54]], and normal long-form articles of event kind 30023 from [[nip-23]] ).
+The specialty of this client is the ability to display long-form articles, particularly of the modular variety: event kinds 30040 and 30041 from [[nkbip-01]].
 
-Modular articles are often referred to as the *Nostr eBook format*, with 30040 events containing the metadata and the ordered list of the 30041 notes, which contain the markdown-formatted content.
+Modular articles are often referred to as the *Nostr eBook format*, with 30040 index events containing the metadata and the ordered list of the 30041 zettel events, which contain the Asciidoc-formatted content. Here, you can see how the events are linked together and can then be individually selected.
+
+.30040 event selected
+image::https://image.nostr.build/e8268c6df06907459754ada9260ea69c6ede44d1a228b2d78d3a6b17048f5c9e.png[30040 selected, 500]
+
+.300041 events selected
+image::https://image.nostr.build/d92e9d1be4a16a5394b689791b749aa577b2817f0fc4a3a1e7360ce0a93bccdb.png[30041s selected, 500]
 
 === Write articles
 
-Alexandria features a markdown-upload facility, for you to transform your well-formatted text to Nostr events and publish them to your preferred relays. The GitCitadel relay is set as the default, to ensure that you have at least one relay that is sure to work.
+Alexandria features an upload facility, for you to transform your well-formatted Asciidoc text to Nostr events and publish them to your preferred relays. Our https://thecitadel.nostr1.com relay is set as the default, to ensure that you have at least one relay that is sure to work.
 
 Simply make sure to structure the article content like so:
 
 [source,asciidoc]
 ----
+
 = title (mind the space)
 
-== topic1
+== section1
 
 text that you want displayed as content
 
-== topic2
+== section2
 
 more text
 
 ----
 
-or like so:
+If you have more information, available, you can include them in the standard Asciidoc header or in a preamble (that will be saved to a tag in the 30040 and displayed above the sections).
+Example:
 
-[source,markdown]
-----
-# title (mind the space)
+.Form for editing the Asciidoc
+image::https://image.nostr.build/73cee7c0bcaf8e1afa09f7ea85e7d4662cdb02c9097d304952c3543aca32c1e4.png[Edit form, 500]
 
-## topic1
-
-text that you want displayed as content
-
-## topic2
-
-more text
-
-----
+.Preview of the entered data
+image::https://image.nostr.build/50ecf75dc242af4491f103fda58db4d9294a6bc2ac93e266bab2bdec362be3fe.png[Preview of modular article, 500]
 
 Until this feature is completed, you can use the upload facility called https://gitworkshop.dev/r/naddr1qqxx2sn0da442arfd35hg7gpz4mhxue69uhhqatjwpkx2un9d3shjtnrdaksyg8ayz8w3j8jsduq492j39hysg7vnhrtl4zzqcugj4m3q62qlkf8cypsgqqqw7vs555whg[eBookUtility].
 
@@ -77,4 +77,4 @@ nostr:naddr1qq9yzmr90pskuerjd9sszrthwden5te0dehhxtnvdakqyg8ayz8w3j8jsduq492j39hy
 
 Please see the roadmap in the [[GitCitadel-Documentation]] for the estimated delivery of the next version.
 
-image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Alexandria/Alexandria_v1.png[Alexandria v1.0 Work Breakdown Structure]
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Alexandria/Alexandria_v1.png[Alexandria v1.0 Work Breakdown Structure, 700]

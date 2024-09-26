@@ -1,0 +1,54 @@
+// I'm using different markup, so that you can test the handling.
+= More of Aesop's Fables
+Aesop
+:description: Some test data for the Alexandria project.
+
+"Aesop was such a strong personality that his contemporaries credited him with every fable ever before heard, and his successors with every fable ever told since.""
+-- Willis L. Parker
+
+.Aesop, as depicted in the Nuremberg Chronicle, circa 600 B.C.
+image::https://i.nostr.build/WphmEX4ZfHGUj5HZ.jpg[Picture of Aesop,400]
+
+== The Crow and the Pitcher
+
+A CROW perishing with thirst saw a pitcher, and hoping to find water, flew to it with delight. When he reached it, he discovered to his grief that it contained so little water that he could not possibly get at it. He tried everything he could think of to reach the water, but all his efforts were in vain. At last he collected as many stones as he could carry and dropped them one by one with his beak into the pitcher, until he brought the water within his reach and thus saved his life.
+
+Necessity is the mother of invention.
+
+== The Two Frogs
+
+TWO FROGS were neighbors. One inhabited a deep pond, far removed from public view; the other lived in a gully containing little water, and traversed by a country road. The Frog that lived in the pond warned his friend to change his residence and entreated him to come and live with him, saying that he would enjoy greater safety from danger and more abundant food. The other refused, saying that he felt it so very hard to leave a place to which he had become accustomed. A few days afterwards a heavy wagon passed through the gully and crushed him to death under its wheels.
+
+A willful man will have his way to his own hurt.
+
+== The Wolf and the Fox
+
+AT ONE TIME a very large and strong Wolf was born among the wolves, who exceeded all his fellow-wolves in strength, size, and swiftness, so that they unanimously decided to call him “Lion.” The Wolf, with a lack of sense proportioned to his enormous size, thought that they gave him this name in earnest, and, leaving his own race, consorted exclusively with the lions. An old sly Fox, seeing this, said, “May I never make myself so ridiculous as you do in your pride and self-conceit; for even though you have the size of a lion among wolves, in a herd of lions you are definitely a wolf.”
+
+== The Walnut-Tree
+
+A WALNUT TREE standing by the roadside bore an abundant crop of fruit. For the sake of the nuts, the passers-by broke its branches with stones and sticks. The Walnut-Tree piteously exclaimed, “O wretched me! that those whom I cheer with my fruit should repay me with these painful requitals!”
+
+== The Gnat and the Lion
+
+A GNAT came and said to a Lion, “I do not in the least fear you, nor are you stronger than I am. For in what does your strength consist? You can scratch with your claws and bite with your teeth an a woman in her quarrels. I repeat that I am altogether more powerful than you; and if you doubt it, let us fight and see who will conquer.” The Gnat, having sounded his horn, fastened himself upon the Lion and stung him on the nostrils and the parts of the face devoid of hair. While trying to crush him, the Lion tore himself with his claws, until he punished himself severely. The Gnat thus prevailed over the Lion, and, buzzing about in a song of triumph, flew away. But shortly afterwards he became entangled in the meshes of a cobweb and was eaten by a spider. He greatly lamented his fate, saying, “Woe is me! that I, who can wage war successfully with the hugest beasts, should perish myself from this spider, the most inconsiderable of insects!”
+
+== The Monkey and the Dolphin
+
+A SAILOR, bound on a long voyage, took with him a Monkey to amuse him while on shipboard. As he sailed off the coast of Greece, a violent tempest arose in which the ship was wrecked and he, his Monkey, and all the crew were obliged to swim for their lives. A Dolphin saw the Monkey contending with the waves, and supposing him to be a man (whom he is always said to befriend), came and placed himself under him, to convey him on his back in safety to the shore. When the Dolphin arrived with his burden in sight of land not far from Athens, he asked the Monkey if he were an Athenian. The latter replied that he was, and that he was descended from one of the most noble families in that city. The Dolphin then inquired if he knew the Piraeus (the famous harbor of Athens). Supposing that a man was meant, the Monkey answered that he knew him very well and that he was an intimate friend. The Dolphin, indignant at these falsehoods, dipped the Monkey under the water and drowned him.
+
+== The Jackdaw and the Doves
+
+A JACKDAW, seeing some Doves in a cote abundantly provided with food, painted himself white and joined them in order to share their plentiful maintenance. The Doves, as long as he was silent, supposed him to be one of themselves and admitted him to their cote. But when one day he forgot himself and began to chatter, they discovered his true character and drove him forth, pecking him with their beaks. Failing to obtain food among the Doves, he returned to the Jackdaws. They too, not recognizing him on account of his color, expelled him from living with them. So desiring two ends, he obtained neither.
+
+== The Horse and the Stag
+
+AT ONE TIME the Horse had the plain entirely to himself. Then a Stag intruded into his domain and shared his pasture. The Horse, desiring to revenge himself on the stranger, asked a man if he were willing to help him in punishing the Stag. The man replied that if the Horse would receive a bit in his mouth and agree to carry him, he would contrive effective weapons against the Stag. The Horse consented and allowed the man to mount him. From that hour he found that instead of obtaining revenge on the Stag, he had enslaved himself to the service of man.
+
+== The Kid and the Wolf
+
+A KID, returning without protection from the pasture, was pursued by a Wolf. Seeing he could not escape, he turned round, and said: “I know, friend Wolf, that I must be your prey, but before I die I would ask of you one favor you will play me a tune to which I may dance.” The Wolf complied, and while he was piping and the Kid was dancing, some hounds hearing the sound ran up and began chasing the Wolf. Turning to the Kid, he said, “It is just what I deserve; for I, who am only a butcher, should not have turned piper to please you.”
+
+== The Prophet
+
+A WIZARD, sitting in the marketplace, was telling the fortunes of the passers-by when a person ran up in great haste, and announced to him that the doors of his house had been broken open and that all his goods were being stolen. He sighed heavily and hastened away as fast as he could run. A neighbor saw him running and said, “Oh! you fellow there! you say you can foretell the fortunes of others; how is it you did not foresee your own?”

@@ -1,0 +1,835 @@
+[
+    {
+        "kind": "0",
+        "description": "User Metadata",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/01.md"],
+        "nips": ["NIP-01"],
+        "status": "active"
+    },
+    {
+        "kind": "1",
+        "description": "Short Text Note",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/01.md"],
+        "nips": ["NIP-01"],
+        "status": "active"
+    },
+    {
+        "kind": "2",
+        "description": "Recommend Relay",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/01.md"],
+        "nips": ["NIP-01"],
+        "status": "deprecated"
+    },
+    {
+        "kind": "3",
+        "description": "Follows",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/02.md"],
+        "nips": ["NIP-02"],
+        "status": "active"
+    },
+    {
+        "kind": "4",
+        "description": "Encrypted Direct Messages",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/04.md"],
+        "nips": ["NIP-04"],
+        "status": "active"
+    },
+    {
+        "kind": "5",
+        "description": "Event Deletion",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/09.md"],
+        "nips": ["NIP-09"],
+        "status": "active"
+    },
+    {
+        "kind": "6",
+        "description": "Repost",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/18.md"],
+        "nips": ["NIP-18"],
+        "status": "active"
+    },
+    {
+        "kind": "7",
+        "description": "Reaction",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/25.md"],
+        "nips": ["NIP-25"],
+        "status": "active"
+    },
+    {
+        "kind": "8",
+        "description": "Badge Award",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/58.md"],
+        "nips": ["NIP-58"],
+        "status": "active"
+    },
+    {
+        "kind": "9",
+        "description": "Group Chat Message",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/29.md"],
+        "nips": ["NIP-29"],
+        "status": "active"
+    },
+    {
+        "kind": "10",
+        "description": "Group Chat Threaded Reply",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/29.md"],
+        "nips": ["NIP-29"],
+        "status": "active"
+    },
+    {
+        "kind": "11",
+        "description": "Group Thread",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/29.md"],
+        "nips": ["NIP-29"],
+        "status": "active"
+    },
+    {
+        "kind": "12",
+        "description": "Group Thread Reply",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/29.md"],
+        "nips": ["NIP-29"],
+        "status": "active"
+    },
+    {
+        "kind": "13",
+        "description": "Seal",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/59.md"],
+        "nips": ["NIP-59"],
+        "status": "active"
+    },
+    {
+        "kind": "14",
+        "description": "Direct Message",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/17.md"],
+        "nips": ["NIP-17"],
+        "status": "active"
+    },
+    {
+        "kind": "16",
+        "description": "Generic Repost",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/18.md"],
+        "nips": ["NIP-18"],
+        "status": "active"
+    },
+    {
+        "kind": "17",
+        "description": "Reaction to a website",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/25.md"],
+        "nips": ["NIP-25"],
+        "status": "active"
+    },
+    {
+        "kind": "40",
+        "description": "Channel Creation",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/28.md"],
+        "nips": ["NIP-28"],
+        "status": "active"
+    },
+    {
+        "kind": "41",
+        "description": "Channel Metadata",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/28.md"],
+        "nips": ["NIP-28"],
+        "status": "active"
+    },
+    {
+        "kind": "42",
+        "description": "Channel Message",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/28.md"],
+        "nips": ["NIP-28"],
+        "status": "active"
+    },
+    {
+        "kind": "43",
+        "description": "Channel Hide Message",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/28.md"],
+        "nips": ["NIP-28"],
+        "status": "active"
+    },
+    {
+        "kind": "44",
+        "description": "Channel Mute User",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/28.md"],
+        "nips": ["NIP-28"],
+        "status": "active"
+    },
+    {
+        "kind": "64",
+        "description": "Chess (PGN)",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/64.md"],
+        "nips": ["NIP-64"],
+        "status": "active"
+    },
+    {
+        "kind": "818",
+        "description": "Merge Request",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/54.md"],
+        "nips": ["NIP-54"],
+        "status": "active"
+    },
+    {
+        "kind": "1021",
+        "description": "Bid",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/15.md"],
+        "nips": ["NIP-15"],
+        "status": "active"
+    },
+    {
+        "kind": "1022",
+        "description": "Bid confirmation",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/15.md"],
+        "nips": ["NIP-15"],
+        "status": "active"
+    },
+    {
+        "kind": "1040",
+        "description": "OpenTimestamps",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/03.md"],
+        "nips": ["NIP-03"],
+        "status": "active"
+    },
+    {
+        "kind": "1059",
+        "description": "Gift Wrap",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/59.md"],
+        "nips": ["NIP-59"],
+        "status": "active"
+    },
+    {
+        "kind": "1063",
+        "description": "File Metadata",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/94.md"],
+        "nips": ["NIP-94"],
+        "status": "active"
+    },
+    {
+        "kind": "1311",
+        "description": "Live Chat Message",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/53.md"],
+        "nips": ["NIP-53"],
+        "status": "active"
+    },
+    {
+        "kind": "1617",
+        "description": "Patches",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/34.md"],
+        "nips": ["NIP-34"],
+        "status": "active"
+    },
+    {
+        "kind": "1621",
+        "description": "Issues",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/34.md"],
+        "nips": ["NIP-34"],
+        "status": "active"
+    },
+    {
+        "kind": "1622",
+        "description": "Replies",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/34.md"],
+        "nips": ["NIP-34"],
+        "status": "active"
+    },
+    {
+        "kind": "1630-1633",
+        "description": "Status",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/34.md"],
+        "nips": ["NIP-34"],
+        "status": "active"
+    },
+    {
+        "kind": "1971",
+        "description": "Problem Tracker",
+        "spec": ["https://github.com/nostrocket/NIPS/blob/main/Problems.md"],
+        "nips": ["NUD"],
+        "status": "active"
+    },
+    {
+        "kind": "1983",
+        "description": "Attestations and Confirmations",
+        "spec": ["https://wikistr.com/nostr-attestations"],
+        "nips": ["NUD"],
+        "status": "active"
+    },
+    {
+        "kind": "1984",
+        "description": "Reporting",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/56.md"],
+        "nips": ["NIP-56"],
+        "status": "active"
+    },
+    {
+        "kind": "1985",
+        "description": "Label",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/32.md"],
+        "nips": ["NIP-32"],
+        "status": "active"
+    },
+    {
+        "kind": "1986",
+        "description": "Relay reviews",
+        "spec": ["https://wikistr.com/CIP-01"],
+        "nips": ["NUD"],
+        "status": "active"
+    },
+    {
+        "kind": "1987",
+        "description": "AI Embeddings / Vector lists",
+        "spec": ["https://wikistr.com/NKBIP-02"],
+        "nips": ["NUD"],
+        "status": "active"
+    },
+    {
+        "kind": "2003",
+        "description": "Torrent",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/35.md"],
+        "nips": ["NIP-35"],
+        "status": "active"
+    },
+    {
+        "kind": "2004",
+        "description": "Torrent Comment",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/35.md"],
+        "nips": ["NIP-35"],
+        "status": "active"
+    },
+    {
+        "kind": "2022",
+        "description": "Coinjoin Pool",
+        "spec": ["https://gitlab.com/1440000bytes/joinstr/-/blob/main/NIP.md"],
+        "nips": ["NUD"],
+        "status": "active"
+    },
+    {
+        "kind": "4550",
+        "description": "Community Post Approval",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/72.md"],
+        "nips": ["NIP-72"],
+        "status": "active"
+    },
+    {
+        "kind": "5000 - 5999",
+        "description": "Job Request",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/90.md"],
+        "nips": ["NIP-90"],
+        "status": "active"
+    },
+    {
+        "kind": "6000-6999",
+        "description": "Job Result",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/90.md"],
+        "nips": ["NIP-90"],
+        "status": "active"
+    },
+    {
+        "kind": "7000",
+        "description": "Job Feedback",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/90.md"],
+        "nips": ["NIP-90"],
+        "status": "active"
+    },
+    {
+        "kind": "9000-9030",
+        "description": "Group Control Events",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/29.md"],
+        "nips": ["NIP-29"],
+        "status": "active"
+    },
+    {
+        "kind": "9041",
+        "description": "Zap Goal",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/75.md"],
+        "nips": ["NIP-75"],
+        "status": "active"
+    },
+    {
+        "kind": "9467",
+        "description": "Tidal login",
+        "spec": ["https://wikistr.com/tidal-nostr"],
+        "nips": ["NUD"],
+        "status": "active"
+    },
+    {
+        "kind": "9734",
+        "description": "Zap Request",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/57.md"],
+        "nips": ["NIP-57"],
+        "status": "active"
+    },
+    {
+        "kind": "9735",
+        "description": "Zap",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/57.md"],
+        "nips": ["NIP-57"],
+        "status": "active"
+    },
+    {
+        "kind": "9802",
+        "description": "Highlights",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/84.md"],
+        "nips": ["NIP-84"],
+        "status": "active"
+    },
+    {
+        "kind": "10000",
+        "description": "Mute list",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "10001",
+        "description": "Pin list",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "10002",
+        "description": "Relay List Metadata",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/65.md"],
+        "nips": ["NIP-65"],
+        "status": "active"
+    },
+    {
+        "kind": "10003",
+        "description": "Bookmark list",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "10004",
+        "description": "Communities list",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "10005",
+        "description": "Public chats list",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "10006",
+        "description": "Blocked relays list",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "10007",
+        "description": "Search relays list",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "10008",
+        "description": "Event set names list",
+        "spec": ["https://github.com/vitorpamplona/nips/blob/relationship-status/81.md"],
+        "nips": ["NUD"],
+        "status": "draft"
+    },
+    {
+        "kind": "10009",
+        "description": "User groups",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51", "NIP-29"],
+        "status": "active"
+    },
+    {
+        "kind": "10015",
+        "description": "Interests list",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "10030",
+        "description": "User emoji list",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "10050",
+        "description": "Relay list to receive DMs",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/17.md"],
+        "nips": ["NIP-51", "NIP-17"],
+        "status": "active"
+    },
+    {
+        "kind": "10063",
+        "description": "User server list",
+        "spec": ["https://github.com/hzrd149/blossom"],
+        "nips": ["NUD"],
+        "status": "active"    
+    },
+    {
+        "kind": "10096",
+        "description": "File storage server list",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/96.md"],
+        "nips": ["NIP-96"],
+        "status": "active"
+    },
+    {
+        "kind": "13194",
+        "description": "Wallet Info",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/47.md"],
+        "nips": ["NIP-47"],
+        "status": "active"
+    },
+    {
+        "kind": "21000",
+        "description": "Lightning Pub RPC",
+        "spec": ["https://github.com/shocknet/Lightning.Pub/blob/master/proto/autogenerated/client.md"],
+        "nips": ["NUD"],
+        "status": "active"        
+    },
+    {
+        "kind": "22242",
+        "description": "Client Authentication",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/42.md"],
+        "nips": ["NIP-42"],
+        "status": "active"
+    },
+    {
+        "kind": "23194",
+        "description": "Wallet Request",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/47.md"],
+        "nips": ["NIP-47"],
+        "status": "active"
+    },
+    {
+        "kind": "23195",
+        "description": "Wallet Response",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/47.md"],
+        "nips": ["NIP-47"],
+        "status": "active"
+    },
+    {
+        "kind": "24133",
+        "description": "Nostr Connect",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/46.md"],
+        "nips": ["NIP-46"],
+        "status": "active"
+    },
+    {
+        "kind": "24242",
+        "description": "Blobs stored on mediaservers",
+        "spec": ["https://github.com/hzrd149/blossom"],
+        "nips": ["NUD"],
+        "status": "active"    
+    },
+    {
+        "kind": "27235",
+        "description": "HTTP Auth",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/98.md"],
+        "nips": ["NIP-98"],
+        "status": "active"
+    },
+    {
+        "kind": "30000",
+        "description": "Follow sets",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "30001",
+        "description": "Generic lists",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "30002",
+        "description": "Relay sets",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "30003",
+        "description": "Bookmark sets",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "30004",
+        "description": "Curation sets",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "30005",
+        "description": "Video sets",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "30007",
+        "description": "Kind mue sets",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "30008",
+        "description": "Profile Badges",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/58.md"],
+        "nips": ["NIP-58"],
+        "status": "active"
+    },
+    {
+        "kind": "30009",
+        "description": "Badge Definition",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/58.md"],
+        "nips": ["NIP-58"],
+        "status": "active"
+    },
+    {
+        "kind": "30015",
+        "description": "Interest sets",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "30017",
+        "description": "Create or update a stall",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/15.md"],
+        "nips": ["NIP-15"],
+        "status": "active"
+    },
+    {
+        "kind": "30018",
+        "description": "Create or update a product",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/15.md"],
+        "nips": ["NIP-15"],
+        "status": "active"
+    },
+    {
+        "kind": "30019",
+        "description": "Marketplace UI/UX",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/15.md"],
+        "nips": ["NIP-15"],
+        "status": "active"
+    },
+    {
+        "kind": "30020",
+        "description": "Product sold as an auction",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/15.md"],
+        "nips": ["NIP-15"],
+        "status": "active"
+    },
+    {
+        "kind": "30023",
+        "description": "Long-form Content",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/23.md"],
+        "nips": ["NIP-23"],
+        "status": "active"
+    },
+    {
+        "kind": "30024",
+        "description": "Draft Long-form Content",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/23.md"],
+        "nips": ["NIP-23"],
+        "status": "active"
+    },
+    {
+        "kind": "30030",
+        "description": "Emoji sets",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "30040",
+        "description": "Modular Article Header",
+        "spec": ["https://wikistr.com/NKBIP-01"],
+        "nips": ["NUD"],
+        "status": "active"
+    },
+    {
+        "kind": "30041",
+        "description": "Modular Article Content",
+        "spec": ["https://wikistr.com/NKBIP-01"],
+        "nips": ["NUD"],
+        "status": "active"
+    },
+    {
+        "kind": "30063",
+        "description": "Release artifact sets",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/51.md"],
+        "nips": ["NIP-51"],
+        "status": "active"
+    },
+    {
+        "kind": "30078",
+        "description": "Application-specific Data",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/78.md"],
+        "nips": ["NIP-78"],
+        "status": "active"
+    },
+    {
+        "kind": "30311",
+        "description": "Live Event",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/53.md"],
+        "nips": ["NIP-53"],
+        "status": "active"
+    },
+    {
+        "kind": "30315",
+        "description": "User Statuses",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/38.md"],
+        "nips": ["NIP-38"],
+        "status": "active"
+    },
+    {
+        "kind": "30382",
+        "description": "Public relationship status",
+        "spec": ["https://github.com/vitorpamplona/nips/blob/relationship-status/81.md"],
+        "nips": ["NUD"],
+        "status": "draft"    
+    },
+    {
+        "kind": "31382",
+        "description": "Private relationship status",
+        "spec": ["https://github.com/vitorpamplona/nips/blob/relationship-status/81.md"],
+        "nips": ["NUD"],
+        "status": "draft" 
+    },
+    {
+        "kind": "30402",
+        "description": "Classified Listing",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/99.md"],
+        "nips": ["NIP-99"],
+        "status": "active"
+    },
+    {
+        "kind": "30403",
+        "description": "Draft Classified Listing",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/99.md"],
+        "nips": ["NIP-99"],
+        "status": "active"
+    },
+    {
+        "kind": "30617",
+        "description": "Repository announcements",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/34.md"],
+        "nips": ["NIP-34"],
+        "status": "active"
+    },
+    {
+        "kind": "30618",
+        "description": "Repository state announcements",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/34.md"],
+        "nips": ["NIP-34"],
+        "status": "active"
+    },
+    {
+        "kind": "30818",
+        "description": "Wiki article",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/54.md"],
+        "nips": ["NIP-54"],
+        "status": "active"
+    },
+    {
+        "kind": "30819",
+        "description": "Redirects",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/54.md"],
+        "nips": ["NIP-54"],
+        "status": "active"
+    },
+    {
+        "kind": "30890",
+        "description": "Custom Feed",
+        "spec": ["https://wikistr.com/CIP-01"],
+        "nips": ["NUD"],
+        "status": "active"
+    },
+    {
+        "kind": "31922",
+        "description": "Date-Based Calendar Event",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/52.md"],
+        "nips": ["NIP-52"],
+        "status": "active"
+    },
+    {
+        "kind": "31923",
+        "description": "Time-Based Calendar Event",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/52.md"],
+        "nips": ["NIP-52"],
+        "status": "active"
+    },
+    {
+        "kind": "31924",
+        "description": "Calendar",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/52.md"],
+        "nips": ["NIP-52"],
+        "status": "active"
+    },
+    {
+        "kind": "31925",
+        "description": "Calendar Event RSVP",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/52.md"],
+        "nips": ["NIP-52"],
+        "status": "active"
+    },
+    {
+        "kind": "31989",
+        "description": "Handler recommendation",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/89.md"],
+        "nips": ["NIP-89"],
+        "status": "active"
+    },
+    {
+        "kind": "31990",
+        "description": "Handler information",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/89.md"],
+        "nips": ["NIP-89"],
+        "status": "active"
+    },
+    {
+        "kind": "34235",
+        "description": "Video Event",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/71.md"],
+        "nips": ["NIP-71"],
+        "status": "active"
+    },
+    {
+        "kind": "34236",
+        "description": "Short-form Portrait Video Event",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/71.md"],
+        "nips": ["NIP-71"],
+        "status": "active"
+    },
+    {
+        "kind": "34237",
+        "description": "Video View Event",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/71.md"],
+        "nips": ["NIP-71"],
+        "status": "active"
+    },
+    {
+        "kind": "34550",
+        "description": "Community Definition",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/72.md"],
+        "nips": ["NIP-72"],
+        "status": "active"
+    },
+    {
+        "kind": "39000-9",
+        "description": "Group metadata events",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/master/29.md"],
+        "nips": ["NIP-29"],
+        "status": "active"
+    }
+]

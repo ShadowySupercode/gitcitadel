@@ -742,6 +742,13 @@
         "status": "active"
     },
     {
+        "kind": "30817",
+        "description": "Nostr Unofficial Documents",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/nuds/71.md"],
+        "nips": [],
+        "status": "draft"
+    },
+    {
         "kind": "30818",
         "description": "Wiki article",
         "spec": ["https://github.com/nostr-protocol/nips/blob/master/54.md"],

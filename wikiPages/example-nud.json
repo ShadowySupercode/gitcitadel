@@ -1,0 +1,18 @@
+{
+    "id": "a7696b56ac2af1db22b3a0caa27a84f01789bdd91d5e9eb497890a9597a0b339",
+    "pubkey": "79be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798",
+    "created_at": 1714659471,
+    "kind": 30818,
+    "tags": [
+      ["d", "nud:ordinals-comments"],
+      ["title", "NUD: Ordinals Comments"],
+      ["summary", "How to handle Bitcoin ordinals."],
+      ["description", "naddr1qvzqqqrcvgpzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2y"],
+      ["kinds", "10773", "10772"],
+      ["tags", "o"],
+      ["nips", "NUD"],
+      ["status", "active"]
+    ],
+    "content": "= NUD: Ordinals Comments\n\nThis NUD defines how to comment on Bitcoin Ordinals using Nostr events.\n\nEvents should be of kind 10773 and include a tag in the format [\"o\", \"1928604426675219\"] in which 1928604426675219 is the satoshi number given by `ord`. Aside from that these events follow the rules of kind 1.",
+    "sig": "76bc8a799bb1f419a74b177e38ddb372358bc21f074848a8b8f1d9f21fc1d7d1f09ffe9d9fcc41ed7de405e102bb205100aadaa1e51ee54289e58f40ba55a8fd"
+  }

@@ -203,6 +203,13 @@
         "status": "active"
     },
     {
+        "kind": "1111",
+        "description": "Comment",
+        "spec": ["https://github.com/nostr-protocol/nips/blob/2e6f559232d429573c667fa7f90559da776e69d2/22.md"],
+        "nips": [],
+        "status": "draft"
+    },
+    {
         "kind": "1311",
         "description": "Live Chat Message",
         "spec": ["https://github.com/nostr-protocol/nips/blob/master/53.md"],

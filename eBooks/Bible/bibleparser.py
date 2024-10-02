@@ -41,7 +41,7 @@ for line in lines[1:]:
 
 new_file = f"{lines[0]}\n## {book} Introduction\n" + new_file
 
-newfilename = "/home/stella/Documents/Books/Bible/Completed/"+filename
+newfilename = "/home/ohji/Projects/gitcitadel/eBooks/Bible/Completed/"+filename
 
 with open(newfilename, 'w') as f:
      # write the lines

@@ -1,0 +1,776 @@
+= BOOK III
+
+1. There are three things which require special attention in regard to speech: first, the sources of proofs; secondly, style; and thirdly, the arrangement of the parts of the speech. We have already spoken of proofs and stated that they are three in number, what is their nature, and why there are only three; for in all cases persuasion is the result either of the judges themselves being affected in a certain manner, or because they consider the speakers to be of a certain character, or because something has been demonstrated. We have also stated the sources from which enthymemes should be derived—some of them being special, the others general commonplaces.
+
+[2] We have therefore next to speak of style; for it is not sufficient to know what one ought to say, but one must also know how to say it, and this largely contributes to making the speech appear of a certain character. [3] In the first place, following the natural order, we investigated that which first presented itself—what gives things themselves their persuasiveness;
+in the second place, their arrangement by style; and in the third place, delivery, which is of the greatest importance but has not yet been treated of by anyone. In fact, it only made its appearance late in tragedy and rhapsody, for at first the poets themselves acted their tragedies.1 It is clear, therefore, that there is something of the sort in rhetoric as well as in poetry, and it has been dealt with by Glaucon of Teos among others. [4] Now delivery is a matter of voice, as to the mode in which it should be used for each particular emotion; when it should be loud, when low, when intermediate; and how the tones, that is, shrill, deep, and intermediate, should be used; and what rhythms are adapted to each subject. For there are three qualities that are considered,—volume, harmony, rhythm. Those who use these properly nearly always carry off the prizes in dramatic contests, and as at the present day actors have greater influence on the stage than the poets, it is the same In political2 contests, owing to the corruptness of our forms of government. [5] But no treatise has yet been composed on delivery, since the matter of style itself only lately came into notice;
+and rightly considered it is thought vulgar.3 But since the whole business of Rhetoric is to influence opinion,4 we must pay attention to it, not as being right, but necessary; for, as a matter of right, one should aim at nothing more in a speech than how to avoid exciting pain or pleasure. For justice should consist in fighting the case with the facts alone, so that everything else that is beside demonstration is superfluous; nevertheless, as we have just said, it is of great importance owing to the corruption of the hearer. [6] However, in every system of instruction there is some slight necessity to pay attention to style; for it does make a difference, for the purpose of making a thing clear, to speak in this or that manner; still, the difference is not so very great, but all these things5 are mere outward show for pleasing the hearer; wherefore no one teaches geometry in this way.
+
+[7] Now, when delivery comes into fashion, it will have the same effect as acting. Some writers have attempted to say a few words about it, as Thrasymachus, in his Eleoi6; and in fact, a gift for acting is a natural talent and depends less upon art, but in regard to style it is artificial. Wherefore people who excel in this in their turn obtain prizes, just as orators who excel in delivery; for written speeches owe their effect not so much to the sense as to the style.
+
+[8] The poets, as was natural, were the first to give an impulse to style; for words are imitations, and the voice also, which of all our parts is best adapted for imitation, was ready to hand; thus the arts of the rhapsodists, actors, and others, were fashioned. [9] And as the poets, although their utterances were devoid of sense, appeared to have gained their reputation through their style, it was a poetical style that first came into being, as that of Gorgias.7 Even now the majority of the uneducated think that such persons express themselves most beautifully, whereas this is not the case, for the style of prose is not the same as that of poetry. And the result proves it; for even the writers of tragedies do not employ it in the same manner, but as they have changed from the tetrametric to the iambic meter, because the latter, of all other meters, most nearly resembles prose, they have in like manner discarded all such words as differ from those of ordinary conversation, with which the early poets used to adorn their writings, and which even now are employed by the writers of hexameters. It is therefore ridiculous to imitate those who no longer employ that manner of writing. [10] Consequently, it is evident that we need not enter too precisely into all questions of style, but only those which concern such a style as we are discussing. As for the other kind of style,8 it has already been treated in the Poetics.
+
+2. Let this suffice for the consideration of these points. In regard to style, one of its chief merits may be defined as perspicuity. This is shown by the fact that the speech, if it does not make the meaning clear, will not perform its proper function; neither must it be mean, nor above the dignity of the subject, but appropriate to it; for the poetic style may be is not mean, but it is not appropriate to prose. [2] Of nouns and verbs it is the proper ones that make style perspicuous9; all the others which have been spoken of in the Poetics10 elevate and make it ornate; for departure from the ordinary makes it appear more dignified. In this respect men feel the same in regard to style as in regard to foreigners and fellow-citizens. [3] Wherefore we should give our language a “foreign11 air”; for men admire what is remote, and that which excites admiration is pleasant. In poetry many things conduce to this and there it is appropriate; for the subjects and persons spoken of are more out of the common. But in prose such methods are appropriate in much fewer instances, for the subject is less elevated; and even in poetry, if fine language were used by a slave or a very young man, or about quite unimportant matters, it would be hardly becoming; for even here due proportion consists in contraction and amplification as the subject requires. [4] Wherefore those who practise this artifice must conceal it and avoid the appearance of speaking artificially instead of naturally; for that which is natural persuades,
+but the artificial does not. For men become suspicious of one whom they think to be laying a trap for them, as they are of mixed wines. Such was the case with the voice of Theodorus as contrasted with that of the rest of the actors; for his seemed to be the voice of the speaker, that of the others the voice of someone else. [5] Art is cleverly concealed when the speaker chooses his words from ordinary language12 and puts them together like Euripides, who was the first to show the way.
+
+Nouns and verbs being the components of speech, and nouns being of the different kinds which have been considered in the Poetics, of these we should use strange, compound, or coined words only rarely and in few places. We will state later13 in what places they should be used; [6] the reason for this has already been mentioned, namely, that it involves too great a departure from suitable language. Proper and appropriate words and metaphors are alone to be employed in the style of prose; this is shown by the fact that no one employs anything but these. For all use metaphors in conversation, as well as proper and appropriate words; wherefore it is clear that, if a speaker manages well, there will be some thing “foreign” about his speech, while possibly the art may not be detected, and his meaning will be clear. And this, as we have said, is the chief merit of rhetorical language. [7] （In regard to nouns, homonyms are most useful to the sophist, for it is by their aid that he employs captious arguments, and synonyms to the poet.
+Instances of words that are both proper and synonymous are “going” and “walking”: for these two words are proper and have the same meaning.）14
+
+It has already been stated, as we have said, in the Poetics,15 what each of these things16 is, how many kinds of metaphor there are, and that it is most important both in poetry and in prose. [8] But the orator must devote the greater attention to them in prose, since the latter has fewer resources than verse. It is metaphor above all that gives perspicuity, pleasure, and a foreign air, and it cannot be learnt from anyone else;17 [9] but we must make use of metaphors and epithets that are appropriate. This will be secured by observing due proportion; otherwise there will be a lack of propriety, because it is when placed in juxtaposition that contraries are most evident. We must consider, as a red cloak suits a young man, what suits an old one; [10] for the same garment is not suitable for both. And if we wish to ornament our subject, we must derive our metaphor from the better species under the same genus; if to depreciate it, from the worse. Thus, to say （for you have two opposites belonging to the same genus） that the man who begs prays, or that the man who prays begs （for both are forms of asking）18 is an instance of doing this; as, when Iphicrates19 called Callias20
+a mendicant priest instead of a torch-bearer, Callias replied that Iphicrates himself could not be initiated, otherwise he would not have called him mendicant priest but torch-bearer21; both titles indeed have to do with a divinity, but the one is honorable, the other dishonorable. And some call actors flatterers of Dionysus, whereas they call themselves “artists.” Both these names are metaphors, but the one is a term of abuse, the other the contrary. Similarly, pirates now call themselves purveyors22; and so it is allowable to say that the man who has committed a crime has “made a mistake,” that the man who has “made a mistake” is “guilty of crime”, and that one who has committed a theft has either “taken” or “ravaged.” The saying in the Telephus of Euripides, “ Ruling over the oar and having landed in Mysia,
+
+” is inappropriate, because the word ruling exceeds the dignity of the subject, and so the artifice can be seen. [11] Forms of words also are faulty, if they do not express an agreeable sound; for instance, Dionysius the Brazen23 in his elegiacs speaks of poetry as “ the scream of Calliope;
+
+” both are sounds, but the metaphor is bad, because the sounds have no meaning.24
+
+[12] Further, metaphors must not be far-fetched, but we must give names to things that have none by deriving the metaphor from what is akin and of the same kind, so that, as soon as it is uttered, it is clearly seen to be akin,
+as in the famous enigma, “ I saw a man who glued bronze with fire upon another.
+
+” There was no name for what took place, but as in both cases there is a kind of application, he called the application of the cupping-glass gluing.25 And, generally speaking, clever enigmas furnish good metaphors; for metaphor is a kind of enigma, so that it is clear that the transference is clever. [13] Metaphors should also be derived from things that are beautiful, the beauty of a word consisting, as Licymnius says, in its sound or sense, and its ugliness in the same. There is a third condition, which refutes the sophistical argument; for it is not the case, as Bryson26 said, that no one ever uses foul language, if the meaning is the same whether this or that word is used; this is false; for one word is more proper than another, more of a likeness, and better suited to putting the matter before the eyes. Further, this word or that does not signify a thing under the same conditions; thus for this reason also it must be admitted that one word is fairer or fouler than the other. Both, indeed, signify what is fair or foul, but not qua fair or foul; or if they do, it is in a greater or less degree. Metaphors therefore should be derived from what is beautiful either in sound, or in signification, or to sight, or to some other sense. For it does make a difference, for instance, whether one says “rosy-fingered morn,” rather than “purple-fingered,”
+or, what is still worse, “red-fingered.”
+
+[14] As for epithets, they may be applied from what is vile or disgraceful, for instance, “the matricide,” or from what is more honorable, for instance, “the avenger of his father.”27 When the winner in a mule-race offered Simonides a small sum, he refused to write an ode, as if he thought it beneath him to write on half-asses; but when he gave him a sufficient amount, he wrote, “ Hail, daughters of storm-footed steeds!28
+
+” and yet they were also the daughters of asses. Further, the use of diminutives amounts to the same. [15] It is the diminutive which makes the good and the bad appear less, as Aristophanes in the Babylonians jestingly uses “goldlet, cloaklet, affrontlet, diseaselet” instead of “gold, cloak, affront, disease.” But one must be careful to observe the due mean in their use as well as in that of epithets.
+
+3. Frigidity of style arises from four causes: first, the use of compound words, as when Lycophron29 speaks of the “many-faced sky of the mighty-topped earth,” “narrow-passaged shore”; and Gorgias of “a begging-poet flatterer,”
+“those who commit perjury and those who swear right solemnly.30” And as Alcidamas says, “the soul full of anger and the face fire-colored,” “he thought that their zeal would be end-accomplishing,” “he made persuasive words end-accomplishing,” and “the azure-colored floor of the sea,” for all these appear poetical because they are compound.
+
+[2] This is one cause of frigidity; another is the use of strange words; as Lycophron calls Xerxes “a monster of a man,” Sciron “a human scourge31”; and Alcidamas says “plaything in poetry,” “the audaciousness of nature,” “whetted with unmitigated wrath of thought.”
+
+[3] A third cause is the use of epithets that are either long or unseasonable or too crowded; thus, in poetry it is appropriate to speak of white milk, but in prose it is less so; and if epithets are employed to excess, they reveal the art and make it evident that it is poetry. And yet such may be used to a certain extent, since it removes the style from the ordinary and gives a “foreign” air. But one must aim at the mean, for neglect to do so does more harm than speaking at random; for a random style lacks merit, but excess is vicious. That is why the style of Alcidamas appears frigid; for he uses epithets not as a seasoning but as a regular dish, so crowded,
+so long, and so glaring are they. For instance, he does not say “sweat” but “damp sweat”; not “to the Isthmian games” but “to the solemn assembly of the Isthmian games”; not “laws”, but “the laws, the rulers of states”; not “running”, but “with a race-like impulse of the soul”; not “museum”, but “having taken up the museum of nature”32; and “the scowling anxiety of the soul”; “creator”, not “of favor”, but “all-popular favor”; and “dispenser of the pleasure of the hearers”; “he hid,” not “with branches,” but “with the branches of the forest”; “he covered,” not “his body,” but “the nakedness of his body.” He also calls desire “counter-initiative of the soul”—an expression which is at once compound and an epithet, so that it becomes poetry—and “the excess of his depravity so beyond all bounds.” Hence those who employ poetic language by their lack of taste make the style ridiculous and frigid, and such idle chatter produces obscurity; for when words are piled upon one who already knows, it destroys perspicuity by a cloud of verbiage. People use compound words, when a thing has no name and the word is easy to combine, as χρονοτριβεῖν, to pass time; but if the practice is abused, the style becomes entirely poetical.
+This is why compound words are especially employed by dithyrambic poets, who are full of noise; strange words by epic poets, for they imply dignity and self-assertion; metaphor to writers of iambics, who now employ them, as we have stated.
+
+[4] The fourth cause of frigidity of style is to be found in metaphors; for metaphors also are inappropriate, some because they are ridiculous—for the comic poets also employ them—others because they are too dignified and somewhat tragic; and if they are farfetched, they are obscure, as when Gorgias says: “Affairs pale and bloodless”33; “you have sown shame and reaped misfortune”; for this is too much like poetry. And as Alcidamas calls philosophy “a bulwark of the laws,”34 and the Odyssey “a beautiful mirror of human life,” and “introducing no such plaything in poetry.” All these expressions fail to produce persuasion, for the reasons stated. As for what Gorgias said to the swallow which, flying over his head, let fall her droppings upon him, it was in the best tragic style. He exclaimed, “Fie, for shame, Philomela!”; for there would have been nothing in this act disgraceful for a bird, whereas it would have been for a young lady. The reproach therefore was appropriate, addressing her as she was, not as she is.
+
+4. The simile also is a metaphor; for there is very little difference. When the poet says of Achilles,35 “ he rushed on like a lion,
+
+” it is a simile; if he says, “a lion, he rushed on,” it is a metaphor; for because both are courageous, he transfers the sense and calls Achilles a lion. [2] The simile is also useful in prose, but should be less frequently used, for there is something poetical about it. Similes must be used like metaphors, which only differ in the manner stated. [3] The following are examples of similes. Androtion36 said of Idrieus that he was like curs just unchained; for as they attack and bite, so he when loosed from his bonds was dangerous. Again, Theodamas likened Archidamus to a Euxenus ignorant of geometry, by proportion;37 for Euxenus “will be Archidamus acquainted with geometry.” Again, Plato in the Republic38 compares those who strip the dead to curs, which bite stones, but do not touch those who throw them; he also says that the people is like a ship's captain who is vigorous, but rather deaf;39 that poets' verses resemble those who are in the bloom of youth but lack beauty;40 for neither the one after they have lost their bloom, nor the others after they have been broken up,41
+appear the same as before. Pericles said that the Samians were like children who cry while they accept the scraps.42 He also compared the Boeotians to holm-oaks; for just as these are beaten down by knocking against each other,43 so are the Boeotians by their civil strife. Demosthenes compared the people to passengers who are seasick.44 Democrates said that orators resembled nurses who gulp down the morsel and rub the babies' lips with the spittle.45 Antisthenes likened the skinny Cephisodotus to incense, for he also gives pleasure by wasting away. All such expressions may be used as similes or metaphors, so that all that are approved as metaphors will obviously also serve as similes which are metaphors without the details. [4] But in all cases the metaphor from proportion should be reciprocal and applicable to either of the two things of the same genus; for instance, if the goblet is the shield of Dionysus, then the shield may properly be called the goblet of Ares.46
+
+5. Such then are the elements of speech. But purity,
+which is the foundation of style, depends upon five rules. [2] First, connecting particles should be introduced in their natural order, before or after, as they require; thus, μέν and ἐγὼ μέν require to be followed by δέ and ὁ δέ. Further, they should be made to correspond whilst the hearer still recollects; they should not be put too far apart, nor should a clause be introduced before the necessary connection47; for this is rarely appropriate. For instance, “As for me, I, after he had told me—for Cleon came begging and praying—set out, taking them with me.” For in this phrase several connecting words have been foisted in before the one which is to furnish the apodosis; and if the interval between “I” and “set out” is too great, the result is obscurity. [3] The first rule therefore is to make a proper use of connecting particles; the second, to employ special, not generic terms. [4] The third consists in avoiding ambiguous terms, unless you deliberately intend the opposite, like those who, having nothing to say, yet pretend to say something; such people accomplish this by the use of verse, after the manner of Empedocles.48 For the long circumlocution takes in the hearers, who find themselves affected like the majority of those who listen to the soothsayers. For when the latter utter their ambiguities, they also assent; for example, “ Croesus, by crossing the Halys, shall ruin a mighty dominion.49
+
+”
+And as there is less chance of making a mistake when speaking generally, diviners express themselves in general terms on the question of fact; for, in playing odd or even, one is more likely to be right if he says “even” or “odd” than if he gives a definite number, and similarly one who says “it will be” than if he states “when.” This is why soothsayers do not further define the exact time. All such ambiguities are alike, wherefore they should be avoided, except for some such reason.50 [5] The fourth rule consists in keeping the genders distinct—masculine, feminine, and neuter,51 as laid down by Protagoras; these also must be properly introduced: [6] “She, having come （fem.） and having conversed （fem.） with me, went away.” The fifth rule consists in observing number, according as many, few, or one are referred to: “They, having come （pl.）, began to beat （pl.） me.”
+
+Generally speaking, that which is written should be easy to read or easy to utter, which is the same thing. Now, this is not the case when there is a number of connecting particles, or when the punctuation is hard, as in the writings of Heraclitus.52 For it is hard, since it is uncertain to which word another belongs, whether to that which follows or that which precedes; for instance, at the beginning of his composition he says: “Of this reason which exists53 always men are ignorant,” where it is uncertain whether “always” should go with “which exists” or with “are ignorant.” [7] Further, a solecism results from not appropriately connecting or joining two words with a word which is equally suitable to both.
+For instance, in speaking of “sound” and “color”, the word “seeing” should not be used, for it is not suitable to both, whereas “perceiving” is. It also causes obscurity, if you do not say at the outset what you mean, when you intend to insert a number of details in the middle; for instance, if you say: “I intended after having spoken to him thus and thus and in this way to set out” instead of “I intended to set out after having spoken to him,” and then this or that happened, in this or that manner.
+
+6. The following rules contribute to loftiness of style. Use of the description instead of the name of a thing; for instance, do not say “circle,” but “a plane figure, all the points of which are equidistant from the center.” But for the purpose of conciseness the reverse—use the name instead of the description. [2] You should do the same to express anything foul or indecent; if the foulness is in the description, use the name; if in the name, the description. [3] Use metaphors and epithets by way of illustration, taking care, however, to avoid what is too poetical. [4] Use the plural for the singular, after the manner of the poets, who, although there is only one harbor, say “ to Achaean harbors,
+
+” and, “ Here are the many-leaved folds of the tablet.54
+
+” [5] You should avoid linking up, but each word should have its own article: τῆς γυναικὸς τῆς ἡμετέρας. But for conciseness, the reverse: τῆς ἡμετέρας γυναικός. [6] Employ a connecting particle or for conciseness omit it, but avoid destroying the connection;
+for instance “having gone and having conversed with him,” or, “having gone, I conversed with him.” [7] Also the practice of Antimachus is useful, that of describing a thing by the qualities it does not possess; thus, in speaking of the hill Teumessus,55 he says, “ There is a little windswept hill;
+
+” for in this way amplification may be carried on ad infinitum. This method may be applied to things good and bad, in whichever way it may be useful. Poets also make use of this in inventing words, as a melody “without strings” or “without the lyre”; for they employ epithets from negations, a course which is approved in proportional metaphors, as for instance, to say that the sound of the trumpet is a melody without the lyre.
+
+7. Propriety of style will be obtained by the expression of emotion and character, and by proportion to the subject matter. [2] Style is proportionate to the subject matter when neither weighty matters are treated offhand, nor trifling matters with dignity, and no embellishment is attached to an ordinary word; otherwise there is an appearance of comedy, as in the poetry of Cleophon,56 who used certain expressions that reminded one of saying “madam fig.” [3] Style expresses emotion, when a man speaks with anger of wanton outrage; with indignation and reserve, even in mentioning them, of things foul or impious; with admiration of things praiseworthy; with lowliness of things pitiable; and so in all other cases. [4] Appropriate style
+also makes the fact appear credible; for the mind of the hearer is imposed upon57 under the impression that the speaker is speaking the truth, because, in such circumstances, his feelings are the same, so that he thinks （even if it is not the case as the speaker puts it） that things are as he represents them; and the hearer always sympathizes with one who speaks emotionally, even though he really says nothing. [5] This is why speakers often confound their hearers by mere noise.
+
+[6] Character also may be expressed by the proof from signs, because to each class and habit there is an appropriate style. I mean class in reference to age—child, man, or old man; to sex—man or woman; to country—Lacedaemonian or Thessalian. I call habits those moral states which form a man's character in life; [7] for not all habits do this. If then anyone uses the language appropriate to each habit, he will represent the character; for the uneducated man will not say the same things in the same way as the educated. But the hearers also are impressed in a certain way by a device employed ad nauseam by writers of speeches:58 “Who does not know?” “Everybody knows”; for the hearer agrees, because he is ashamed to appear not to share what is a matter of common knowledge.
+
+[8] The opportune or inopportune use of these devices
+applies to all kinds of Rhetoric.59 [9] But whenever one has gone too far, the remedy may be found in the common piece of advice—that he should rebuke himself in advance;60 then the excess seems true, since the orator is obviously aware of what he is doing. [10] Further, one ought not to make use of all kinds of correspondence61 together; for in this manner the hearer is deceived. I mean, for instance, if the language is harsh, the voice, features, and all things connected should not be equally harsh; otherwise what each really is becomes evident. But if you do this in one instance and not in another, the art escapes notice, although the result is the same. If mild sentiments are harshly expressed or harsh sentiments mildly, the speech lacks persuasiveness.
+
+[11] Compound words, a number of epithets, and “foreign” words especially, are appropriate to an emotional speaker; for when a man is enraged it is excusable for him to call an evil “high-as-heaven” or “stupendous.” He may do the same when he has gripped his audience and filled it with enthusiasm, either by praise, blame, anger, or friendliness, as Isocrates does at the end of his Panegyricus62: “Oh, the fame and the name!” and “In that they endured.” For such is the language of enthusiastic orators, and it is clear that the hearers accept what they say in a sympathetic spirit. Wherefore this style is appropriate to poetry; for there is something inspired in poetry. It should therefore be used either in this way or
+when speaking ironically, after the manner of Gorgias, or of Plato in the Phaedrus.63
+
+8. The form of diction should be neither metrical nor without rhythm. If it is metrical, it lacks persuasiveness, for it appears artificial, and at the same time it distracts the hearer's attention, since it sets him on the watch for the recurrence of such and such a cadence; just as, when the public criers ask, “Whom does the emancipated64 choose for his patron?” the children shout “Cleon.” [2] If it is without rhythm, it is unlimited, whereas it ought to be limited （but not by meter）; for that which is unlimited is unpleasant and unknowable. Now all things are limited by number, and the number belonging to the form of diction is rhythm, of which the meters are divisions.65 [3] Wherefore prose must be rhythmical, but not metrical, otherwise it will be a poem. Nor must this rhythm be rigorously carried out, but only up to a certain point.
+
+[4] Of the different rhythms the heroic is dignified, but lacking the harmony of ordinary conversation; the iambic is the language of the many, wherefore of all meters it is most used in common speech; but speech should be dignified and calculated to rouse the hearer. The trochaic is too much like the cordax; this is clear from the tetrameters,
+which form a tripping rhythm. There remains the paean, used by rhetoricians from the time of Thrasymachus, although they could not define it.
+
+The paean is a third kind of rhythm closely related to those already mentioned; for its proportion is 3 to 2, that of the others 1 to 1 and 2 to 1, with both of which the paean, whose proportion is 1 1/2 to 1, is connected.66 [5] All the other meters then are to be disregarded for the reasons stated, and also because they are metrical; but the paean should be retained, because it is the only one of the rhythms mentioned which is not adapted to a metrical system, so that it is most likely to be undetected. [6] At the present day one kind of paean alone is employed, at the beginning as well as at the end;67 the end, however, ought to differ from the beginning. Now there are two kinds of paeans, opposed to each other. The one is appropriate at the beginning, where in fact it is used. It begins with a long syllable and ends with three short: “ Δα¯λο˘γε˘νε˘ς εἴτε Λυ˘κι˘αν, （“O Delos-born, or it may be Lycia”）,
+
+” and “ Χρυ¯σε˘ο˘κό˘μα¯ Ἕ˘κα˘τε˘ παῖ Διό˘ς （“Golden-haired far-darter, son of Zeus”）.
+
+” The other on the contrary begins with three short syllables and ends with one long one: “ με˘τὰ˘ δε˘ γᾶν ὕ˘δα˘τά˘ τ᾽ ὠκε˘α˘νὸν ἠφά˘νι˘σε˘νύξ68 （“after earth and waters, night obscured ocean”）.
+
+” This is a suitable ending, for the short syllable, being incomplete, mutilates the cadence. But the period should be broken off by a long syllable and
+the end should be clearly marked, not by the scribe nor by a punctuation mark,69 but by the rhythm itself. [7] That the style should be rhythmical and not unrhythmical, and what rhythms and what arrangement of them make it of this character, has now been sufficiently shown.
+
+9. The style must be either continuous and united by connecting particles, like the dithyrambic preludes, or periodic, like the antistrophes of the ancient poets. The continuous style is the ancient one; for example, [2] “This is the exposition of the investigation of Herodotus of Thurii.” It was formerly used by all, but now is used only by a few. By a continuous style I mean that which has no end in itself and only stops when the sense is complete. It is unpleasant, because it is endless, for all wish to have the end in sight. That explains why runners, just when they have reached the goal,70 lose their breath and strength, whereas before, when the end is in sight, they show no signs of fatigue. [3] Such is the continuous style. The other style consists of periods, and by period I mean a sentence that has a beginning and end in itself and a magnitude that can be easily grasped.
+What is written in this style is pleasant and easy to learn, pleasant because it is the opposite of that which is unlimited, because the hearer at every moment thinks he is securing something for himself and that some conclusion has been reached; whereas it is unpleasant neither to foresee nor to get to the end of anything. It is easy to learn, because it can be easily retained in the memory. The reason is that the periodic style has number, which of all things is the easiest to remember; that explains why all learn verse with greater facility than prose,71 for it has number by which it can be measured. [4] But the period must be completed with the sense and not stop short, as in the iambics of Sophocles,72 “ This is Calydon, territory of the land of Pelops;
+
+” for by a division of this kind it is possible to suppose the contrary of the fact, as in the example, that Calydon is in Peloponnesus.
+
+[5] A period may be composed of clauses, or simple. The former is a complete sentence, distinct in its parts and easy to repeat in a breath, not divided like the period in the line of Sophocles above, but when it is taken as a whole.73 By clause I mean one of the two parts of this period, and by a simple period one that consists of only one clause. [6] But neither clauses nor periods should be curtailed or too long. If too short, they often make the hearer stumble; for when he is hurrying on
+towards the measure of which he already has a definite idea, if he is checked by the speaker stopping, a sort of stumble is bound to occur in consequence of the sudden stop. If too long, they leave the hearer behind, as those who do not turn till past the ordinary limit leave behind those who are walking with them. Similarly long periods assume the proportions of a speech and resemble dithyrambic preludes. This gives rise to what Democritus of Chios74 jokingly rebuked in Melanippides,75 who instead of antistrophes composed dithyrambic preludes: “ A man does harm to himself in doing harm to another, and a long prelude is most deadly to one who composes it;76
+
+” for these verses may be applied to those who employ long clauses. Again, if the clauses are too short, they do not make a period, so that the hearer himself is carried away headlong.
+
+[7] The clauses of the periodic style are divided or opposed; divided, as in the following sentence: “I have often wondered at those who gathered together the general assemblies and instituted the gymnastic contests”;77 opposed, in which, in each of the two clauses, one contrary is brought close to another, or the same word is coupled with both contraries;
+for instance, “They were useful to both, both those who stayed and those who followed; for the latter they gained in addition greater possessions than they had at home, for the former they left what was sufficient in their own country.” Here “staying behind,” “following,” “sufficient,” “more” are contraries. Again: “to those who need money and those who wish to enjoy it”; where “enjoying” is contrary to “acquiring.” Again: “It often happens in these vicissitudes that the wise are unsuccessful, while fools succeed”: “At once they were deemed worthy of the prize of valor and not long after won the command of the sea”: “To sail over the mainland, to go by land over the sea, bridging over the Hellespont and digging through Athos”: “And that, though citizens by nature, they were deprived of the rights of citizenship by law”: “For some of them perished miserably, others saved themselves disgracefully”: “Privately to employ barbarians as servants,78 but publicly to view with indifference many of the allies reduced to slavery”: “Either to possess it while living or to leave it behind when dead.”79 And what some one said against Pitholaus and Lycophron80 in the lawcourt: “These men, who used to sell you when they were at home, having come to you have bought you.”
+All these passages are examples of antithesis. [8] This kind of style is pleasing, because contraries are easily understood and even more so when placed side by side, and also because antithesis resembles a syllogism; for refutation is a bringing together of contraries.
+
+[9] Such then is the nature of antithesis; equality of clauses is parisosis; the similarity of the final syllables of each clause paromoiosis. This must take place at the beginning or end of the clauses. At the beginning the similarity is always shown in entire words; at the end, in the last syllables, or the inflections of one and the same word, or the repetition of the same word. For instance, at the beginning: Ἀγρὸν γὰρ ἔλαβεν ἀργὸν παρ᾽ αὐτοῦ,81 “for he received from him land untilled”; “ δωρητοί τ᾽ ἐπέλοντο παράρρητοί τ᾽ ἐπέεσσιν,82 “they were ready to accept gifts and to be persuaded by words;”
+
+” at the end: ᾠήθησαν αὐτὸν παιδίον τετοκέναι, ἀλλ᾽ αὐτοῦ αἴτιον γεγονέναι,83 “they thought that he was the father of a child, but that he was the cause of it”; ἐν πλείσταις δὲ φροντίσι καὶ ἐν ἐλαχίσταις ἐλπίσιν, “in the greatest anxiety and the smallest hopes.” Inflections of the same word: ἄξιος δὲ σταθῆναι χαλκοῦς, οὐκ ἄξιος ὢν χαλκοῦ, “worthy of a bronze statue, not being worth a brass farthing.” Repetition of a word: σὺ δ᾽ αὐτὸν καὶ ζῶντα ἔλεγες κακῶς καὶ νῦν γράφεις κακῶς, “while he lived you spoke ill of him, now he is dead you write ill of him.” Resemblance of one syllable: τί ἂν ἔπαθες δεινόν, εἰ ἄνδρ᾽ εἶδες ἀργόν, “what ill would you have suffered, if you had seen an idle man?” All these figures may be found in the same sentence at once—
+antithesis, equality of clauses, and similarity of endings. In the Theodectea84 nearly all the beginnings85 of periods have been enumerated. [10] There are also false antitheses, as in the verse of Epicharmus: “ τόκα μὲν ἐν τήνων ἐγὼν ἦν, τόκα δὲ παρὰ τήνοις ἐγών, “at one time I was in their house, at another I was with them.”86
+
+”
+
+10. Having settled these questions, we must next state the sources of smart and popular sayings. They are produced either by natural genius or by practice; to show what they are is the function of this inquiry. [2] Let us therefore begin by giving a full list of them, and let our starting-point be the following. Easy learning is naturally pleasant to all, and words mean something, so that all words which make us learn something are most pleasant. Now we do not know the meaning of strange words, and proper terms we know already. It is metaphor, therefore, that above all produces this effect; for when Homer87 calls old age stubble, he teaches and informs us through the genus; for both have lost their bloom. [3] The similes of the poets also have the same effect; wherefore, if they are well constructed, an impression of smartness is produced. For the simile, as we have said, is a metaphor differing only by the addition of a word,88 wherefore it is less pleasant because it is longer; it does not say that this is that, so that
+the mind does not even examine this. [4] Of necessity, therefore, all style and enthymemes that give us rapid information are smart. This is the reason why superficial enthymemes, meaning those that are obvious to all and need no mental effort, and those which, when stated, are not understood, are not popular, but only those which are understood the moment they are stated, or those of which the meaning, although not clear at first, comes a little later; for from the latter a kind of knowledge results, from the former neither the one nor the other.89
+
+[5] In regard to the meaning of what is said, then, such enthymemes are popular. As to style, popularity of form is due to antithetical statement; for instance, “accounting the peace that all shared to be a war against their private interests,”90 where “war” is opposed to “peace”; [6] as to words, they are popular if they contain metaphor, provided it be neither strange, for then it is difficult to take in at a glance, nor superficial, for then it does not impress the hearer; further, if they set things “before the eyes”; for we ought to see what is being done rather than what is going to be done. We ought therefore to aim at three things—metaphor, antithesis, actuality.
+
+[7] Of the four kinds of metaphor91
+the most popular are those based on proportion. Thus, Pericles said that the youth that had perished during the war had disappeared from the State as if the year had lost its springtime.92 Leptines, speaking of the Lacedaemonians, said that he would not let the Athenians stand by and see Greece deprived of one of her eyes. When Chares was eager to have his accounts for the Olynthian war examined, Cephisodotus indignantly exclaimed that, now he had the people by the throat, he was trying to get his accounts examined93; on another occasion also he exhorted the Athenians to set out for Euboea without delay “and provision themselves there, like the decree of Miltiades.94” After the Athenians had made peace with Epidaurus and the maritime cities, Iphicrates indignantly declared “that they had deprived themselves of provisions for the war.”95 Pitholaus called the Paralus96 “the bludgeon of the people,” and Sestos “the corn-chest97 of the Piraeus.” Pericles recommended that Aegina, “the eyesore of the Piraeus,” should be removed. Moerocles, mentioning a very “respectable” person by name, declared that he was as much a scoundrel as himself; for whereas that honest man played the scoundrel at 33 per cent. he himself was satisfied with 10 per cent.98 And the iambic of Anaxandrides,99 on girls who were
+slow to marry, “ My daughters are “past the time” of marriage.
+
+” And the saying of Polyeuctus100 upon a certain paralytic named Speusippus, “that he could not keep quiet, although Fortune had bound him in a five-holed pillory of disease.” Cephisodotus called the triremes “parti-colored mills,”101 and [Diogenes] the Cynic used to say that the taverns102 were “the messes” of Attica. Aesion103 used to say that they had “drained” the State into Sicily,104 which is a metaphor and sets the thing before the eyes. His words “so that Greece uttered a cry” are also in a manner a metaphor and a vivid one. And again, as Cephisodotus bade the Athenians take care not to hold their “concourses” too often; and in the same way Isocrates, who spoke of those “who rush together” in the assemblies.105 And as Lysias says in his Funeral Oration, that it was right that Greece should cut her hair at the tomb of those who fell at Salamis, since her freedom was buried along with their valor. If the speaker had said that it was fitting that Greece should weep, her valor being buried with them, it would have been a metaphor and a vivid one,
+whereas “freedom” by the side of “valor” produces a kind of antithesis. And as Iphicrates said, “The path of my words leads through the center of the deeds of Chares”; here the metaphor is proportional and the words “through the center” create vividness. Also, to say that one “calls upon dangers to help against dangers” is a vivid metaphor. And Lycoleon on behalf of Chabrias said, “not even reverencing the suppliant attitude of his statue of bronze,”106 a metaphor for the moment, not for all time, but still vivid; for when Chabrias is in danger, the statue intercedes for him, the inanimate becomes animate, the memorial of what he has done for the State. And “in every way studying poorness of spirit,”107 for “studying” a thing implies to increase it.108 And that “reason is a light that God has kindled in the soul,” for both the words reason and light make something clear. “For we do not put an end to wars, but put them off,”109 for both ideas refer to the future—putting off and a peace of such a kind. And again, it is a metaphor to say that such a treaty is “a trophy far more splendid than those gained in war; for the latter are raised in memory of trifling advantages and a single favor of fortune, but the former commemorates the end of the whole war”;110 for both treaty and trophy are signs of victory. Again, that cities also render
+a heavy account to the censure of men; for rendering an account111 is a sort of just punishment.
+
+11. We have said that smart sayings are derived from proportional metaphor and expressions which set things before the eyes. We must now explain the meaning of “before the eyes,” and what must be done to produce this. [2] I mean that things are set before the eyes by words that signify actuality. For instance, to say that a good man is “four-square”112 is a metaphor, for both these are complete, but the phrase does not express actuality, whereas “of one having the prime of his life in full bloom”113 does; similarly, “thee, like a sacred animal ranging at will”114 expresses actuality, and in “ Thereupon the Greeks shooting forward with their feet115
+
+” the word “shooting” contains both actuality and metaphor. [3] And as Homer often, by making use of metaphor, speaks of inanimate things as if they were animate; and it is to creating actuality in all such cases that his popularity is due, as in the following examples: “ Again the ruthless stone rolled down to the plain.116
+
+” “ The arrow flew.117
+
+” “ [The arrow] eager to fly [towards the crowd].118
+
+”
+“ [The spears] were buried in the ground, longing to take their fill of flesh.119
+
+” “ The spear-point sped eagerly through his breast.120
+
+”. For in all these examples there is appearance of actuality, since the objects are represented as animate: “the shameless stone,” “the eager spear-point,” and the rest express actuality. Homer has attached these attributes by the employment of the proportional metaphor; for as the stone is to Sisyphus, so is the shameless one to the one who is shamelessly treated. [4] In his popular similes also he proceeds in the same manner with inanimate things: “ Arched, foam-crested, some in front, others behind;121
+
+” for he gives movement and life to all, and actuality is movement.
+
+[5] As we have said before, metaphors should be drawn from objects which are proper to the object, but not too obvious; just as, for instance, in philosophy it needs sagacity to grasp the similarity in things that are apart. Thus Archytas said that there was no difference between an arbitrator and an altar, for the wronged betakes itself to one or the other. Similarly, if one were to say that an anchor and a pot-hook hung up were identical; for both are the same sort of thing, but they differ in this—that one is hung up above and the other below.122 And if one were to say “the cities have been reduced to the same level,” this amounts to the same in the case of things far apart—the equality of “levelling” in regard to superficies and resources.123
+
+[6] Most smart sayings are derived from metaphor,
+and also from misleading the hearer beforehand.124 For it becomes more evident to him that he has learnt something, when the conclusion turns out contrary to his expectation, and the mind seems to say, “How true it is! but I missed it.” And smart apophthegms arise from not meaning what one says, as in the apophthegm of Stesichorus, that “the grasshoppers will sing to themselves from the ground.”125 And clever riddles are agreeable for the same reason; for something is learnt, and the expression is also metaphorical. And what Theodorus calls “novel expressions” arise when what follows is paradoxical, and, as he puts it, not in accordance with our previous expectation; just as humorists make use of slight changes in words. The same effect is produced by jokes that turn on a change of letter; for they are deceptive. These novelties occur in poetry as well as in prose; for instance, the following verse does not finish as the hearer expected: “ And he strode on, under his feet—chilblains,
+
+” whereas the hearer thought he was going to say “sandals.” This kind of joke must be clear from the moment of utterance. Jokes that turn on the word are produced, not by giving it the proper meaning, but by perverting it; for instance, when Theodorus said to Nicon, the player on the cithara, “you are troubled” （ θράττει）; for while pretending to say “something troubles you,” he deceives us; for he means something else.126
+Therefore the joke is only agreeable to one who understands the point; for if one does not know that Nicon is a Thracian, he will not see any joke in it. [7] Similarly, “you wish to destroy him （ πέρσαι）.”127 Jokes of both these kinds128 must be suitably expressed. Similar instances are such witticisms as saying that “the empire of the sea” was not “the beginning of misfortunes” for the Athenians, for they benefited by it; or, with Isocrates,129 that “empire” was “the beginning of misfortunes for the city”; in both cases that which one would not have expected to be said is said, and recognized as true. For, in the second example, to say that “empire is empire” shows no cleverness, but this is not what he means, but something else; in the first, the ἀρχή which is negatived is used in a different sense. [8] In all these cases, success is attained when a word is appropriately applied, either by homonym or by metaphor. For example, in the phrase Anaschetos （Bearable） is Unbearable,130 there is a contradiction of the homonym, which is only appropriate, if Anaschetus is an unbearable person. And, “Thou shalt not be more of a stranger than a stranger,” or “not more than you should be,” which is the same thing. And again, “ The stranger must not always be a stranger,
+
+” for here too the word repeated is taken in a different sense.131 It is the same with the celebrated verse of Anaxandrides, “ It is noble to die before doing anything that deserves death;132
+
+” for this is the same as saying that “it is worthy to die when one does not
+deserve to die,” or, that “it is worthy to die when one is not worthy of death,” or, “when one does nothing that is worthy of death.” [9] Now the form of expression of these sayings is the same; but the more concisely and antithetically they are expressed, the greater is their popularity. The reason is that antithesis is more instructive and conciseness gives knowledge more rapidly. [10] Further, in order that what is said may be true and not superficial, it must always either apply to a particular person or be suitably expressed; for it is possible for it to have one quality and not the other. For instance, “One ought to die guiltless of any offence,” “The worthy man should take a worthy woman to wife.” There is no smartness in either of these expressions, but there will be if both conditions are fulfilled: “It is worthy for a man to die, when he is not worthy of death.” The more special qualities the expression possesses, the smarter it appears; for instance, if the words contain a metaphor, and a metaphor of a special kind, antithesis, and equality of clauses, and actuality.
+
+[11] Similes also, as said above, are always in a manner approved metaphors;133 since they always consist of two terms, like the proportional metaphor, as when we say, for instance, that the shield is the goblet of Ares, and the bow a lyre without strings.
+But such an expression is not simple, but when we call the bow a lyre, or the shield a goblet, it is.134 [12] And similes may be formed as follows: a flute-player resembles an ape,135 a short-sighted man a spluttering lamp; for in both cases there is contraction.136 [13] But they are excellent when there is a proportional metaphor; for it is possible to liken a shield to the goblet of Ares and a ruin to the rag of a house; to say that Niceratus is a Philoctetes bitten by Pratys, to use the simile of Thrasymachus, when he saw Niceratus, defeated by Pratys in a rhapsodic competition, still dirty with his hair uncut.137 It is herein that poets are especially condemned if they fail, but applauded if they succeed. I mean, for instance, when they introduce an answering clause:138 “ He carries his legs twisted like parsley,
+
+” or again, “ Like Philammon punching the leather sack.
+
+” All such expressions are similes, and similes, as has been often said, are metaphors of a kind.
+
+[14] Proverbs also are metaphors from species to species. If a man, for instance, introduces into his house something from which he expects to benefit, but afterwards finds himself injured instead, it is as the Carpathian139 says of the hare; for both have
+experienced the same misfortunes. This is nearly all that can be said of the sources of smart sayings and the reasons which make them so.
+
+[15] Approved hyperboles are also metaphors. For instance, one may say of a man whose eye is all black and blue, “you would have thought he was a basket of mulberries,” because the black eye is something purple, but the great quantity constitutes the hyperbole. Again, when one says “like this or that” there is a hyperbole differing only in the wording: “ Like Philammon punching the leather sack,
+
+” or, “you would have thought that he was Philammon fighting the sack”; “ Carrying his legs twisted like parsley,
+
+” or, “you would have thought that he had no legs, but parsley, they being so twisted.” There is something youthful about hyperboles; [16] for they show vehemence. Wherefore those who are in a passion most frequently make use of them: “ Not even were he to offer me gifts as many in number as the sand and dust. . . but a daughter of Agamemnon, son of Atreus, I will not wed, not even if she rivalled golden Aphrodite in beauty, or Athene in accomplishments.140
+
+”
+（Attic orators are especially fond of hyperbole.141） Wherefore142 it is unbecoming for elderly people to make use of them.
+
+12. But we must not lose sight of the fact that a different style is suitable to each kind of Rhetoric. That of written compositions is not the same as that of debate; nor, in the latter, is that of public speaking the same as that of the law courts. But it is necessary to be acquainted with both; for the one requires a knowledge of good Greek, while the other prevents the necessity of keeping silent when we wish to communicate something to others, which happens to those who do not know how to write. [2] The style of written compositions is most precise, that of debate is most suitable for delivery. Of the latter there are two kinds, ethical and emotional; this is why actors are always running after plays of this character, and poets after suitable actors. However, poets whose works are only meant for reading are also popular, as Chaeremon, who is as precise as a writer of speeches, and Licymnius143 among dithyrambic poets. When compared, the speeches of writers appear meagre in public debates, while those of the rhetoricians, however well delivered, are amateurish when read. The reason is that they are only suitable to public debates; hence speeches suited for delivery, when delivery is absent, do not fulfil their proper function and appear silly. For instance, asyndeta and frequent
+repetition of the same word are rightly disapproved in written speech, but in public debate even rhetoricians make use of them, for they lend themselves to acting.144 [3] （But one must vary the expression when one repeats the same thing, for this as it were paves the way for declamation:145 as, “This is he who robbed you, this is he who deceived you, this is he who at last attempted to betray you.” This is what Philemon the actor did in The Old Man's Folly of Anaxandrides, when he says “Rhadamanthus and Palamedes,” and when he repeats the word “I” in the prologue to The Pious.146 For unless such expressions are varied by action, it is a case of “the man who carries the beam”147 in the proverb.）
+
+[4] It is the same with asyndeta: “I came, I met, I entreated.” For here delivery is needed, and the words should not be pronounced with the same tone and character, as if there was only one clause. Further, asyndeta have a special characteristic; for in an equal space of time many things appear to be said, because the connecting particle makes many things one, so that, if it be removed, it is clear that the contrary will be the case, and that the one will become many. Therefore an asyndeton produces amplification: thus, in “I came, I conversed, I besought,”
+the hearer seems to be surveying many things, all that the speaker said.148 This also is Homer's intention in the passage “ Nireus, again, from Syme . . .,
+Nireus son of Aglaia . . .,
+Nireus, the most beautiful . . . ;149
+
+” for it is necessary that one of whom much has been said should be often mentioned; if then the name is often mentioned, it seems as if much has been said150; so that, by means of this fallacy, Homer has increased the reputation of Nireus, though he only mentions him in one passage; he has perpetuated his memory, though he never speaks of him again.
+
+[5] The deliberative style is exactly like a rough sketch,151 for the greater the crowd, the further off is the point of view; wherefore in both too much refinement is a superfluity and even a disadvantage. But the forensic style is more finished, and more so before a single judge, because there is least opportunity of employing rhetorical devices, since the mind more readily takes in at a glance what belongs to the subject and what is foreign to it; there is no discussion,152 so the judgement is clear. This is why the same orators do not excel in all these styles; where action is most effective, there the style is least finished, and this is a case in which voice, especially a loud one, is needed.
+
+The epideictic style is especially suited to written compositions, for its function is reading;153 [6] and next to it comes the forensic style. It is superfluous to make the further distinction
+that style should be pleasant or magnificent. Why so, any more than temperate, liberal, or anything else that indicates moral virtue? For it is evident that, if virtue of style has been correctly defined, what we have said will suffice to make it pleasant. For why, if not to please, need it be clear, not mean, but appropriate? If it be too diffuse, or too concise, it will not be clear; but it is plain that the mean is most suitable. What we have said will make the style pleasant, if it contains a happy mixture of proper and “foreign” words, of rhythm, and of persuasiveness resulting from propriety. This finishes what we had to say about style; of all the three kinds of Rhetoric in general, and of each of them in particular. It only remains to speak of arrangement.
+
+13. A speech has two parts. It is necessary to state the subject, and then to prove it. Wherefore it is impossible to make a statement without proving it, or to prove it without first putting it forward; for both he who proves proves something, and he who puts something forward does so in order to prove it. [2] The first of these parts is the statement of the case, the second the proof, a similar division to that of problem and demonstration. [3] But the division now generally made is absurd; for narrative only belongs in a manner to forensic speech, but in epideictic or deliberative speech how is it possible that there should be narrative as it is defined, or a refutation;
+or an epilogue in demonstrative speeches?154 In deliberative speeches, again, exordium, comparison, and recapitulation are only admissible when there is a conflict of opinion. For both accusation and defence are often found in deliberative, but not qua deliberative speech. And further, the epilogue does not even belong to every forensic speech, for instance, when it is short, or the matter is easy to recollect; for in the epilogue what happens is that there is a reduction of length.155
+
+[4] So then the necessary parts of a speech are the statement of the case and proof. These divisions are appropriate to every speech, and at the most the parts are four in number—exordium, statement, proof, epilogue; for refutation of an opponent is part of the proofs, and comparison is an amplification of one's own case, and therefore also part of the proofs; for he who does this proves something, whereas the exordium and the epilogue are merely aids to memory. [5] Therefore, if we adopt all such divisions we shall be following Theodorus156 and his school, who distinguished narrative, additional narrative, and preliminary narrative, refutation and additional refutation. But one must only adopt a name to express a distinct species or a real difference; otherwise, it becomes empty and silly, like the terms introduced by Licymnius in his “Art,” where he speaks of “being wafted along,” “wandering from the subject,”157 and “ramifications.”
+
+14. The exordium is the beginning of a speech, as
+the prologue in poetry and the prelude in flute-playing; for all these are beginnings, and as it were a paving the way for what follows. The prelude resembles the exordium of epideictic speeches; for as flute-players begin by playing whatever they can execute skilfully and attach it to the key-note, so also in epideictic speeches should be the composition of the exordium; the speaker should say at once whatever he likes, give the key-note and then attach the main subject. And all do this, an example being the exordium of the Helen of Isocrates; for the eristics and Helen have nothing in common.158 At the same time, even if the speaker wanders from the point, this is more appropriate than that the speech should be monotonous.
+
+[2] In epideictic speeches, the sources of the exordia are praise and blame, as Gorgias, in the Olympiacus, says, “Men of Greece, you are worthy to be admired by many,” where he is praising those who instituted the solemn assemblies. Isocrates on the other hand blames them because they rewarded bodily excellences, but instituted no prize for men of wisdom. [3] Exordia may also be derived from advice, for instance, one should honor the good, wherefore the speaker praises Aristides, or such as are neither famous nor worthless, but who, although they are good, remain obscure, as Alexander, son of Priam;
+for this is a piece of advice. [4] Again, they may be derived from forensic exordia, that is to say, from appeals to the hearer, if the subject treated is paradoxical, difficult, or commonly known, in order to obtain indulgence, like Choerilus159: “ But now when all has been allotted.
+
+” These then are the sources of epideictic exordia—praise, blame, exhortation, dissuasion, appeals to the hearer. And these exordia160 may be either foreign or intimately connected with the speech.
+
+[5] As for the exordia of the forensic speech, it must be noted that they produce the same effect as dramatic prologues and epic exordia （for those of dithyrambs resemble epideictic exordia: “For thee and thy presents or spoils）.161” [6] But in speeches162 and epic poems the exordia provide a sample of the subject, in order that the hearers may know beforehand what it is about, and that the mind may not be kept in suspense, for that which is undefined leads astray; so then he who puts the beginning, so to say, into the hearer's hand enables him, if he holds fast to it, to follow the story. Hence the following exordia: “ Sing the wrath, O Muse.163
+
+” “ Tell me of the man, O Muse.164
+
+” “ Inspire me with another theme, how from the land of Asia a great war crossed into Europe.165
+
+” Similarly, tragic poets make clear the subject of their drama, if not at the outset,
+like Euripides, at least somewhere in the prologue, like Sophocles, “ My father was Polybus.166
+
+” It is the same in comedy. So then the most essential and special function of the exordium is to make clear what is the end or purpose of the speech; wherefore it should not be employed, if the subject is quite clear or unimportant. [7] All the other forms of exordia in use are only remedies,167 and are common to all three branches of Rhetoric. These are derived from the speaker, the hearer, the subject, and the opponent. From the speaker and the opponent, all that helps to destroy or create prejudice. But this must not be done in the same way; for the defendant must deal with this at the beginning, the accuser in the epilogue. The reason is obvious. The defendant, when about to introduce himself, must remove all obstacles, so that he must first clear away all prejudice; the accuser must create prejudice in the epilogue, that his hearers may have a livelier recollection of it.
+
+The object of an appeal to the hearer is to make him well disposed or to arouse his indignation, and sometimes to engage his attention or the opposite; for it is not always expedient to engage his attention, which is the reason why many speakers try to make their hearers laugh. As for rendering the hearers tractable, everything will lead up to it if a person wishes, including the appearance of respectability,
+because respectable persons command more attention. Hearers pay most attention to things that are important, that concern their own interests, that are astonishing, that are agreeable; wherefore one should put the idea into their heads that the speech deals with such subjects. To make his hearers inattentive, the speaker must persuade them that the matter is unimportant, that it does not concern them, that it is painful.
+
+[8] But we must not lose sight of the fact that all such things are outside the question, for they are only addressed to a hearer whose judgement is poor and who is ready to listen to what is beside the case; for if he is not a man of this kind, there is no need of an exordium, except just to make a summary statement of the subject, so that, like a body, it may have a head. [9] Further, engaging the hearers' attention is common to all parts of the speech, if necessary; for attention slackens everywhere else rather than at the beginning. Accordingly, it is ridiculous to put this168 at the beginning, at a time when all listen with the greatest attention. Wherefore, when the right moment comes, one must say, “And give me your attention, for it concerns you as much as myself”; and, “I will tell you such a thing as you have never yet” heard of, so strange and wonderful. This is what Prodicus used to do; whenever his hearers began to nod, he would throw in a dash of his fifty-drachma lecture. [10] But it is clear that one does not speak thus to the hearer qua hearer;169 for all in their exordia endeavor either to arouse prejudice or to remove their own apprehensions:
+“ O prince, I will not say that with haste [I have come breathless].170
+
+” “ Why this preamble?171
+
+” This is what those also do who have, or seem to have, a bad case; for it is better to lay stress upon anything rather than the case itself. That is why slaves never answer questions directly but go all round them, and indulge in preambles. [11] We have stated172 how the hearer's goodwill is to be secured and all other similar states of mind. And since it is rightly said, “ Grant that on reaching the Phaeacians I may find friendship or compassion,173
+
+” the orator should aim at exciting these two feelings.
+
+In epideictic exordia, one must make the hearer believe that he shares the praise, either himself, or his family, or his pursuits, or at any rate in some way or other. For Socrates says truly in his Funeral Oration that “it is easy to praise Athenians in the presence of Athenians, but not in the presence of Lacedaemonians.”174
+
+[12] Deliberative oratory borrows its exordia from forensic, but naturally they are very uncommon in it. For in fact the hearers are acquainted with the subject, so that the case needs no exordium, except for the orator's own sake, or on account of his adversaries, or if the hearers attach too much or too little importance to the question according to his idea. Wherefore he must either excite or remove prejudice, and magnify or minimize the importance of the subject. Such are the reasons for exordia; or else they merely serve the purpose of ornament,
+since their absence makes the speech appear offhand. For such is the encomium on the Eleans, in which Gorgias, without any preliminary sparring or movements, starts off at once, “Elis, happy city.”
+
+15. One way of removing prejudice is to make use of the arguments by which one may clear oneself from disagreeable suspicion; for it makes no difference whether this suspicion has been openly expressed or not; and so this may be taken as a general rule. [2] Another way175 consists in contesting the disputed points, either by denying the fact or its harmfulness, at least to the plaintiff; or by asserting that its importance is exaggerated; or that it is not unjust at all, or only slightly so; or neither disgraceful nor important. These are the possible points of dispute: as Iphicrates, in answer to Nausicrates, admitted that he had done what the prosecutor alleged and inflicted damage, but denied that he had been guilty of wrongdoing. Again, one may strike the balance, when guilty of wrongdoing, by maintaining that although the action was injurious it was honorable, painful but useful, or anything else of the kind.
+
+[3] Another method consists in saying that it was a case of error, misfortune, or necessity; as, for example, Sophocles said that he trembled, not, as the accuser said, in order to appear old, but from necessity, for it was against his wish that he was eighty years of age.176 One may also substitute one motive for another, and say that one did not mean to injure but to do something else, not that of which one was accused, and that the wrongdoing was accidental: “I should deserve
+your hatred, had I acted so as to bring this about.”
+
+[4] Another method may be employed if the accuser, either himself or one closely related to him, has been involved in a similar charge, either now or formerly; [5] or, if others are involved who are admittedly not exposed to the charge; for instance, if it is argued that so-and-so is an adulterer, because he is a dandy, then so-and-so must be.
+
+[6] Again, if the accuser has already similarly accused others, or himself been accused by others;177 or if others, without being formally accused, have been suspected as you are now, and their innocence has been proved.
+
+[7] Another method consists in counter-attacking the accuser; for it would be absurd to believe the words of one who is himself unworthy of belief.
+
+[8] Another method is to appeal to a verdict already given, as Euripides did in the case about the exchange of property;178 when Hygiaenon accused him of impiety as having advised perjury in the verse, “ My tongue hath sworn, but my mind is unsworn,179
+
+” Euripides replied that his accuser did wrong in transferring the decisions of the court of Dionysus to the law courts; for he had already rendered an account of what he had said there,180 or was still ready to do so, if his adversary desired to accuse him.
+
+[9] Another method consists in attacking slander, showing how great an evil it is, and this because it alters the nature of judgements,181 and that it does not rely on the real facts of the case.
+
+Common to both parties is the topic of tokens,
+as in the Teucer,182 Odysseus reproaches Teucer with being a relative of Priam, whose sister his mother Hesione was; to which Teucer replied that his father Telamon was the enemy of Priam, and that he himself did not denounce the spies.183
+
+[10] Another method, suitable for the accuser, is to praise something unimportant at great length, and to condemn something important concisely; or, putting forward several things that are praiseworthy in the opponent, to condemn the one thing that has an important bearing upon the case. Such methods184 are most artful and unfair; for by their use men endeavor to make what is good in a man injurious to him, by mixing it up with what is bad.
+
+Another method is common to both accuser and defender. Since the same thing may have been done from several motives, the accuser must disparage it by taking it in the worse sense, while the defender must take it in the better sense. For instance, when Diomedes chose Odysseus for his companion, it may be said on the one hand that he did so because he considered him to be the bravest of men, on the other, that it was because Odysseus was the only man who was no possible rival for him, since he was a poltroon. Let this suffice for the question of prejudice.
+
+16. In the epideictic style the narrative should not be consecutive, but disjointed; for it is necessary to go through the actions which form the subject of the speech. For a speech is made up of one part that is inartificial （the speaker being in no way the author
+of the actions which he relates）, and of another that does depend upon art. The latter consists in showing that the action did take place, if it be incredible, or that it is of a certain kind, or of a certain importance, or all three together. [2] This is why it is sometimes right not to narrate all the facts consecutively, because a demonstration of this kind185 is difficult to remember. From some facts a man may be shown to be courageous, from others wise or just. Besides, a speech of this kind is simpler, whereas the other is intricate and not plain. [3] It is only necessary to recall famous actions; wherefore most people have no need of narrative—for instance, if you wish to praise Achilles; for everybody knows what he did, and it is only necessary to make use of it. But if you wish to praise Critias, narrative is necessary, for not many people know what he did . . .186
+
+[4] But at the present day it is absurdly laid down that the narrative should be rapid. And yet, as the man said to the baker when he asked whether he was to knead bread hard or soft, “What! is it impossible to knead it well?” so it is in this case; for the narrative must not be long, nor the exordium, nor the proofs either. For in this case also propriety does not consist either in rapidity or conciseness, but in a due mean; that is, one must say all that will make the facts clear,
+or create the belief that they have happened or have done injury or wrong, or that they are as important as you wish to make them. The opposite party must do the opposite. [5] And you should incidentally narrate anything that tends to show your own virtue, for instance, “I always recommended him to act rightly, not to forsake his children”; or the wickedness of your opponent, for instance, “but he answered that, wherever he might be, he would always find other children,” an answer attributed by Herodotus187 to the Egyptian rebels; or anything which is likely to please the dicasts.
+
+[6] In defence, the narrative need not be so long; for the points at issue are either that the fact has not happened or that it was neither injurious nor wrong nor so important as asserted, so that one should not waste time over what all are agreed upon, unless anything tends to prove that, admitting the act, it is not wrong. [7] Again, one should only mention such past things as are likely to excite pity or indignation if described as actually happening; for instance, the story of Alcinous, because in the presence of Penelope it is reduced to sixty lines,188 and the way in which Phayllus dealt with the epic cycle,189 and the prologue to the Oeneus.190
+
+[8] And the narrative should be of a moral character, and in fact it will be so, if we know what effects this. One thing is to make clear our moral purpose; for as is the moral purpose, so is the character, and as is the end, so is the moral purpose. For this reason mathematical treatises have no
+moral character, because neither have they moral purpose; for they have no moral end. But the Socratic dialogues have; for they discuss such questions. [9] Other ethical indications are the accompanying peculiarities of each individual character; for instance, “He was talking and walking on at the same time,” which indicates effrontery and boorishness. Nor should we speak as if from the intellect, after the manner of present-day orators; but from moral purpose: “But I wished it, and I preferred it; and even if I profited nothing, it is better.” The first statement indicates prudence, the second virtue; for prudence consists in the pursuit of what is useful, virtue in that of what is honorable. If anything of the kind seems incredible, then the reason must be added; of this Sophocles gives an example, where his Antigone says that she cared more for her brother than for her husband or children; for the latter can be replaced after they are gone, “ but when father and mother are in the grave, no brother can ever be born.191
+
+” If you have no reason, you should at least say that you are aware that what you assert is incredible, but that it is your nature; for no one believes that a man ever does anything of his own free will except from motives of self-interest.192
+
+[10] Further, the narrative should draw upon what is emotional by the introduction of such of its accompaniments as are well known, and of what is specially characteristic of either yourself or of the adversary: “And he went off looking grimly at me”;
+and as Aeschines193 says of Cratylus, that he hissed violently and violently shook his fists. Such details produce persuasion because, being known to the hearer, they become tokens of what he does not know. Numerous examples of this may be found in Homer: “ Thus she spoke, and the aged nurse covered her face with her hands;194
+
+” for those who are beginning to weep lay hold on their eyes. And you should at once introduce yourself and your adversary as being of a certain character, that the hearers may regard you or him as such; but do not let it be seen. That this is easy is perfectly clear195 from the example of messengers; we do not yet know what they are going to say, but nevertheless we have an inkling of it.
+
+[11] Again, the narrative should be introduced in several places, sometimes not at all at the beginning. In deliberative oratory narrative is very rare, because no one can narrate things to come; but if there is narrative, it will be of things past, in order that, being reminded of them, the hearers may take better counsel about the future. This may be done in a spirit either of blame or of praise; but in that case the speaker does not perform the function of the deliberative orator. If there is anything incredible, you should immediately promise both to give a reason for it at once and to submit it to the judgement of any whom the hearers approve;196 as, for instance, Jocasta in the Oedipus of Carcinus197 is always promising, when the man who is looking for her son makes inquiries
+of her; and similarly Haemon in Sophocles.198
+
+17. Proofs should be demonstrative, and as the disputed points are four, the demonstration should bear upon the particular point disputed; for instance, if the fact is disputed, proof of this must be brought at the trial before anything else; or if it is maintained that no injury has been done; or that the act was not so important as asserted; or was just, then this must be proved, the three last questions being matters of dispute just as the question of fact. [2] But do not forget that it is only in the case of a dispute as to this question of fact that one of the two parties must necessarily199 be a rogue; for ignorance is not the cause, as it might be if a question of right or wrong were the issue; so that in this case one should spend time on this topic, but not in the others.
+
+[3] In epideictic speeches, amplification is employed, as a rule, to prove that things are honorable or useful; for the facts must be taken on trust, since proofs of these are rarely given, and only if they are incredible or the responsibility is attributed to another.200
+
+[4] In deliberative oratory, it may be maintained either that certain consequences will not happen, or that what the adversary recommends will happen, but that it will be unjust, inexpedient, or not so important as supposed. But one must also look to see whether he makes any false statements as to things outside the issue; for these look like evidence that he makes misstatements about the issue itself as well.
+
+[5] Examples are best suited to deliberative oratory and enthymemes to forensic. The first is concerned with the future, so that its examples must be derived from the past; the second with the question of the existence or non-existence of facts, in which demonstrative and necessary proofs are more in place; for the past involves a kind of necessity.201 [6] One should not introduce a series of enthymemes continuously but mix them up; otherwise they destroy one another. For there is a limit of quantity; thus, “ Friend, since thou hast said as much as a wise man would say,202
+
+” [7] where Homer does not say τοιαῦτα （such things as）, but τόσα （as many things as）. Nor should you try to find enthymemes about everything; otherwise you will be imitating certain philosophers, who draw conclusions that are better known and more plausible than the premises from which they are drawn.203 [8] And whenever you wish to arouse emotion, do not use an enthymeme, for it will either drive out the emotion or it will be useless; for simultaneous movements drive each other out, the result being their mutual destruction or weakening. Nor should you look for an enthymeme at the time when you wish to give the speech an ethical character; for demonstration involves neither moral character nor moral purpose.
+
+[9] Moral maxims, on the other hand, should be used in both narrative and proof; for they express moral character; for instance, “I gave him the money and that although I knew that one ought not to trust.” Or, to arouse emotion:
+“I do not regret it, although I have been wronged; his is the profit, mine the right.”
+
+[10] Deliberative speaking is more difficult than forensic, and naturally so, because it has to do with the future; whereas forensic speaking has to do with the past, which is already known, even by diviners, as Epimenides the Cretan said; for he used to divine, not the future, but only things that were past but obscure.204 Further, the law is the subject in forensic speaking; and when one has a starting-point, it is easier to find a demonstrative proof. Deliberative speaking does not allow many opportunities for lingering—for instance, attacks on the adversary, remarks about oneself, or attempts to arouse emotion. In this branch of Rhetoric there is less room for these than in any other, unless the speaker wanders from the subject. Therefore, when at a loss for topics, one must do as the orators at Athens, amongst them Isocrates, for even when deliberating, he brings accusations against the Lacedaemonians, for instance, in the Panegyricus,205 and against Chares in the Symmachikos （On the Peace）.206
+
+[11] Epideictic speeches should be varied with laudatory episodes, after the manner of Isocrates, who is always bringing somebody in. This is what Gorgias meant when he said that he was never at a loss for something to say; for, if he is speaking of Peleus, he praises Achilles, then Aeacus, then the god; similarly courage, which does this and that,207 or is of such a kind. [12] If you have proofs, then, your language must be both ethical and demonstrative; if you have no enthymemes, ethical only. In fact, it is more fitting that a virtuous man
+should show himself good than that his speech should be painfully exact.
+
+[13] Refutative enthymemes are more popular than demonstrative, because, in all cases of refutation, it is clearer that a logical conclusion has been reached; for opposites are more noticeable when placed in juxtaposition.208 [14] The refutation of the opponent is not a particular kind of proof; his arguments should be refuted partly by objection, partly by counter-syllogism.209 In both deliberative and forensic rhetoric he who speaks first should state his own proofs and afterwards meet the arguments of the opponent, refuting or pulling them to pieces beforehand. But if the opposition is varied,210 these arguments should be dealt with first, as Callistratus did in the Messenian assembly; in fact, it was only after he had first refuted what his opponents were likely to say that he put forward his own proofs. [15] He who replies should first state the arguments against the opponent's speech, refuting and answering it by syllogisms, especially if his arguments have met with approval. For as the mind is ill-disposed towards one against whom prejudices have been raised beforehand, it is equally so towards a speech, if the adversary is thought to have spoken well. One must therefore make room in the hearer's mind for the speech one intends to make; and for this purpose you must destroy the impression made by the adversary. Wherefore it is only after having combated all the arguments, or the most important, or those which are plausible, or most easy to refute, that you should substantiate your own case:
+“ I will first defend the goddesses, for I [do not think] that Hera . . .211
+
+” in this passage the poet has first seized upon the weakest argument.
+
+[16] So much concerning proofs. In regard to moral character, since sometimes, in speaking of ourselves, we render ourselves liable to envy, to the charge of prolixity, or contradiction, or, when speaking of another, we may be accused of abuse or boorishness, we must make another speak in our place, as Isocrates does in the Philippus212 and in the Antidosis.213 Archilochus uses the same device in censure; for in his iambics he introduces the father speaking as follows of his daughter: “ There is nothing beyond expectation, nothing that can be sworn impossible,214
+
+” and the carpenter Charon in the iambic verse beginning “ I [care not for the wealth] of Gyges;215
+
+” Sophocles, also,216 introduces Haemon, when defending Antigone against his father, as if quoting the opinion of others. [17] One should also sometimes change enthymemes into moral maxims; for instance, “Sensible men should become reconciled when they are prosperous; for in this manner they will obtain the greatest advantages,” which is equivalent to the enthymeme “If men should become reconciled whenever it is most useful and advantageous, they should be reconciled in a time of prosperity.”
+
+18. In regard to interrogation, its employment is especially opportune,
+when the opponent has already stated the opposite, so that the addition of a question makes the result an absurdity217; as, for instance, when Pericles interrogated Lampon about initiation into the sacred rites of the savior goddess. On Lampon replying that it was not possible for one who was not initiated to be told about them, Pericles asked him if he himself was acquainted with the rites, and when he said yes, Pericles further asked, “How can that be, seeing that you are uninitiated?” [2] Again, interrogation should be employed when one of the two propositions is evident, and it is obvious that the opponent will admit the other if you ask him. But the interrogator, having obtained the second premise by putting a question, should not make an additional question of what is evident, but should state the conclusion. For instance, Socrates, when accused by Meletus of not believing in the gods, asked218 whether he did not say that there was a divine something; and when Meletus said yes, Socrates went on to ask if divine beings were not either children of the gods or something godlike. When Meletus again said yes, Socrates rejoined, [3] “Is there a man, then, who can admit that the children of the gods exist without at the same time admitting that the gods exist?” Thirdly, when it is intended to show that the opponent either contradicts himself or puts forward a paradox. [4] Further, when the opponent can do nothing else but answer the question by a sophistical solution; for if he answers, “Partly yes, and partly no,” “Some are, but some are not,” “In one sense it is so, in another not,” the hearers cry out against him as being in a difficulty.219 In other cases interrogation should not be attempted; for if the adversary raises an objection, the interrogator seems to be defeated; for it is impossible to ask a number of questions, owing to the hearer's weakness. Wherefore also we should compress our enthymemes as much as possible.
+
+[5] Ambiguous questions should be answered by defining them by a regular explanation, and not too concisely; those that appear likely to make us contradict ourselves should be solved at once in the answer, before the adversary has time to ask the next question or to draw a conclusion; for it is not difficult to see the drift of his argument. Both this, however, and the means of answering will be sufficiently clear from the Topics.220 [6] If a conclusion is put in the form of a question, we should state the reason for our answer. For instance, Sophocles221 being asked by Pisander whether he, like the rest of the Committee of Ten, had approved the setting up of the Four Hundred, he admitted it. “What then?” asked Pisander, “did not this appear to you to be a wicked thing?” Sophocles admitted it. “So then you did what was wicked?” “Yes, for there was nothing better to be done.” The Lacedaemonian, who was called to account for his ephoralty, being asked if he did not think that the rest of his colleagues had been justly put to death, answered yes. “But did not you pass the same measures as they did?” “Yes.” “Would not you, then, also be justly put to death?” “No; for my colleagues did this for money; I did not, but acted according to my conscience.” For this reason we should not ask any further questions after drawing the conclusion,
+nor put the conclusion itself as a question, unless the balance of truth is unmistakably in our favor.
+
+[7] As for jests, since they may sometimes be useful in debates, the advice of Gorgias was good—to confound the opponents' earnest with jest and their jest with earnest. We have stated in the Poetics222 how many kinds of jests there are, some of them becoming a gentleman, others not. You should therefore choose the kind that suits you. Irony is more gentlemanly than buffoonery; for the first is employed on one's own account, the second on that of another.
+
+19. The epilogue is composed of four parts: to dispose the hearer favorably towards oneself and unfavorably towards the adversary; to amplify and depreciate; to excite the emotions of the hearer; to recapitulate. For after you have proved that you are truthful and that the adversary is false, the natural order of things is to praise ourselves, blame him, and put the finishing touches.223 One of two things should be aimed at, to show that you are either relatively or absolutely good and the adversary either relatively or absolutely bad. The topics which serve to represent men as good or bad have already been stated.224 [2] After this,
+when the proof has once been established, the natural thing is to amplify or depreciate; for it is necessary that the facts should be admitted, if it is intended to deal with the question of degree; just as the growth of the body is due to things previously existing. The topics of amplification and depreciation have been previously set forth.225 [3] Next, when the nature and importance of the facts are clear, one should rouse the hearer to certain emotions—pity, indignation, anger, hate, jealousy, emulation, and quarrelsomeness. The topics of these also have been previously stated,226 [4] so that all that remains is to recapitulate what has been said. This may appropriately be done at this stage in the way certain rhetoricians wrongly recommend for the exordium, when they advise frequent repetition of the points, so that they may be easily learnt. In the exordium we should state the subject, in order that the question to be decided may not escape notice, but in the epilogue we should give a summary statement of the proofs.
+
+[5] We should begin by saying that we have kept our promise, and then state what we have said and why. Our case may also be closely compared with our opponent's; and we may either compare what both of us have said on the same point, or without direct comparison: “My opponent said so-and-so, and I said so-and-so on this point
+and for these reasons.” Or ironically, as for instance, “He said this and I answered that; what would he have done, if he had proved this, and not simply that?” Or by interrogation: “What is there that has not been proved?” or, “What has my opponent proved?” We may, therefore, either sum up by comparison, or in the natural order of the statements, just as they were made, our own first, and then again, separately, if we so desire, what has been said by our opponent. [6] To the conclusion of the speech227 the most appropriate style is that which has no connecting particles, in order that it may be a peroration, but not an oration: “I have spoken; you have heard; you know the facts; now give your decision.”228
+
+1 Since the authors of tragedies acted their own plays, there was no need for professional actors, nor for instruction in the art of delivery or acting. This explains why no attempt had been made to deal with the question. Similarly, the rhapsodists （reciters of epic poems） were at first as a rule the composers of the poems themselves.
+
+2 In the law courts and public assembly.
+
+3 Cope prefers: “is thought vulgar, and rightly so considered.”
+
+4 Or, “is concerned with appearance.”
+
+5 i.e. style, delivery, and acting, which are of no use to serious students.
+
+6 A treatise on Pathos.
+
+7 Of Leontini in Sicily, Greek sophist and rhetorician （see Introduction）.
+
+8 i.e. the poetic style. See Aristot. Poet. 22, where the choice of words and the extent to which out-of-the-way words and phrases may be used in poetry is discussed.
+
+9 “Nouns and verbs” is a conventional expression for all the parts of speech. Cp. Hor. AP 240 “non ego inornata et dominantia nomina solum verbaque,” where dominantia is a literal adaptation of κύρια, the usual Latin equivalent for which is propria.
+
+10 Aristot. Poet. 21.
+
+11 It is impossible to find a satisfactory English equivalent for the terms ξένος, ξενικός, τὸ ξενίζον, as applied to style. “Foreign” does not really convey the idea, which is rather that of something opposed to “home-like,”—out-of-the-way, as if from “abroad.” Jebb suggests “distinctive.”
+
+12 Cp. Hor. AP. 46, where it is said that the choice and use of words requires subtlety and care, skill in making an old word new by clever combination （callida iunctura） being especially praised.
+
+13 Chaps. 3 and 7.
+
+14 This is a parenthetical note.
+
+15 Aristot. Poet. 21, 22.
+
+16 The different kinds of words.
+
+17 Aristot. Poet. 22.9: “for this alone cannot be borrowed from another.”
+
+18 Begging （as a beggar does） and praying （as a priest might） are both forms of asking, and by substituting one for the other, you can amplify or depreciate.
+
+19 See 1.7.32.
+
+20 Head of a distinguished Athenian family which held the office of torch-bearer at the Eleusinian mysteries. A man of notoriously dissipated character, he took some part in politics.
+
+21 The δᾳδοῦχος or hereditary torch-bearer ranked next to the hierophant or chief priest. In addition to holding the torch during the sacrifices, he took part in the recitation of the ritual and certain purificatory ceremonies. The μητραγύρται or mendicant priests collected alms on behalf of various deities, especially the great Mother Cybele （whence their name）. They included both men and women of profligate character, addicted to every kind of lewdness.
+
+22 Cf. “‘convey’ the wise it call” （Merry Wives, I. iii.）. Either the euphemistic or unfavorable application of the term may be adopted.
+
+23 According to Athenaeus, p. 669, he was a poet and rhetorician who recommended the Athenians to use bronze money.
+
+24 A scream is neither articulate nor agreeable, like the sound of poetry, although both are voices or sound, and to that extent the metaphor is correct.
+
+25 Athenaeus, p. 452.
+
+26 Rhetorician and sophist of Heraclea in Pontus.
+
+27 Eur. Orest. 1588. In the preceding line Menelaus accuses Orestes as a matricide and ready to heap murder on murder, to which Orestes replies, you should rather call me the avenger of my father Agamemnon, who had been murdered by his wife Clytaemnestra, the mother of Orestes. “Matricide” and “avenger of his father” show the good and bad sides of the deed of Orestes.
+
+28 Frag. 7 （P.L.G. 3, p. 39O）. The winner of the mule race was Anaxilaus of Rhegium.
+
+29 A sophist, not the poet （author of the obscure Alexander or Cassandra）, who was later than Aristotle.
+
+30 Lobeck conjectured κατεπιορκήσαντας, “who commit out-and-out perjury.”
+
+31 Sciron and Sinnis were both robbers slain by Theseus, by Lycophron turns Sinnis into a γλῶττα, using it adjectivally = “destructive”; cf. σῖνος, “harm”; σίντης = σίννις.
+
+32 The meaning of παραλαβών is quite obscure: various renderings are “having taken to himself,” “received,” “grasped,” “inherited.” The word μουσεῖον, originally a haunt of the Muses, came to mean a school of art or literature. The fault appears to consist in the addition of τῆς φύσεως, but it is difficult to see why. Cope confesses his inability to understand the passage. Jebb translates: “he does not say, ‘having taken to himself a school of the Muses,’ but ‘to Nature's school of the Muses.’”
+
+33 On this passage Thompson （Gorgias, p. 179） says: “The metaphor of reaping and sowing is a mere commonplace . . . but ‘pallid and bloodless affairs’ is a phrase which would need apology even from a modern.” On the other hand, it is difficult to see what objection there is to calling the Odyssey “a beautiful mirror of human life.” Another reading is ἔναιμα, which Cope translates “events fresh with the blood in them.” If the two extracts are taken together, it is suggested （apparently by the editor of Cope's notes） that the sense may be: “things green and unripe （flushed with sap）, and this was the crop which you . . .,” the adjectives referring to green and unripe stalks of corn.
+
+34 Or, “a barrier against the laws.” This is the general meaning of ἐπιτείχισμα, a border fortress commanding an enemy's country.
+
+35 Compare Hom. Il. 22.164 ἐνάντιον ὦρτο λεὼν ὥς.
+
+36 Pupil of Isocrates and historical writer. Idrieus was a prince of Caria, who had been imprisoned.
+
+37 Meaning that there was no difference between Euxenus without a knowledge of geometry and Archidamus with a knowledge of geometry. The proportion of geometrical knowledge will remain the same, so that Archidamus can be called an ungeometrical Euxenus, and Euxenus a geometrical Archidamus （see 4.4, note for “by proportion”）.
+
+38 Plat. Rep. 469d.
+
+39 Plat. Rep. 488a.
+
+40 Plat. Rep. 601b.
+
+41 If metrical restrictions have been removed and they are read as prose.
+
+42 Meaning that they did not appreciate the benefits received from the Athenians, who conquered the islands （440 B.C.）.
+
+43 Or, “are cut down by axes, the handles of which are made of their own wood.”
+
+44 It is disputed whether Demosthenes is the orator or the Athenian general in the Peloponnesian War. The point of the comparison is that in a democracy the general instability of political conditions makes the people sick of the existing state of things and eager for a change.
+
+45 Aristoph. Kn. 715-718.
+
+46 As the shield is to Ares, so is the goblet to Dionysus. Proportion is defined （Aristot. Nic. Eth. 5.3.8） as “an equality of ratios, implying four terms at the least,” and the proportional metaphor is one in which the second term is to the first as the fourth is to the third; for then one can by metaphor substitute the fourth for the second, or the second for the fourth. Let A be Dionysus, B a goblet, C Ares, D a shield. Then by the definition, the goblet is to Dionysus as the shield is to Ares. The metaphor consists in transferring to the goblet the name belonging to its analogue the shield. Sometimes an addition is made by way of explanation of the word in its new sense, and the goblet may be described as the shield of Dionysus and the shield as the goblet of Ares. The shield and the goblet both come under the same genus, being characteristics of a deity, and can therefore be reciprocally transferred （Aristot. Poet. 21.4）.
+
+47 The apodosis. ἀποδιδόναι is used in the sense of introducing a clause answering to the πρότασις, and ἀπόδοσις for this answering clause.
+
+48 Of Agrigentum （c. 490-430）, poet, philosopher, and physician. Among other legends connected with him, he is said to have thrown himself into the crater of Etna, so that by suddenly disappearing he might be thought to be a god. His chief work was a poem called Nature, praised by Lucretius. The principles of things are the four elements, fire, air, water, and earth, which are unalterable and indestructible. Love and hate, alternately prevailing, regulate the periods of the formation of the world. The existing fragments corroborate Aristotle's statement.
+
+49 Hdt. 1.53, Hdt. 1.91. Croesus consulted the Delphian oracle whether he should attack Cyrus the Persian or not. Encouraged by the ambiguous oracle, he did so, but was utterly defeated.
+
+50 The deliberate intention to mislead.
+
+51 σκεύη, “inanimate things,” the classification probably being male, female, and inanimate, not the grammatical one of masculine, feminine, and neuter.
+
+52 Heraclitus of Ephesus （c. 535-475）. His chief work was on Nature. From the harshness of his language and the carelessness of his style he was called ὁ σκοτεινός （the obscure）. According to him, fire was the origin of all things; all things become fire, and then fire becomes all other things. All things are in a constant state of flux; all is the same and yet not the same. Knowledge is founded upon sensual perception, but only the gods possess knowledge in perfection.
+
+53 Or, “although this reason exists for ever men are born . . . without understanding” （Welldon）.
+
+54 Eur. IT 727.
+
+55 In Boeotia. The quotation is from the Thebaid of Antimachus of Claros （c. 450 B.C.）. The Alexandrians placed him next to Homer among the epic poets. In his eulogy of the little hill, he went on to attribute to it all the good qualities it did not possess, a process which could obviously be carried on ad infinitum.
+
+56 By some identified with the tragic poet spoken of in Aristot. Poet. 2. His manner of expression, due to the wish to use fine language, was ridiculous owing to its being out of harmony with the subject. Others consider that he was not a poet at all but an orator. πότνια was a title of respect, applied to females, whether they were goddesses or ordinary women.
+
+57 Or, “draws a wrong conclusion.”
+
+58 Alluding to Isocrates.
+
+59 Or, “to all the special rules given above.”
+
+60 The exaggeration should be brought forward first, by way of forestalling the objection, and accompanied by some limiting phrase. Quintilian （Quint. Inst. Orat. 8.3.37） gives as examples: “so to say,” “if I may be allowed to say so.”
+
+61 Adaptation of voice, features, etc., to the subject.
+
+62 Isoc. 4.186, where μνήμη is the reading, translated “name” above （lit. memory） for the sake of the jingle, which also appears in the Greek of Isocrates. All the Mss. of Aristotle give γνώμην here, which shows that it is a misquotation.
+
+63 Plat. Phaedrus 238d, Plat. Phaedrus 241e. In the first of these passages Socrates attributes his unusual flow of words to the inspiration of the nymphs, and tells Phaedrus not to wonder if he seems to be in a divine fury, for he is not far from breaking out into dithyrambs. An example of the irony （a term implying a certain amount of contempt （2.2.25）） of Gorgias is given in Aristot. Pol. 3.1. When asked how a person comes to be a citizen, he answers: “as those are mortars which have been made by mortar-makers, so those are Larissaeans who have been made by artisans （ δημιουργούς）; for some of these were Larissa-makers （ λαρισοποιούς）.” There is a play on the double meaning of δημιουργός, （1） artisan, （2） magistrate, lit. people-maker. Larissa-makers means makers of Larissaeans in such numbers that they might be regarded as makers of Larissa itself. It has also been suggested that λαρισοποιούς may mean “kettle-makers,” from λάρισα “a kettle,” so called from having been first made at Larissa, but this seems unnecessary. The point is that Gorgias maintained that all were citizens who were made so by the magistrates, that citizenship was a manufactured article （see W. L. Newman's note on the passage, and W. H. Thompson's Appendix to his edition of Plato's Gorgias）.
+
+64 He did not generally possess full rights of citizenship. The point of the illustration is that the hearer looks for the cadence just as confidently as, when a freedman is asked what patron he selects, every one expects him to say “Cleon.”
+
+65 Bywater's emendation for τμητά of the Mss. Aristotle seems to be referring to the Pythagorean theory that “number” is the regulating force in all things, and in giving shape to language “number” is rhythm, which reduces a formless mass of words to order.
+
+66 The heroic rhythm （dactyls, spondees, and anapests） is as 1 to 1, two short syllables being equal to one long; trochaic and iambic 2 to 1 on the same principle; paean, 3 to 2 （three shorts and one long）, being the mean between the other two.
+
+67 Understanding καὶ τελευτῶντες.
+
+68 All three attributed to Simonides （Frag. 26 B: P.L.G.）.
+
+69 A dash below the first word of a line, indicating the end of a sentence.
+
+70 καμπτῆρες, properly the turning-point of the δίαυλος or double course, is here used for the goal itself.
+
+71 τῶν χύδην: lit. what is poured fourth promiscuously: in flowing, unfettered language （Liddell and Scott）.
+
+72 Really from the Meleager of Euripides, Frag. 515 （T.G.F.）. The break in the sense comes after γαῖα, Πελοπίας χθονός really belonging to the next line: ἐν ἀντιπόρθμοις πέδι᾽ ἔχουσ᾽ εὐδαίμονα. As it stands in the text, the line implies that Calydon was in Peloponnesus, which of course it was not. The meaning then is: “This is the land of Calydon, with its fertile plains in the country over against Peloponnesus” （on the opposite side of the strait, near the mouth of the Corinthian gulf）.
+
+73 It does not consist in simply dividing off any words from the context as the speaker pleases, but the parts of the sentence as a whole are properly constructed and distinguished and the sense also is complete.
+
+74 A well-known musician.
+
+75 Of Melos. He wrote rambling dithyrambic preludes without strophic correspondence. Others take ἀναβολή to mean an entire ode.
+
+76 Hes. WD 265. The second line is a parody of 266, ἡ δὲ κακὴ βουλὴ τῷ βουλεύσαντι κακίστη.
+
+77 The beginning of Isoc. 4.
+
+78 “To dwell with us” （Jebb）. The point seems to be that the barbarian domestics were in a comfortable position as compared with those of the allies who were reduced to slavery; and there is a contrast between the desire of getting servants for private convenience, while in a matter affecting public life indifference was shown.
+
+79 All the above quotations are from Isoc. 4.1, 35, 41, 48, 72, 89, 105, 149, 181, 186, with slight variations. The last quotation is part of the sentence of which the beginning appears in 7.11 above. The whole runs: “And how great must we consider the fame and the name and the glory which those who have highly distinguished themselves in such deeds of valor will either have when living or will leave behind after their death.”
+
+80 They murdered Alexander, tyrant of Pherae, being instigated by their sister, his wife. Nothing is known of the case referred to. According to Cope, the meaning is: “When they were at Pherae, they used to sell you as slaves, but now they have come to buy you” （referring to bribery in court）. Others take ὠνεῖσθαι in a passive sense: “they have been bought,” i.e. have had to sell themselves to you.
+
+81 Aristoph. frag. 649 （Kock, Com. Att. Frag. 1.1880）.
+
+82 Hom. Il. 9.526.
+
+83 The text is obviously corrupt.
+
+84 See Introduction.
+
+85 Roemer's text has ἀρεταί （excellences）.
+
+86 There is no real antithesis, the sense of both clauses being the same.
+
+87 Hom. Od. 24.213 ἀλλ᾽ ἔμπης καλάμην γέ σ᾽ ὀΐμαι εἰσορόωντα γιγνώσκειν. The words are those of Odysseus, whom Athene had changed into an old beggar, to Eumaeus, his faithful swineherd, in whose house he was staying unrecognized.
+
+88 προσθέσει: the addition of the particle of comparison ὡς. προθέσει （the reading of the Paris ms.） would mean, （1） “manner of setting forth” （Cope）, or （2） “a metaphor, with a preface” （Jebb） （but the meaning of this is not clear）. The simile only says that one thing resembles another, not, like the metaphor, that it is another; since the speaker does not say this, the result is that the mind of the hearer does not go into the matter, and so the chance of instruction, of acquiring some information, is lost.
+
+89 The meaning is: the two kinds of enthymemes mentioned last do convey some information, whereas the superficial enthymemes teach nothing, either at once, or a little later, when reflection has made the meaning clear.
+
+90 Isoc. 5.73.
+
+91 In Aristot. Poet. 21 metaphor and its four classes are defined: “Metaphor consists in assigning to a thing the name of something else; and this may take place either from genus to species, or from species to genus, or from species to species, or proportionally. An instance of a metaphor from genus to species is ‘here stands my ship,’ for ‘standing’ is a genus, ‘being moored’ a species; from species to genus: ‘Odysseus truly has wrought a myriad good deeds,’ for ‘myriad’ is a specific large number, used for the generic ‘multitude’; from species to species: ‘having drawn off the life with the bronze’ and ‘having cut it with the unyielding bronze,’ where ‘drawn off’ is used in the sense of ‘cut,’ and ‘cut’ in the sense of ‘drawn off,’ both being species of ‘taking away.’” For the proportional metaphor see note on 4.4 above.
+
+92 1.7.34.
+
+93 εὔθυνα was the technical term for the examination of accounts to which all public officers had to submit when their term of office expired. Cephisodotus and Chares were both Athenian generals. “Having the people by the throat” may refer to the condition of Athens financially and his unsatisfactory conduct of the war. But the phrase εἰς πνῖγμα τὸν δῆμον ἔχοντα is objected to by Cope, who reads ἀγαγόντα and translates: “that he drove the people into a fit of choking by his attempts to offer his accounts for scrutiny in this way,” i.e. he tried to force his accounts down their throats, and nearly choked them. Another reading suggested is ἄγχοντα （throttling so as to choke）.
+
+94 This may refer to a decree of Miltiades which was so speedily carried out that it became proverbial. The expedition was undertaken to assist Euboea against Thebes.
+
+95 By making peace, Iphicrates said that the Athenians had deprived themselves of the opportunity of attacking and plundering a weak maritime city, and so securing provisions for the war. The word ἐφόδια properly means provisions for a journey and travelling expenses.
+
+96 The Paralus and Salaminia were the two sacred galleys which conveyed state prisoners.
+
+97 It commanded the trade of the Euxine.
+
+98 Moerocles was a contemporary of Demosthenes, and an anti-Macedonian in politics. He seems to have been a money-grubber and was once prosecuted for extortion. The degree of the respectability （or rather, the swindling practices） of each is calculated by their respective profits.
+
+99 Poet of the Middle Comedy: Frag. 68 （Kock, Com. Att. Frag. 2.）. The metaphor in ὑπερήμενοι is from those who failed to keep the term of payment of a fine or debt. Cope translates: “I find （ μοι） the young ladies are . . .”
+
+100 Athenian orator, contemporary of Demosthenes
+
+101 As grinding down the tributary states. They differed from ordinary mills in being gaily painted.
+
+102 Contrasted with the Spartan “messes,” which were of a plain and simple character, at which all the citizens dined together. The tavern orgies, according to Diogenes, represented these at Athens.
+
+103 Athenian orator, opponent of Demosthenes.
+
+104 Referring to the disastrous Sicilian expedition.
+
+105 Isoc. 5.12. Both συνδρομάς and συντρέχοντας refer to the collecting of a mob in a state of excitement.
+
+106 The statue of Chabrias, erected after one of his victories, represented him as kneeling on the ground, the position which he had ordered his soldiers to take up when awaiting the enemy. The statue was in the agora and could be seen from the court. Lycoleon points to it, and bases his appeal on its suppliant attitude.
+
+107 Isoc. 4.151.
+
+108 Metaphor from species to genus （10.7, first note.）, “studying” being a species of “increasing.” As a rule one studies to increase some good quality, not a bad one.
+
+109 Isoc. 4.172.
+
+110 Isoc. 4.180 （apparently from memory）.
+
+111 εὔθυνα （see 10.7, third note） further implies the punishment for an unsatisfactory statement of accounts.
+
+112 Simonides, frag. 5 （P.L.G. 2.）. Both a good man and a square are complete as far as they go, but they do not express actuality.
+
+113 Isoc. 5.10.
+
+114 Isoc. 5.127. This speech is an appeal to Philip to lead the Greeks against Persia. As a sacred animal could roam where it pleased within the precincts of its temple, so Philip could claim the whole of Greece as his fatherland, while other descendants of Heracles （whom Isocrates calls the author of Philip's line） were tied down and their outlook narrowed by the laws and constitution of the city in which they dwelt.
+
+115 Eur. IA 80, with δορί for ποσίν.
+
+116 Hom. Od. 11.598, with ἔπειτα πέδονδε for ἐπὶ δάπεδόνδε.
+
+117 Hom. Il. 13.587.
+
+118 Hom. Il. 4.126.
+
+119 Hom. Il. 11.574.
+
+120 Hom. Il. 15.541.
+
+121 Hom. Il. 13.799. The reference is to the “boiling waves of the loud-roaring sea.”
+
+122 The anchor keeps a ship steady below, the pot hook is above, and the pot hangs down from it.
+
+123 Cope, retaining ἀνωμαλίσθαι （as if from ἀνομαλίζειν, aequalitatem restituere Bonitz, cf. ἀνομάλωσις） says: “the widely dissimilar things here compared are the areas of properties and the state offices and privileges, which are to be alike equalized,” translating: “And the re-equalization of cities, when the same principle is applied to things standing wide apart, viz. to surface （area） and powers （functions, offices）.” （ ἀν- is not negative, but = re.） But the passage quoted by Victorius from Isoc. 5.40: “for I know that all the cities of Greece have been placed on the same level （ ὡμαλίσθαι） by misfortunes” suggests this as a preferable reading here, ὡμαλίσθαι meaning （1） have been levelled to the ground （although the Lexica give no instance of this use）, （2） reduced to the same level of weakness.
+
+124 προεξαπατᾶν. Or, reading προσεξαπατᾶν, “by adding deception.”
+
+125 See 2.21.8.
+
+126 According to Cope, Θρᾷττ᾽ εἶ, “you are no better than a Thracian slave-girl.”
+
+127 There is obviously a play on πέρσαι （aor. 1 infin. of πέρθω） and Πέρσαι （Persians）, but no satisfactory interpretation of the joke has been suggested.
+
+128 The paradoxical and verbal. “Suitably” may refer to the manner of delivery; to being used at the proper time; or to taking care that the word is one that may be used in the two senses.
+
+129 Isoc. 5.61; Isoc. 8.101. The point in the illustrations lies in the use of ἀρχή, first in the sense of “empire,” then in that of “beginning.” It could be said that the “empire” of the sea was or was not “the beginning of misfortunes” for Athens; for at first it was highly beneficial to them, but in the end brought disaster, and thus was the “beginning” of evil.
+
+130 Usually translated, “There is no bearing Baring.”
+
+131 Kock, C.A.F. 3.209, p. 448. In the two first examples “stranger” refers to a distant and reserved manner, as we say “don't make yourself a stranger”; in the third ξένος is apparently to be taken in the sense of “alien.” Cope translates: “for that too is of a different kind” （foreign, alien to the two others; ἀλλότριον, belonging to something or somebody else, opposed to οἰκεῖον）. But the whole passage is obscure.
+
+132 Kock, C.A.F. 2. Frag. 64, p. 163.
+
+133 Or, reading αἱ for ἀεὶ, “approved similes are . . .”
+
+134 In the simple metaphor “goblet” is substituted for “shield,” but sometimes additions are made to the word as differently applied, such as “of Ares” and “without strings.” These additions, besides involving greater detail （a characteristic of the simile）, distinctly bring out the contrast of the two terms and make a simile, whereas the metaphor simply transfers the meaning.
+
+135 In posture.
+
+136 Contraction of eyelids and flame.
+
+137 Like Philoctetes on Lemnos after he had been bitten by the snake.
+
+138 When the concluding corresponds with the introductory expression. This “answering clause” is called apodosis （5.2）, not restricted, as in modern usage, to the conclusion of a conditional sentence.
+
+139 Or, “he says it is a case of the Carpathian and the hare.” An inhabitant of the island of Carpathus introduced a brace of hares, which so multiplied that they devoured all the crops and ruined the farmers （like the rabbits in Australia）.
+
+140 Hom. Il. 9.385.
+
+141 This must be taken as a parenthetical remark, if it is Aristotle's at all.
+
+142 Because they are boyish.
+
+143 See 2.13 of this book.
+
+144 What follows, to the end of sect. 3, is of the nature of a parenthesis, not immediately connected with the subject of the chapter.
+
+145 The variation in the form of the expression suggests a similar variation in the form of the delivery or declamation.
+
+146 The meaning of this has not been satisfactorily explained. On the face of it, it seems to mean that the excellence of Philemon's delivery consisted in his way of declaiming passages in which the same words were repeated. Philemon is not to be confused with the writer of the New Comedy, the rival and contemporary of Menander.
+
+147 Used of a stiff, ungraceful speaker.
+
+148 Spengel's reading here is: πολλὰ δοκεῖ: “ὑπερεῖδεν ὅσα εἶπον,” πολλὰ δοκεῖ being parenthetical, and ὑπερεῖδον ὅσα εἶπον part of the quotation. Jebb translates: “I came, I spoke to him, I besought” （these seem many things）; “he disregarded all I said” （which certainly gives a more natural sense to ὑπερεῖδον）.
+
+149 Hom. Il. 2.671 ff.
+
+150 Cope translates: “they think that, if the name is often repeated, there must be a great deal to say about its owner”; but can this be got out of the Greek （ εἰρῆσθαι）?
+
+151 Intended to produce the effect of finished work at a distance before a large number of spectators.
+
+152 The meaning apparently is that there is no discussion, as might be the case when there were several judges, so that the decision is clear and unbiased. ἀγών and ἀγωνιστικὴ λέξις are terms used for debate （e.g. in the law courts） and the style suited to it （cf sect. 1）. Cope's editor refers to Cic. Ad Att. 1.16.8 “remoto illo studio contentionis, quem vos [you Athenians] ἀγῶνα appellatis.” Jebb translates: “the turmoil is absent, so that the judgement is serene” （in a note, “unclouded”）.
+
+153 This does not seem to agree with the general view. Funeral orations of the nature of panegyrics, for instance, were certainly meant to be spoken; but the ἔργον or proper function of an epideictic may be said to consist in reading, in its being agreeable to read. Its τέλος or end is to be read.
+
+154 The generally accepted divisions are: προοίμιον （exordium）, διήγησις （narrative）, πίστις （proof）, ἐπίλογος （peroration）. （ διήγησις is a species of πρόθεσις, which is used instead of it just before.） Aristotle objects that it is （as a rule） only the forensic speech which requires a regular διήγησις, a full and detailed statement of what has happened before. In epideictic and demonstrative （deliberative） speeches, the object of which is to prove something, there is no need of another existing division called the refutation of the adversary, and in the demonstrative there can be no room for an epilogue, which is not a summary of proofs and arguments. Thus the necessary divisions of a speech are really only two; πρόθεσις and πίστις, or at most four.
+
+155 i.e. its use is to recall the main facts briefly （sect. 4 end）, which in a short speech is needless.
+
+156 Plat. Phaedrus 266d, where the additional kinds of narrative are omitted, and their place taken by πίστωσις and ἐπιπίστωσις （confirmation of the proof）.
+
+157 Or, “diverting the judge's attention.”
+
+158 The subject of the oration was the praise of Helen, but Isocrates took the opportunity of attacking the sophists. This exemplifies his skill in the introduction of matter not strictly proper to, or in common with, the subject. The key-note is Helen; but the exordium is an attack on the Eristics, with special allusion to the Cynics and the Megarians.
+
+159 Of Samos, epic poet, author of a poem on the Persian war, from which this half-line and the context preserved in the Scholiast are taken. He complains that whereas the poets of olden times had plenty to write about, the field of poetry being as yet untilled, it was now all apportioned, and he, the last of the poets, was left behind, unable to find “a new chariot for the race-course of his song. ”
+
+160 ἐνδόσιμα = προοίμια.
+
+161 A parenthetical remark to the effect that epideictic exordia are different. Those of a forensic speech are like prologues and epic exordia, but it is different with epideictic, which may be wild, high-flown, as in the example given from an unknown author.
+
+162 That is, forensic speeches. δράμασι has been suggested for λόγοις.
+
+163 Hom. Il 1.1.
+
+164 Hom. Od. 1.1.
+
+165 From Choerilus （sect. 4）.
+
+166 Soph. OT 774. But this can hardly be called the prologue.
+
+167 That is, special remedies in the case of the hearers suffering from “inattention, unfavorable disposition, and the like” （Cope）.
+
+168 i.e., to claim the hearer's attention at the beginning, for every one is keen to listen then, but later on attention slackens.
+
+169 The hearer qua hearer should be unbiased, but in fact hearers often suffer from the defects referred to in sect. 7, for which certain forms of exordia are remedies.
+
+170 Soph. Ant. 223.
+
+171 Eur. IT 1162.
+
+172 2.1.7, 8.
+
+173 Hom. Od. 7.327.
+
+174 See 1.9.30.
+
+175 Another reading is τόπος （topic） and so throughout.
+
+176 Sophocles had two sons, Iophon and Ariston, by different wives; the latter had a son named Sophocles. Iophon, jealous of the affection shown by Sophocles to this grandson, summoned him before the phratores （a body which had some jurisdiction in family affairs） on the ground that his age rendered him incapable of managing his affairs. In reply to the charge, Sophocles read the famous choric ode on Attica from the Oedipus Coloneus, beginning Εὐίππου, ξένε, τᾶσδε χώρας （Soph. OC 668 ff.）, and was acquitted. The story in this form is probably derived from some comedy, which introduced the case on the stage （see Jebb's Introd. to the tragedy）.
+
+177 In the reading in the text, αὐτούς must apparently refer to the defendant, and one would rather expect αὐτόν. Spengel suggested ἢ ἄλλος ἢ αὐτός for ἢ ἄλλος αὐτούς: if he （i.e. the adversary） or another has similarly accused others.
+
+178 When a citizen was called upon to perform a “liturgy” or public service （e.g. the equipment of a chorus）, if he thought that one richer than himself had been passed over he could summon him and compel him to exchange properties.
+
+179 Eur. Hipp. 612. This well-known verse is three times parodied in Aristophanes （Aristoph. Thes. 275; Aristoph. Frogs 101, Aristoph. Frogs1471）. In the first passage, the sense is reversed: Euripides has dressed up a certain Mnesilochus as a woman in order that he may attend the Thesmophorian assembly. Mnesilochus first requires Euripides to take an oath that he will help him out of any trouble that may arise. Euripides takes an oath by all the gods, whereupon Mnesilochus says to Euripides: “Remember that it was your mind that swore, but not your tongue.” When Euripides was engaged in a lawsuit, his adversary quoted the line, implying that even on oath Euripides could not be believed; Euripides replied that his adversary had no right to bring before the law courts a matter which had already been settled by the theatrical judges.
+
+180 In the great Dionysiac theater.
+
+181 Or, “makes extraneous points the subject of decision” （Cope）, “raises false issues” （Jebb）.
+
+182 Of Sophocles.
+
+183 Who had been sent to Troy by the Greeks to spy upon the Trojans. It seems that he was afterwards accused of treachery, the token being the fact that Teucer was a near connection of Priam; to which he replied with another token that his father was an enemy of Priam, and further, when the Greek spies were in Troy, he never betrayed them.
+
+184 Jebb refers τοιοῦτοι to the accusers, translating τεχνικοί “artistic,” certainly the commoner meaning.
+
+185 Involving a continuous succession of proofs.
+
+186 Something has been lost here, as is shown by the transition from epideictic to forensic Rhetoric. All the mss. have a gap, which in several of them is filled by introducing the passage ἔστι δ᾽ ἔπαινος . . . μετατεθῇ （1.9.33-37）.
+
+187 Hdt. 2.30. The story was that a number of Egyptian soldiers had revolted and left in a body for Ethiopia. Their king Psammetichus begged them not to desert their wives and children, to which one of them made answer （ τῶν δέ τινα λέγεται δέξαντα τὸ αἰδοῖον εἰπεῖν, ἔνθα ἂν τοῦτο ᾖ, ἔσεσθαι αὐτοῖσι ἐνθαῦτα καὶ τέκνα καὶ γυναῖκας）.
+
+188 Hom. Od. 23.264-284, Hom. Od. 23.310-343. The title referred to the narrative in Books 9-12. It became proverbial for a long-winded story.
+
+189 he apparently summarized it.
+
+190 Of Euripides. It was apparently very compact.
+
+191 Soph. Ant. 911-912, where the mss. have κεκευθότοιν instead of Aristotle's βεβηκότων.
+
+192 Whereas this man makes his temperament responsible for the strange things he does; he is built that way and cannot help it.
+
+193 Supposed to be Aeschines called Socraticus from his intimate friendship with Socrates. A philosopher and writer of speeches for the law courts, he had a great reputation as an orator.
+
+194 Hom. Od. 19.361.
+
+195 δεῖ （omitted by others） = “one cannot help seeing.”
+
+196 Omitting τε. The difficulty is διατάττειν, which can apparently only mean “arrange.” Jebb retains τε, and reads ὡς for οἷς: “the speaker must make himself responsible for the fact . . . and marshal his reasons in a way acceptable to the hearers.” The old Latin translation vadiare quibus volunt suggested to Roemer διαιτηταῖς, “to the arbitrators they approve.”
+
+197 According to Jebb, Jocasta tells the inquirer incredible things about her son, and pledges her word for the facts. Cope says: “promises （to do something or other to satisfy him）.”
+
+198 Soph. Ant. 683-723. On this Cope remarks: “This last example must be given up as hopeless; there is nothing in the extant play which could be interpreted as required here.” According to Jebb, the “incredibility” consists in the fact that Haemon, although in love with Antigone, and strongly opposed to the sentence pronounced upon her by his father Creon, still remains loyal to the latter. Haemon explains the reason in lines 701-3, where he says that he prizes his father's welfare more than anything else, for a father's good name and prosperity is the greatest ornament for children, as is the son's for the father.
+
+199 Aristotle's argument is as follows. But it must not be forgotten that it is only in a dispute as to this question of fact that one of the two parties must necessarily be a rogue. For ignorance is not the cause （of there being a dispute about the fact, e.g. “you hit me,” “no, I didn't,” where both know the truth）, as it might be in a dispute on what was right or wrong, so that this is the topic on which you should spend some time （i.e. because here you can prove or disprove that A is πονηρός）. The passage is generally taken to mean that when it is a question of fact it is universally true that one of the disputants must be a rogue. Cope alone among editors makes any comment. In his note he says: “all that is meant is that there is a certain class of cases which fall under this issue, in which this topic may be safely used.” For instance, A may on justifiable grounds charge B with theft; B denies it, and he may be innocent, although the evidence is strongly against him. In such a case, neither of the parties is necessarily πονηρός.
+
+200 Or, reading ἄλλως, “if there is some other reason.”
+
+201 It is irrevocable, and it is possible to discuss it with some degree of certainty, whereas the future is quite uncertain, and all that can be done is to draw inferences from the past.
+
+202 Hom. Od. 4.204.
+
+203 For this passage see 1.2.12-13. The meaning is that it is absurd to prove what every one knows already.
+
+204 The remark of Epimenides is by many editors interpreted as a sarcasm upon the fraternity of soothsayers, who pretended to be able to foretell the future. But how is this to be got out of the Greek? The point is perhaps something like: “it is easy enough to talk about the past, for even soothsayers know it.” What Aristotle says here is that Epimenides practised a different kind of divination, relating to the obscure phenomena of the past. The following is an instance. After the followers of Cylon, who tried to make himself tyrant of Athens （c. 632） had been put to death by the Alcmaeonid archon Megacles, in violation of the terms of surrender, a curse rested upon the city and it was devastated by a pestilence. On the advice of the oracle, Epimenides was summoned from Crete, and by certain rites and sacrifices purified the city and put a stop to the pestilence.
+
+205 Isoc. 4.110-114.
+
+206 Isoc. 8.27.
+
+207 He enumerates all the deeds that proceed from courage. Another reading is ἢ τὰ καὶ τά, ποιεῖ ὃ τοιόνδε ἐστίν, i.e. when praising courage, and this or that, he is employing a method of the kind mentioned.
+
+208 There is no difference in form between the demonstrative and refutative enthymeme, but the latter draws opposite conclusions; and opposites are always more striking when they are brought together, and a parallel drawn between them. It is then easy to see where the fallacy lies. Cf. 2.23.30: “Refutative enthymemes are more effective （popular） than demonstrative, because they bring opposites together in a small compass, which are more striking （clearer） to the hearer from being put side by side.”
+
+209 In the translation τῶν πίστεων is taken with ἔστι: it is the business of, the proper function of, proofs. Others take it with τὰ μὲν . . . τὰ δέ: some . . . other （of the opponent's arguments）.
+
+210 If the opponent's arguments are numerous and strong, by reason of the varied nature of the points dealt with.
+
+211 Eur. Tro. 969-971. Hecuba had advised Menelaus to put Helen to death; she defends herself at length, and is answered by Hecuba in a reply of which these words form part. Her argument is that none of the three goddesses who contended for the prize of beauty on Mt. Ida would have been such fools as to allow Argos and Athens to become subject to Troy as the result of the contest, which was merely a prank.
+
+212 Isoc. 5.4-7. Isocrates says that his friends thought very highly of one of his addresses, as likely to bring peace.
+
+213 Isoc. 15.132-139, Isoc. 15.141-149. Here again Isocrates puts compliments on his composition into the mouth of an imaginary friend.
+
+214 Archilochus （c. 650） of Paros was engaged to Neobule, the daughter of Lycambes. Her father broke off the engagement, whereupon Archilochus pursued father and daughter with furious and scurrilous abuse. It is here said that, instead of attacking the daughter directly, he represented her as being attacked by her father. The meaning of ἄελπτον is not clear. It may be a general statement: the unexpected often happens; or, there is nothing so bad that you may not expect it. B. St. Hilaire translates: “There is nothing that money cannot procure,” meaning that the father was prepared to sell his daughter （Frag. 74）.
+
+215 The line ends: τοῦ πολυχρύσου μέλει. Archilochus represents Charon the carpenter as expressing his own disapproval of the desire for wealth and of the envy caused by others possessing it.
+
+216 Here again, Haemon similarly puts his own feeling as to Creon's cruel treatment of Antigone into the mouth of the people of the city, and refers to popular rumor.
+
+217 The words ὅταν . . . ᾖ have been variously translated: （1） when one of the two alternatives has already been stated; （2） when the opponent has stated what is different from the fact; （3） when the opponent has already conceded so much, “made one admission” （Jebb）.
+
+218 Reading ἤρετο.
+
+219 For the first of the quibbles Sandys refers to Aristoph. Ach. 396, where Cephisophon, being asked if Euripides was indoors, replies, “Yes and no, if you understand me”; and he gives the explanation, his mind is outside, collecting scraps of poetry, while he himself is upstairs （ ἀναβάδην, unless it means “with his legs up”） composing a tragedy. The reference in the second instance is to the adversary being reduced to such a position that he cannot answer without having recourse to sophistical divisions and distinctions, which seem to imply uncertainty. Aristotle himself is fond of such “cautiously limited judgements” （Gomperz）. The translation is that of the reading ἀποροῦντος, a conjecture of Spengel's. The audience will be ready to express its disapproval of his shuffling answers, which are evidence of his perplexity. The ordinary reading ἀποροῦντες attributes the “perplexity” to the hearers. Or, “the hearers, thinking he is puzzled, applaud us [the interrogator]” （Jebb）.
+
+220 Aristot. Top. 8.4.
+
+221 Cp. 1.14.3.
+
+222 The chapters are lost （cp. 1.11.29）.
+
+223 Or, “mould the hearers to one's will” （L. and S.）.
+
+224 Book 1.9.
+
+225 Book 2.19.
+
+226 Book 2.1-11.
+
+227 Reading τελευτῇ, a conjecture of Victorius. With τελευτή, the sense will be: “as a conclusion, the asyndectic style is appropriate.”
+
+228 It is generally supposed that this example of a suitable peroration is an echo of the conclusion of the speech of Lysias Against Eratosthenes.

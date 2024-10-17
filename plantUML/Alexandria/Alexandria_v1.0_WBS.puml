@@ -33,6 +33,7 @@ title Alexandria v 1.0 WBS
 **** Articles (long-form)
 **** Comments (kind 1111) on indexes
 **** Highlights on Zettels
+**** Embedded links to other articles and Nostr addresses
 *** Relay management
 *** Profile pages and bookmarking
 ** v 0.3.0 Advanced Article management
@@ -41,7 +42,6 @@ title Alexandria v 1.0 WBS
 **** Add content embeddings to posted zettels <<lightpink>>
 *** Remix articles
 *** Edit and forking of existing articles
-*** Embedded links to other articles and Nostr addresses
 ** v 0.4.0 Reconstruction
 *** Move from NDK to Aedile
 *** ePaper app

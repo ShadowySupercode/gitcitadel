@@ -1,14 +1,14 @@
 = GC Alexandria
 
-image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/GC-Alexandria.png[Roman scrolls]
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/logos/GC-Alexandria.png[Roman scrolls, 75, float=left]
 
-Alexandria is a Nostr Knowledge Base (NKB) and a reader for long-form articles. It is produced by the https://gitworkshop.dev/r/naddr1qq9xw6t5vd5hgctyv4kqzrthwden5te0dehhxtnvdakqyg8ayz8w3j8jsduq492j39hysg7vnhrtl4zzqcugj4m3q62qlkf8cypsgqqqw7vsfd6ccp[GitCitadel] development cooperative.
+Alexandria is a Nostr Knowledge Base (NKB), a viewer for event-based collections, and a reader for long-form articles. It is produced by the https://gitworkshop.dev/r/naddr1qq9xw6t5vd5hgctyv4kqzrthwden5te0dehhxtnvdakqyg8ayz8w3j8jsduq492j39hysg7vnhrtl4zzqcugj4m3q62qlkf8cypsgqqqw7vsfd6ccp[GitCitadel] development cooperative.
 
 == History of the project
 
 Alexandria was originally named "indextr" and was conceived by https://njump.me/npub1m3xdppkd0njmrqe2ma8a6ys39zvgp5k8u22mev8xsnqp4nh80srqhqa5sf[Liminal] to work as a NKB, in particular for scientific or engineering journals and publications.
 
-It was quickly noticed that the same event types (30040 and 30041) could be used to produce eBooks and any other collection of individual articles/pages, so the GitCitadel team decided to take on the project and adapt it to create the https://habla.news/u/laeserin@getalby.com/1719204947236[Alexandria eReading web app], in order to publish out-of-copyright books, starting with the Bible.
+It was quickly noticed that the same event types (`30040` and `30041`), as defined in [[NKBIP-01]], could be used to produce eBooks and any other collection of individual articles/pages, so the GitCitadel team decided to take on the project and adapt it to create the https://habla.news/u/laeserin@gitcitadel.com/1719204947236[Alexandria eReading web app], in order to publish out-of-copyright books, starting with the Bible.
 
 == Web client
 
@@ -16,29 +16,71 @@ It was quickly noticed that the same event types (30040 and 30041) could be used
 
 As Alexandria is targeted toward those who are trying to focus on longer, more-complex content, the design has been stripped down of any distracting elements or unnecessary details, so that the user can concentrate on the valuable information stored in the documents that they are viewing. Both light-mode and dark-mode are available.
 
-.The json view of the 30040 index cards
-image::https://i.nostr.build/KG2D2.png[event display]
+.The json view of cards
+image::https://i.nostr.build/KG2D2.png[event display, 200, float=left]
 
-.A 30040 modular article card
-image::https://i.nostr.build/Vwkl0.png[cards]
+.A 30040 index card
+image::https://i.nostr.build/Vwkl0.png[cards, 200, float=left]
 
-=== Modular articles
+.Landing page in dark mode
+image::https://i.nostr.build/iQU7hOLyNi0WubuK.png[landing page dark, 500]
 
-The specialty of this client is the ability to display long-form articles, particularly of the modular variety: event kinds 30040 and 30041 from [[nkbip-01]].
+=== Data Sources
 
-Modular articles are often referred to as the *Nostr eBook format*, with 30040 index events containing the metadata and the ordered list of the 30041 zettel events, which contain the Asciidoc-formatted content. Here, you can see how the events are linked together and can then be individually selected.
+As this is a reading app, rather than a microblogging app, we have chosen to move away from the typical chat stream, on the landing page, and instead show a quiet interface of info-cards -- eventually including some smart, personalized suggestions -- that you can peruse.
+
+If you login, the cards are drawn from your relay list or follows list, but you can also read anonymously from https://thecitadel.nostr1.com[TheCitadel] relay.
+
+Later versions will, however, be more interactive, and will strengthen our company commitment to facilitating real human interaction, with our curated community relay, https://theforest.nostr1.com[TheForest].
+
+=== Indexes and Zettels
+
+The specialty of this client is the ability to display long-form articles, particularly of the modular variety: event kinds 30040 and 30041.
+
+Modular articles are often referred to as the *Nostr eBook format*, with 30040 index events containing the metadata and the ordered list of the 30041 zettel events, which contain the Asciidoc-formatted content.
+
+==== Reading View
+
+The *Reading View* uses the indexes to create a table of contents, from which you can navigate the zettels.
+
+Here is an example of a very simple index, with a flat (single-level) hierarchy:
+
+.TOC selected
+image::https://i.nostr.build/WORBNfPr3hXidneF.png[TOC selected, 500]
+
+.Zettel selected
+image::https://i.nostr.build/mEfcvBTarIFRJia6.png[Zettel selected, 500]
+
+Here, you can see how the events are linked together and can then be individually selected:
 
 .30040 event selected
-image::https://image.nostr.build/e8268c6df06907459754ada9260ea69c6ede44d1a228b2d78d3a6b17048f5c9e.png[30040 selected, 500]
+image::https://i.nostr.build/xHNRJ32FqpzyUz2i.png[30040 selected, 500]
 
-.300041 events selected
-image::https://image.nostr.build/d92e9d1be4a16a5394b689791b749aa577b2817f0fc4a3a1e7360ce0a93bccdb.png[30041s selected, 500]
+
+After we have released the first version of Alexandria, we will begin working on an ePaper app (with only reading view), for those of you who want to download the material, to read offline, or who simply want to take a break from the glare of glowing screens.
+
+==== Editing and Composition
+
+The *Edit View* is where you can write or paste in Asciidoc text, to have Alexandria import it for you. The app will break it down into zettels, section by section. Sections are denoted by empty lines, so anything that should appear together on one Zettel should be written together, with no double-returns.
+
+.Here is the Aesop's Fables entry, in the Edit View.
+image::https://i.nostr.build/jddFZmfuCP2UHRFa.png[editing, 500]
+
+By clicking on the arrow (top-right, in the field), you come to the *Compose View*, where you will be able to edit the sections, individually, or to move them up and down in the index (changing the order that they appear in).
+
+.Here is the Aesop's Fables entry, in the Compose View.
+image::https://i.nostr.build/TrVfUvZ7SG8lBz98.png[30041 selected, 500]
+
+.Compose View in dark mode, with "Edit" button selected
+image::https://i.nostr.build/NW475IicRY8mKNdn.png[30041 selected, 500]
 
 === Write articles
 
-Alexandria features an upload facility, for you to transform your well-formatted Asciidoc text to Nostr events and publish them to your preferred relays. Our https://thecitadel.nostr1.com relay is set as the default, to ensure that you have at least one relay that is sure to work.
+Alexandria features an upload facility, for you to transform your well-formatted Asciidoc text to Nostr events and publish them to your preferred relays. 
 
-Simply make sure to structure the article content like so:
+Our https://thecitadel.nostr1.com relay is set as the default, to ensure that you have at least one relay that is sure to work. Later versions will feature more relay management possibilities.
+
+Make sure to structure the article content like so:
 
 [source,asciidoc]
 ----
@@ -55,26 +97,50 @@ more text
 
 ----
 
-If you have more information, available, you can include them in the standard Asciidoc header or in a preamble (that will be saved to a tag in the 30040 and displayed above the sections).
+If you have more information, available, you can include them in the standard Asciidoc header or in a preamble (that will be saved to a tag in the 30040 and displayed above the sections). Any text below the document header, but before the first section header, will be automatically moved to a preamble.
+
 Example:
 
+==== Aesop Example
+
 .Form for editing the Asciidoc
-image::https://image.nostr.build/73cee7c0bcaf8e1afa09f7ea85e7d4662cdb02c9097d304952c3543aca32c1e4.png[Edit form, 500]
+image::https://i.nostr.build/jddFZmfuCP2UHRFa.png[Edit form, 500]
 
 .Preview of the entered data
-image::https://image.nostr.build/50ecf75dc242af4491f103fda58db4d9294a6bc2ac93e266bab2bdec362be3fe.png[Preview of modular article, 500]
+image::https://i.nostr.build/TrVfUvZ7SG8lBz98.png[Preview of modular article, 500]
+
+==== Bible Example
+
+This example includes a `title-logo-image` tag, in the header, which doesn't display in the Compose or Reading views, but which is useful for other displays and which shall be included in any exported documents. **We are planning on supporting exporting the documents to PDF, ePUB, and LaTeX**, with Asciidoc as our standard format. We shall also eventually be rendering PlantUML diagrams.
+
+> We wish to aim our product at everyone creative or well-read, including: academics, authors, musicians, philosophers, designers, copywriters, engineers, and homemakers who love Jane Austin. 
+
+We are very pleased with the parsing and publishing possibilities that Asciidoctor offers us, so we will continue to use Asciidoc as our standard markup language. However, simple Markdown (headers, bold, italics, asterisk-style bullet points, etc.) is also parsed by Asciidoctor, so you can often import markdown documents as-is, or only changing image and table markup.
+
+.Form editing example
+image::https://i.nostr.build/W2IxOdVaz0liO8RN.png[Bible form, 500]
+
+.Compose example
+image::https://i.nostr.build/YaKSaSJHK01IA6Mg.png[Bible compose, 500]
+
+==== Uploading Documents
 
 Until this feature is completed, you can use the upload facility called https://gitworkshop.dev/r/naddr1qqxx2sn0da442arfd35hg7gpz4mhxue69uhhqatjwpkx2un9d3shjtnrdaksyg8ayz8w3j8jsduq492j39hysg7vnhrtl4zzqcugj4m3q62qlkf8cypsgqqqw7vs555whg[eBookUtility].
 
-=== Project repo
+Do not worry too much about the way that they are formatted, or having precisely perfect tags, as these are replaceable events and can be easily rewritten, after uploading. The most important part, is simply getting your reading material online, with the index and zettel structure spread to the various events.
+
+=== Visualization
+
+We're particularly excited about this upcoming module, where we will be offering a visual map of the events we manage, showing the relationships between the events (including, of course, distance, as per our [[NKBIP-02]] NUD specification). You will be able to explore the dataset through a node graph.
+
+== Project repo
 
 The project repo has been published to Nostr using Ngit and is viewable at https://gitworkshop.dev/r/naddr1qq9yzmr90pskuerjd9sszrthwden5te0dehhxtnvdakqyg8ayz8w3j8jsduq492j39hysg7vnhrtl4zzqcugj4m3q62qlkf8cypsgqqqw7vszahgpn/[GitWorkshop].
 
-The repo address is:
-nostr:naddr1qq9yzmr90pskuerjd9sszrthwden5te0dehhxtnvdakqyg8ayz8w3j8jsduq492j39hysg7vnhrtl4zzqcugj4m3q62qlkf8cypsgqqqw7vszahgpn
-
 === Software releases
 
-Please see the roadmap in the [[GitCitadel-Documentation]] for the estimated delivery of the next version.
+Please see the roadmap, on the [[GitCitadel-Documentation]] page, for more information about expected delivery dates.
 
-image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/master/plantUML/Alexandria/Alexandria_v1.png[Alexandria v1.0 Work Breakdown Structure, 700]
+For Alexandria features, refer to the https://github.com/ShadowySupercode/gitcitadel/blob/master/plantUML/Alexandria/Alexandria_v1.0_WBS.puml[Work Breakdown Structure]. Here is the left-side of the WBS, as a picture:
+
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/refs/heads/master/plantUML/Alexandria/Alexandria_v1.png[WBS Alexandria]

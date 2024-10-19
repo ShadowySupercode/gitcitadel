@@ -45,6 +45,7 @@ _The Authors._
 
 == CONTENTS
 
+....
   FOREWORD       4
   SAVE WHEAT: Reasons Why Our Government Asks Us to Save Wheat, with
           Practical Recipes for the Use of Other Grains       11
@@ -96,8 +97,12 @@ _The Authors._
     Save and Serve--Bread; Meat; Sugar; Fat; Milk; Vegetables
           120, 121
     Blank Pages for Recording Favorite Family Recipes      122
+....
 
-_The Recipes in this book have been examined and approved by the United States Food Administration_ _Illustrations furnished by courtesy of the United States Food Administration_
+[NOTE]
+====
+The Recipes in this book have been examined and approved by the United States Food Administration. Illustrations furnished by courtesy of the United States Food Administration
+====
 
 image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/refs/heads/master/eBooks/cookbook/11.png[audience, 300, float=right]
 
@@ -142,13 +147,13 @@ Potato flour or mashed potato can be used to extend the wheat, it being possible
 Graham and entire wheat flour also effect a saving of wheat because a larger percentage of the wheat berry is used. Graham flour is the whole kernel of wheat, ground. Entire wheat flour is the flour resulting from the grinding of all but the outer layer of wheat. A larger use of these coarser flours will therefore help materially in eking out our scant wheat supply as the percentage of the wheat berry used for bread flour is but 72 per cent. Breads made from these coarser flours also aid digestion and are a valuable addition to the dietary.
 
 In order to keep down waste by eliminating the poor batch of bread, it is necessary to understand the principles of bread-making. Fermentation is the basic principle of yeast bread, and fermentation is controlled by temperature. The yeast plant grows at a temperature from 70 to 90 degrees (Fahrenheit), and if care is taken to maintain this temperature during the process of fermentation, waste caused by sour dough or over-fermentation will be eliminated. When we control the temperature we can also reduce the time necessary for making a loaf of bread, or several loaves of bread as may be needed, into as short a period as three hours. This is what is known as the quick method. It not only saves time and labor, but, controlling the temperature, insures accurate results. The easiest way to control the temperature is to put the bowl containing the dough into another of slightly larger size containing water at a temperature of 90 degrees. The water of course should never be hot. Hot water kills the yeast plant. Cold water checks its growth. Cover the bowl and set it in the gas oven or fireless cooker or on the shelf of the coal range. As the water in the large bowl cools off, remove a cupful and add a cupful of hot water. At the end of one and one-half hours the dough should have doubled in bulk. Take it out of the pan and knead until the large gas bubbles are broken (about ten minutes). Then place in greased bread pans and allow to rise for another half hour. At the end of this time it will not only fill the pan, but will project out of it. Do not allow the dough to rise too high, for then the bread will have large holes in it. A good proportion as a general rule to follow, is:
-
+....
   3-1/2 cupfuls of flour (this includes added cereals)
   1 cupful of water or milk
   1/2 tablespoon shortening
   1-1/2 teaspoons salt
   1 cake of compressed yeast
-
+....
 [NOTE]
 ====
 In this recipe sugar has been omitted because of the serious shortage, but after the war a teaspoon of sugar should be added. The shortening, although small in quantity, may also be omitted.
@@ -172,4 +177,6 @@ The homemaker, too, will never regret her larger acquaintance with bread-making 
 
 image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/refs/heads/master/eBooks/cookbook/19.png[bread, 300, float=right]
 
-_To Conform to U.S. Food Administration Regulations During the War, Eliminate Fat and Sweetening in Breads--Whenever Fat Is Used, Use Drippings_
+[NOTE]
+====
+To Conform to U.S. Food Administration Regulations During the War, Eliminate Fat and Sweetening in Breads--Whenever Fat Is Used, Use Drippings

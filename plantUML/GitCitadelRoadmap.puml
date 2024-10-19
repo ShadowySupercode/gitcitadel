@@ -2,89 +2,54 @@
 
 skinparam dpi 300
 title GitCitadel Roadmap
+printscale weekly
 
 ' Gantt chart settings
-Project starts 2024-06-01
-today is 2024-10-18 and is colored in #AAF
+Project starts 2024-09-01
+today is 2024-10-19 and is colored in #AAF
 footer Today is marked using a gray verticle line
 
 ' Project vacations
 2024-12-21 to 2025-01-06 is closed
 
 ' GitCitadel project tasks
-[GitCitadel Jenkins, Gitlab, Wikistr, Njump instance] as [GC5] is colored in MediumPurple
-    [GC5] starts 2024-06-01
-    [GC5] ends 2024-12-20
-    [GC5] is 25% completed
-    [GC5] links to [[https://jenkins.gitcitadel.eu]]
-[GitCitadel ServerMonitoring instance] as [GC6] is colored in MediumPurple
-    [GC6] starts 2024-06-06
-    [GC6] requires 2 days
-    [GC6] is 80% completed
-    [GC6] links to [[https://gitlab.gitcitadel.eu/]]
-[GitCitadel Nostrbots] as [GC7] is colored in MediumPurple
-    [GC7] starts 2024-07-15
-    [GC7] requires 2 days
-    [GC7] is 80% completed
-    [GC7] links to [[https://wiki.gitcitadel.eu/]]
-[GitCitadel Sybil] as [GC8] is colored in MediumPurple
-    [GC8] starts 2024-07-15
-    [GC8] requires 2 days
-    [GC8] is 80% completed
-    [GC8] links to [[https://alexandria.gitcitadel.eu/]]
-[GitCitadel Alexandria instance] as [GC8] is colored in MediumPurple
-    [GC8] starts 2024-07-15
-    [GC8] requires 2 days
-    [GC8] is 80% completed
-    [GC8] links to [[https://alexandria.gitcitadel.eu/]]
+[GitCitadel Jenkins, Gitlab, Wikistr, Njump instance] as [GC1] is colored in MediumPurple
+    [GC1] starts 2024-06-01
+    [GC1] ends 2024-12-20
+    [GC1] is 25% completed
+ [GitCitadel ServerMonitoring] as [GC2] is colored in MediumPurple
+    [GC2] starts 2024-09-30
+    [GC2] ends 2024-10-17
+    [GC2] is 100% completed
+[GitCitadel Nostrbots] as [GC3] is colored in MediumPurple
+    [GC3] starts 2024-10-12
+    [GC3] ends 2024-10-26
+    [GC3] is 60% completed
+[GitCitadel Sybil] as [GC4] is colored in MediumPurple
+    [GC4] starts 2024-10-04
+    [GC4] ends 2024-10-31
+    [GC4] is 10% completed
 
 ' Alexandria product tasks
-[NKBIP-01 project definition and indextr and uploader prototypes] as [A1] is colored in Tan
-    [A1] starts 2023-11-17 and ends 2024-02-07 
-    [A1] is 100% completed
-    [A1] links to [[https://next.nostrudel.ninja/#/wiki/topic/nkbip-01]]
-[NKBIP-01 spec finalization] as [A2] is colored in Tan
-    [A2] starts at [A1]'s end
-    [A2] ends 2024-07-11
-    [A2] is 100% completed
-    [A2] links to [[https://next.nostrudel.ninja/#/wiki/topic/gc-alexandria]]
-[Alexandria uploader client v 1.0] as [A3] is colored in Tan
-    [A3] starts at 2024-07-05 and ends 2024-07-21
-    [A3] is 60% completed
-    [A3] links to [[https://gitworkshop.dev/r/naddr1qqxx2sn0da442arfd35hg7gpz4mhxue69uhhqatjwpkx2un9d3shjtnrdaksyg8ayz8w3j8jsduq492j39hysg7vnhrtl4zzqcugj4m3q62qlkf8cypsgqqqw7vs555whg/]]
-[Alexandria publishing Douay-Rheims Bible] as [A4] is colored in Tan
-    [A4] starts at 2024-06-24 and ends 2024-07-21
-    [A4] is 25% completed
-    [A4] links to [[https://habla.news/a/naddr1qvzqqqr4gupzphtxf40yq9jr82xdd8cqtts5szqyx5tcndvaukhsvfmduetr85ceqqxnzde38yerqdpexsmnyvekwpld9e]]
-[Alexandria webapp v 0.1.0] as [A5] is colored in Tan
-    [A5] starts at 2024-07-01 and ends 2024-07-38
-    [A5] is 80% completed
-    [A5] links to [[https://gitworkshop.dev/r/naddr1qq9yzmr90pskuerjd9sszrthwden5te0dehhxtnvdakqyg8ayz8w3j8jsduq492j39hysg7vnhrtl4zzqcugj4m3q62qlkf8cypsgqqqw7vszahgpn/]]
-[Alexandria webapp hosting] as [A7] is colored in Tan
-    [A7] starts at 2024-07-13
-    [A7] requires 2 days
-    [A7] is 10% complete
-    [A7] links to [[https://alexandria.gitcitadel.eu]]
-[Alexandria webapp test phase] as [A6] is colored in Tan
-    [A6] starts at [A5]'s end
-    [A6] requires 3 days
-    [A6] is 0% complete
-[Alexandria v 0.1.0] happens at [A6]'s end
 
-' Aedile NDK product tasks
-[Aedile NDK v 0.1.0] as [AN1] is colored in LightSalmon
-    [AN1] starts 2024-03-03
-    [AN1] ends 2024-09-30
-    [AN1] links to [[https://gitworkshop.dev/r/naddr1qq9xzetyd9kx2ttwv34sz9nhwden5te0wfjkccte9ehx7um5wghxyctwvspzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2yxcxuf0rvcx9eqvzqqqrhnyx4vq3c/]]
-[Aedile integration of Noscrypt library] as [AN2] is colored in LightSalmon
-    [AN2] starts at [AN1]'s start
-    [AN2] ends at [AN1]'s end
-    [AN2] links to [[https://www.vaughnnugent.com/Resources/Software/Modules/noscrypt]]
-    
-' GitRepublic product tasks
-[GitRepublic v 0.1.0] as [GR1] is colored in MediumVioletRed
-    [GR1] starts at [AN1]'s end
-    [GR1] ends 2025-01-12
-    [GR1] links to [[https://gitworkshop.dev/r/naddr1qq9xzetyd9kx2ttwv34sz9nhwden5te0wfjkccte9ehx7um5wghxyctwvspzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2yxcxuf0rvcx9eqvzqqqrhnyx4vq3c/]]
-    
+' v0.1.0
+[Alexandria v 0.1.0 internal] as [A1] happens at 2024-11-15
+[Alexandria publishing Douay-Rheims Bible] as [A2] is colored in Tan
+    [A2] starts at [A1]'s end
+    [A2] ends at 2024-11-17
+    [A2] is 90% completed
+[GitCitadel Alexandria instance] as [GC5] is colored in Tan
+    [GC5] starts 2024-12-01
+    [GC5] ends 2024-12-03
+    [GC5] is 20% completed
+[Alexandria webapp internal] as [A3] happens at [GC5]'s end
+[Alexandria webapp test] as [A4] is colored in Tan
+    [A4] starts at [A3]'s end
+    [A4] ends 2024-12-20
+    [A4] is 10% complete
+[Alexandria v 0.1.0 external] happens at [A4]'s end
+
+' v0.2.0
+[Alexandria v 0.2.0 kick off] as [A5] happens at 2024-01-11
+
 @endgantt

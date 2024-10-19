@@ -23,9 +23,7 @@ title Alexandria v 1.0 WBS
 *** Connect to relays <<pink>>
 **** Display global article feed <<pink>>
 **** Filter feeds by following/relay-global <<pink>>
-*** Login <<pink>>
-**** with browser extension <<pink>>
-**** with bunker <<pink>>
+*** Login with browser extension <<pink>>
 *** Asciidoctor integration <<lightpink>>
 **** Edit with preview <<pink>>
 **** Compose <<lightpink>>
@@ -33,15 +31,17 @@ title Alexandria v 1.0 WBS
 *** Reading view
 **** Table of Contents <<pink>>
 **** eBook format with 1 30040 to n 30041s <<pink>>
-**** implement svelte-asciidoc rendering
+**** implement Asciidoc rendering on existing events
 *** Visualization page <<lightpink>>
 **** reformat to new style <<pink>>
 **** add node graph
 *** About page <<lightpink>>
 **** reformat to new style <<pink>>
 ** v 0.2.0 Article management
-*** Handle more event types
+*** Login with bunker
+*** Handle rendering more event types
 **** Wiki pages
+***** deep links to wiki pages by address
 **** Articles (long-form)
 **** Comments (kind 1111) on indexes
 **** Highlights on Zettels

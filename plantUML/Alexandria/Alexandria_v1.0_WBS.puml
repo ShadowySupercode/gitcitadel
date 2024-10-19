@@ -23,16 +23,29 @@ title Alexandria v 1.0 WBS
 *** Connect to relays <<pink>>
 **** Display global article feed <<pink>>
 **** Filter feeds by following/relay-global <<pink>>
-*** Login with browser extension <<pink>>
-*** Upload, edit and compose NKBIP-01 articles <<lightpink>>
-*** eBook format with 1 30040 to n 30041s <<pink>>
-*** Graph visualization <<lightpink>>
+*** Login <<pink>>
+**** with browser extension <<pink>>
+**** with bunker <<pink>>
+*** Asciidoctor integration <<lightpink>>
+**** Edit with preview <<pink>>
+**** Compose <<lightpink>>
+**** Publish events to relay
+*** Reading view
+**** Table of Contents <<pink>>
+**** eBook format with 1 30040 to n 30041s <<pink>>
+**** implement svelte-asciidoc rendering
+*** Visualization page <<lightpink>>
+**** reformat to new style <<pink>>
+**** add node graph
+*** About page <<lightpink>>
+**** reformat to new style <<pink>>
 ** v 0.2.0 Article management
 *** Handle more event types
 **** Wiki pages
 **** Articles (long-form)
 **** Comments (kind 1111) on indexes
 **** Highlights on Zettels
+**** Kind 02 Hypernotes?
 **** Embedded links to other articles and Nostr addresses
 *** Relay management
 *** Profile pages and bookmarking

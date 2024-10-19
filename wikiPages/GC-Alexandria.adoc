@@ -133,6 +133,12 @@ Do not worry too much about the way that they are formatted, or having precisely
 
 We're particularly excited about this upcoming module, where we will be offering a visual map of the events we manage, showing the relationships between the events (including, of course, distance, as per our [[NKBIP-02]] NUD specification). You will be able to explore the dataset through a node graph.
 
+=== Remixing
+
+(This is a bit of preview.)
+In a later version, we are planning on supporting remixing of indexes, which will work something like this: 
+image::https://github.com/ShadowySupercode/gitcitadel/blob/master/wikiPages/EventRemixingDiagram.odg[Remixing]
+
 == Project repo
 
 The project repo has been published to Nostr using Ngit and is viewable at https://gitworkshop.dev/r/naddr1qq9yzmr90pskuerjd9sszrthwden5te0dehhxtnvdakqyg8ayz8w3j8jsduq492j39hysg7vnhrtl4zzqcugj4m3q62qlkf8cypsgqqqw7vszahgpn/[GitWorkshop].

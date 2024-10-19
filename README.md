@@ -10,6 +10,6 @@ All issues and bug reports for any product should be submitted to our [GitWorksh
 
 ## About Us
 
-Project documentation is available on the [GitCitadel wiki page](https://next.nostrudel.ninja/#/wiki/topic/gitcitadel).
+Project documentation is available on the [GitCitadel wiki page](https://wikistr.com/gitcitadel-project).
 
 The project repo address is nostr:naddr1qq9xw6t5vd5hgctyv4kqz9nhwden5te0wfjkccte9ehx7um5wghxyctwvspzplfq3m5v3u5r0q9f255fdeyz8nyac6lagssx8zy4wugxjs8ajf7pqvzqqqrhnycza0vr

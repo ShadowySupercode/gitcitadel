@@ -29,25 +29,33 @@ footer Today is marked using a gray verticle line
     [GC4] starts 2024-10-04
     [GC4] ends 2024-10-31
     [GC4] is 10% completed
+[GitCitadel Alexandria DevOps] as [GC5] is colored in MediumPurple
+    [GC5] starts 2024-09-01
+    [GC5] ends 2024-12-03
+    [GC5] is 25% completed
 
 ' Alexandria product tasks
 
 ' v0.1.0
-[Alexandria v 0.1.0 internal] as [A1] happens at 2024-11-15
-[Alexandria publishing Douay-Rheims Bible] as [A2] is colored in Tan
-    [A2] starts at [A1]'s end
-    [A2] ends at 2024-11-17
-    [A2] is 90% completed
-[GitCitadel Alexandria instance] as [GC5] is colored in Tan
-    [GC5] starts 2024-12-01
-    [GC5] ends 2024-12-03
-    [GC5] is 20% completed
-[Alexandria webapp internal] as [A3] happens at [GC5]'s end
-[Alexandria webapp test] as [A4] is colored in Tan
+[Alexandria dev] as [A1] is colored in Tan
+    [A1] starts at 2024-09-01
+    [A1] ends at 2024-11-15
+    [A1] is 75% completed
+[Alexandria test dev] as [A2] is colored in Tan
+    [A2] starts at 2024-10-01
+    [A2] ends at 2024-11-15
+    [A2] is 15% completed
+[Alexandria v 0.1.0 internal] as [A3] happens at [A1]'s end
+[Alexandria publishing Douay-Rheims Bible] as [A4] is colored in Tan
     [A4] starts at [A3]'s end
-    [A4] ends 2024-12-20
-    [A4] is 10% complete
-[Alexandria v 0.1.0 external] happens at [A4]'s end
+    [A4] ends at 2024-11-17
+    [A4] is 90% completed
+[Alexandria webapp internal] as [A5] happens at [GC5]'s end
+[Alexandria webapp test] as [A6] is colored in Tan
+    [A6] starts at [A5]'s end
+    [A6] ends 2024-12-20
+    [A6] is 10% complete
+[Alexandria v 0.1.0 external] happens at [A6]'s end
 
 ' v0.2.0
 [Alexandria v 0.2.0 kick off] as [A5] happens at 2024-01-11

@@ -3,11 +3,11 @@ C. Houston Goudiss and Alberta M. Goudiss
 :description: any
 1.0, 1918: Home Economics Archive 
 
-image::1.png[save, 300, float=left]
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/refs/heads/master/eBooks/cookbook/1.png[save, 300, float=left]
 
-image::2.png[food, 300]
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/refs/heads/master/eBooks/cookbook/2.png[food, 300]
 
-image::3.png[flag, 50, float=left]
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/refs/heads/master/eBooks/cookbook/3.png[flag, 50, float=left]
 
 FOODS THAT WILL WIN THE WAR
 AND
@@ -25,7 +25,7 @@ Copyright 1918 by THE FORECAST PUBLISHING CO.
 _All rights reserved, including the translation into foreign
 languages, including the Scandinavian._
 
-image::5.png[eat less, 300, float=left]
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/refs/heads/master/eBooks/cookbook/5.png[eat less, 300, float=left]
 
 == FOREWORD
 
@@ -99,7 +99,7 @@ _The Authors._
 
 _The Recipes in this book have been examined and approved by the United States Food Administration_ _Illustrations furnished by courtesy of the United States Food Administration_
 
-image::11.png[audience, 300, float=right]
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/refs/heads/master/eBooks/cookbook/11.png[audience, 300, float=right]
 
 All the recipes in this book have been prepared and used in The School of Modern Cookery conducted by _The Forecast Magazine_ and have been endorsed by the U.S. Food Administration. They have been worked out under the direction of Grace E. Frysinger, graduate in Domestic Science of Drexel Institute, of Philadelphia, and the University of Chicago. Miss Frysinger, who has had nine years' experience as a teacher of Domestic Science, has earnestly used her skill to make these recipes practical for home use, and at the same time accurate and scientific.
 
@@ -107,7 +107,7 @@ The above illustration shows a class at the School of Modern Cookery. These clas
 
 == FOODS THAT WILL WIN THE WAR
 
-image::13.png[wheat, 300, float=left]
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/refs/heads/master/eBooks/cookbook/13.png[wheat, 300, float=left]
 
 === SAVE WHEAT
 
@@ -149,7 +149,10 @@ In order to keep down waste by eliminating the poor batch of bread, it is necess
   1-1/2 teaspoons salt
   1 cake of compressed yeast
 
-  _In this recipe sugar has been omitted because of the serious shortage, but after the war a teaspoon of sugar should be added. The shortening, although small in quantity, may also be omitted._
+[NOTE]
+====
+In this recipe sugar has been omitted because of the serious shortage, but after the war a teaspoon of sugar should be added. The shortening, although small in quantity, may also be omitted.
+====
 
 These materials make a loaf of about one pound, which should be baked in forty to fifty minutes at a temperature of 450 degrees (Fahrenheit). Allow a little longer time for bread containing oatmeal or other grains. Such breads require a little longer baking and a little lower temperature than wheat breads. If you do not use a thermometer in testing your oven, place a piece of paper on the center shelf, and if it browns in two minutes your oven is right. If a longer period for raising is allowed than is suggested in the above recipe, the yeast proportion should be decreased. For overnight bread use one-quarter yeast cake per loaf; for six-hour bread, use one-half yeast cake per loaf; for three-hour bread, use one yeast cake per loaf. In baking, the time allowed should depend on the size of the loaf. When baked at a temperature of 450 degrees, large loaves take from forty-five to sixty minutes, small loaves from thirty to forty minutes, rolls from ten to twenty minutes.
 
@@ -167,6 +170,6 @@ A family which has eaten oatmeal or entire wheat bread will never again be satis
 
 The homemaker, too, will never regret her larger acquaintance with bread-making materials, as the greater variety of breads that she will find herself able to produce will be a source of pleasure and keen satisfaction.
 
-image::19.png[bread, 300, float=right]
+image::https://raw.githubusercontent.com/ShadowySupercode/gitcitadel/refs/heads/master/eBooks/cookbook/19.png[bread, 300, float=right]
 
 _To Conform to U.S. Food Administration Regulations During the War, Eliminate Fat and Sweetening in Breads--Whenever Fat Is Used, Use Drippings_

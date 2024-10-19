@@ -137,7 +137,8 @@ We're particularly excited about this upcoming module, where we will be offering
 
 (This is a bit of preview.)
 In a later version, we are planning on supporting remixing of indexes, which will work something like this: 
-image::https://github.com/ShadowySupercode/gitcitadel/blob/master/wikiPages/EventRemixingDiagram.odg[Remixing]
+
+image::https://image.nostr.build/100063f24c09d7a22ff102446eb419fb61f91446423e88fe8a57e98a4d7b44ed.png[Remixing]
 
 == Project repo
 

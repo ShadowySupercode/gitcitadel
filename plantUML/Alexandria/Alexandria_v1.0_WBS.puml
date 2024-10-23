@@ -23,10 +23,13 @@ title Alexandria v 1.0 WBS
 *** Connect to relays <<pink>>
 **** Display global article feed <<pink>>
 **** Filter feeds by following/relay-global <<pink>>
-*** Login with browser extension <<pink>>
+*** Login with browser extension <<lightpink>>
+**** Login <<pink>>
+**** Logoff
 *** Asciidoctor integration <<lightpink>>
 **** Edit with preview <<pink>>
 **** Compose <<lightpink>>
+**** Handle document title and section headers <<lightpink>>
 **** Publish events to relay
 *** Reading view
 **** Table of Contents <<pink>>
@@ -35,10 +38,13 @@ title Alexandria v 1.0 WBS
 *** Visualization page <<lightpink>>
 **** reformat to new style <<pink>>
 **** add node graph
-*** About page <<lightpink>>
-**** reformat to new style <<pink>>
+*** About page reformat to new style <<pink>>
 ** v 0.2.0 Article management
 *** Login with bunker
+*** Caching and recovery-cookies
+*** Handle Asciidoc metadata
+**** optional fields/tags
+**** stylesheets
 *** Handle rendering more event types
 **** Wiki pages
 ***** deep links to wiki pages by address

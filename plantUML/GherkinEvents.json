@@ -1,0 +1,21 @@
+{
+    "feature": {
+        "kind": 30620,
+        "content": "human-readable feature description",
+        "tags": [
+            ["d", "feature:<name>:<repo-id>"],
+            ["a", "30617:<base-repo-owner-pubkey>:<base-repo-id>"],
+            ["name", "human-readable feature name"]
+        ]
+    },
+    "scenario": {
+        "kind": 30621,
+        "content": "scenario text, according to the Gherkin structure",
+        "tags": [
+            ["d", "scenario:<name>:<repo-id>"],
+            ["feature", "d-tag of the feature this scenario is in"],
+            ["issues","array of related issue (kind 1621) IDs"],
+            ["name", "human-readable scenario name"]
+        ]
+    }
+}

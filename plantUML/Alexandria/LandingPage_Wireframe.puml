@@ -1,0 +1,22 @@
+@startuml Alexandria Landing Page
+salt
+{+
+    Newest, from your follows
+    {+
+    [  Book 1  ] | [  Book 2   ]  | [  Book 3   ]
+    [  Book 4  ] | [  Book 5   ]  | [  Book 6   ]
+    }
+
+    Recommendations, from your relays
+    {+
+    [  Book 1  ] | [  Book 2   ]  | [  Book 3   ]
+    [  Book 4  ] | [  Book 5   ]  | [  Book 6   ]
+    }
+
+    Community events, from TheForest
+    {+
+    [  Book Club  ] | [  Book 2   ]  | [  Commentary   ]
+    [  Book 4  ] | [  Meet the Author   ]  | [  Book 6   ]
+    }
+}
+@enduml

@@ -1,4 +1,4 @@
-@startuml Nostrbots Deployment
+@startuml Nostrbots Use Case
 
 skinparam dpi 300
 title How Nostrbots works

@@ -1,0 +1,61 @@
+@startuml Nostrbots Class Diagram
+
+class Relay {
+
+  + relays : array
+  + category : string
+  
+  + get_relay_list()
+  - check_relays()  
+  - get_active_relays()
+  - get_hardcoded_relay()
+  
+}
+
+abstract Bot {
+
+  + env : string
+  + name : string
+  + tags : array
+  + content : string
+  + kind : int
+  + includeAlert : bool
+
+  + get_settings()
+  + get_tags()
+  # {abstract} publish_note()
+
+}
+
+class ArticleBot {
+
+  + publish_note()
+
+}
+
+class NotificationBot {
+
+  + publish_note()
+  
+}
+
+class CommentBot {
+
+  + publish_note()
+
+}
+
+class Npub {
+
+  + keySet : object
+  + get_new_key()
+  + get_key_set()
+  + check_var_set()
+  + print_npub()
+
+}
+Bot <|-- ArticleBot
+Bot <|-- CommentBot
+Bot <|-- NotificationBot
+
+@enduml

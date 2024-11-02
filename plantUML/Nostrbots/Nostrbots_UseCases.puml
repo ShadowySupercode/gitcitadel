@@ -1,0 +1,23 @@
+@startuml Nostrbots Deployment
+
+skinparam dpi 300
+title How Nostrbots works
+
+left to right direction
+actor BotCreator as bc
+
+package Files {
+  usecase "article_content" as ac
+  usecase "article_data" as ad
+  usecase "jenkinsfile" as jf
+}
+
+package Deployment {
+  usecase "setup Jenkins build" as jb
+}
+
+bc --> Files : edit the files
+Files --> Deployment : deploy the system
+
+
+@enduml

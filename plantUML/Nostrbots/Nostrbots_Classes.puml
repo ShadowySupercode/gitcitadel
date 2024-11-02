@@ -58,4 +58,7 @@ Bot <|-- ArticleBot
 Bot <|-- CommentBot
 Bot <|-- NotificationBot
 
+Relay - Bot : has <
+Bot - Npub : has >
+
 @enduml

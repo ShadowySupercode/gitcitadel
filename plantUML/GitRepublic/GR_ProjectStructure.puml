@@ -1,4 +1,4 @@
-@startmindmap GR Mind Map
+@startmindmap GR Project Structure
 title GitRepublic Project Structure
 
 * Project
@@ -7,6 +7,21 @@ title GitRepublic Project Structure
 *** Wiki Pages
 *** Articles
 *** Release Notes
+** Repos
+*** Repo event 1
+*** Repo event 2
+*** Repo event 3
+** Team
+*** Admins
+**** npub1
+*** Collaborators
+**** npub2
+**** npub3
+**** npub4
+**** npub5
+*** Reviewers
+**** npub6
+**** npub7
 ** Planning
 *** Epic MVP
 **** Feature 1

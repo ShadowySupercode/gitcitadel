@@ -1,0 +1,34 @@
+@startmindmap GR Mind Map
+title GitRepublic Project Structure
+
+* Project
+** Documentation
+*** User Manual
+*** Wiki Pages
+*** Articles
+*** Release Notes
+** Planning
+*** Epic MVP
+**** Feature 1
+***** Scenario 1
+***** Scenario 2
+***** Scenario 3
+****** Issue 1
+***** Scenario 4
+**** Feature 2
+***** Scenario 1
+***** Scenario 2
+**** Feature 3
+***** Scenario 1
+***** Scenario 2
+****** Issue 2
+****** Issue 3
+***** Scenario 3
+*** Epic Video
+**** Feature 1
+***** Scenario 1
+**** Feature 2
+***** Scenario 1
+***** Scenario 2
+
+@endmindmap
